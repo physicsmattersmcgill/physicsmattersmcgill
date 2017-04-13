@@ -2,10 +2,13 @@
 layout: page
 title: "About Us"
 subheadline: "Physics Outreach from McGill to the Community"
-teaser: "Our Mission"
+teaser: About our mission and our team
 permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
+## Our Mission
+Add text
 
-A text that says how strongly the department feels about outreach.
+## Our Team
+Thanks to all our volunteers!

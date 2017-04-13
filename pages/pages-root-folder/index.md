@@ -11,12 +11,12 @@ widget1:
   title: "Public Lectures"
   url: "{{ site.baseurl }}/lectures/"
   image: public_lecture.jpg
-  text: 'Join us for cutting edge science! At 7pm on (usually) the first Thursday of each month, the Physics Matters Outreach group hosts lectures about exciting new developments in physics. This event is free of charge and no registration is required. Seats are assigned on a first come first come basis.'
+  text: 'Join us for cutting edge science! These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!'
 widget2:
   title: "Space Explorers"
   url: "{{ site.baseurl }}/space-explorers/"
   image: collisions_top_kids.jpg
-  text: 'The Space Explorers program is a way for kids to explore 5 physics concepts in fun, self-contained, and hands-on modules.'
+  text: 'The Space Explorers program is a way for kids to explore physics concepts in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities and experiments.
 widget3:
   title: "And much more!"
   url: "{{ site.baseurl }}"
