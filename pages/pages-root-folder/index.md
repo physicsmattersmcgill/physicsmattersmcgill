@@ -16,7 +16,11 @@ widget2:
   title: "Space Explorers"
   url: "{{ site.baseurl }}/space-explorers/"
   image: collisions_top_kids.jpg
+<<<<<<< HEAD
   text: 'The Space Explorers program is a way for kids to explore physics concepts in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities and experiments.'
+=======
+  text: 'The Space Explorers program is a way for kids to explore physics concepts in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities and experiments.
+>>>>>>> 29fdb439e39d7503fb840c511db0f65a3a0d43f7
 widget3:
   title: "And much more!"
   url: "{{ site.baseurl }}"
