@@ -6,25 +6,25 @@
   {% if event-time-seconds >= now-unix-seconds %}
     {% if counter == 0 %}
       {% assign counter = 1 %}
-      {% assign next-event-thumb = event.image.title %}
+			{% assign this-event = event %}
       {% assign next-event-time = event-time-seconds %}
-			{% assign next-event-title = event.title %}
-			{% assign next-event-text = event.meta_description %}
     {% elsif event-time-seconds <= next-event-time %}
-      {% assign next-event-image = event.image.title %}
+			{% assign this-event = event %}
       {% assign next-event-time = event-time-seconds %}
-			{% assign next-event-title = event.title %}
-			{% assign next-event-text = event.meta_description %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
+{% assign next-event-image = this-event.image.title %}
+{% assign next-event-time = event-time-seconds %}
+{% assign next-event-title = this-event.title %}
+{% assign next-event-text = this-event.meta_description %}
+
 <div class="medium-4 columns frontpage-widget">
-	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
-	<a href="{{ widget_url }}">
-		{% if next-event-thumb %}
-				{% capture widget_image %}{% if next-event-thumb contains 'http' %}{{ next-event-thumb }}{% else %}{{ site.urlimg }}{{ next-event-thumb }}{% endif %}{% endcapture %}
-				<img src="{{widget_image}}" alt="" />
+	<a href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">
+		{% if next-event-image %}
+			{% capture widget_image %}{% if next-event-image contains 'http' %}{{ next-event-image }}{% else %}{{ site.urlimg }}{{ next-event-image }}{% endif %}{% endcapture %}
+			<img src="{{ widget_image }}" alt="" />
 		{% endif %}
 		</a>
 	<h2 class="font-size-h3 t10">Join us at our next event!</h2>

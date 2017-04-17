@@ -1,9 +1,8 @@
 <div class="medium-4 columns frontpage-widget">
-	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% if include.widget.video %}
 		{{ include.widget.video }}
 	{% else %}
-		<a href="{{ widget_url }}">
+		<a href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">
 			{% if include.widget.image %}
 				{%comment%}TODO lazy loading{%endcomment%}
 				{%comment%}<img class="lazy" data-src="{% if include.widget.image contains='http://' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}" alt="" />{%endcomment%}
