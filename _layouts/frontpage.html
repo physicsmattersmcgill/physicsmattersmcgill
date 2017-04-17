@@ -28,6 +28,8 @@ format: frontpage
 
 	{% if page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
+  {% elsif page.widget3.event == true %}
+    {% include _frontpage-widget-events.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
 

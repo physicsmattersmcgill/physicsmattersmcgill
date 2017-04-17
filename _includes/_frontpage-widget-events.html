@@ -1,0 +1,33 @@
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% assign counter = 0 %}
+
+{% for event in site.events %}
+  {% capture event-time-seconds %}{{ event.event-date | date: '%s' }}{% endcapture %}
+  {% if event-time-seconds >= now-unix-seconds %}
+    {% if counter == 0 %}
+      {% assign counter = 1 %}
+      {% assign next-event-thumb = event.image.title %}
+      {% assign next-event-time = event-time-seconds %}
+			{% assign next-event-title = event.title %}
+			{% assign next-event-text = event.meta_description %}
+    {% elsif event-time-seconds <= next-event-time %}
+      {% assign next-event-image = event.image.title %}
+      {% assign next-event-time = event-time-seconds %}
+			{% assign next-event-title = event.title %}
+			{% assign next-event-text = event.meta_description %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<div class="medium-4 columns frontpage-widget">
+	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+	<a href="{{ widget_url }}">
+		{% if next-event-thumb %}
+				{% capture widget_image %}{% if next-event-thumb contains 'http' %}{{ next-event-thumb }}{% else %}{{ site.urlimg }}{{ next-event-thumb }}{% endif %}{% endcapture %}
+				<img src="{{widget_image}}" alt="" />
+		{% endif %}
+		</a>
+	<h2 class="font-size-h3 t10">Join us at our next event!</h2>
+	<p><b>{{ next-event-title }}:</b> {{ next-event-text }}
+	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+</div>

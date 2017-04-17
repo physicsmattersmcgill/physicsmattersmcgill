@@ -9,19 +9,17 @@ header:
   image_fullwidth: collisions_top_kids.jpg
 widget1:
   title: "Public Lectures"
-  url: "{{ site.baseurl }}/lectures/"
+  url: "{{ site.url }}{{ site.baseurl }}/lectures/"
   image: public_lecture.jpg
   text: 'Join us for cutting edge science! These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!'
 widget2:
   title: "Space Explorers"
-  url: "{{ site.baseurl }}/space-explorers/"
+  url: "{{ site.url }}{{ site.baseurl }}/space-explorers/"
   image: collisions_top_kids.jpg
   text: 'The Space Explorers program is a way for kids to explore physics concepts in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
 widget3:
-  title: "And much more!"
-  url: "{{ site.baseurl }}"
-  image: widget-github-303x182.jpg
-  text: 'blah blah blah'
+  event: true
+  text: 'Join us for our upcoming events!'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,10 +41,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
