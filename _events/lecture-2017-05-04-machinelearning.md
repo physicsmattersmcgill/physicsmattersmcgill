@@ -9,7 +9,7 @@ event-date: 2017-05-04 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: lecture-machinelearning.jpg
-    thumb: lecture-machinelearning.jpg
+    thumb: thumb_lecture-machinelearning.jpg
 type: lecture
 tags:
   - machine learning

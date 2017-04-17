@@ -10,7 +10,7 @@ event-date: 2017-03-02 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: kildea_talk.jpg
-    thumb: kildea_talk.jpg
+    thumb: thumb_kildea_talk.jpg
 type: lecture
 tags:
   - medical physics

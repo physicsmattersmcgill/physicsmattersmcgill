@@ -10,7 +10,7 @@ event-date: 2017-01-05 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: maloney.jpg
-    thumb: maloney.jpg
+    thumb: thumb_maloney.jpg
 type: lecture
 tags:
   - black holes

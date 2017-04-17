@@ -10,7 +10,7 @@ event-date: 2017-02-02 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: watson_nrays.jpg
-    thumb: watson_nrays.jpg
+    thumb: thumb_watson_nrays.jpg
 type: lecture
 tags:
   - ethics
