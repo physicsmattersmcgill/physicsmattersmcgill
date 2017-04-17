@@ -10,29 +10,20 @@
   url: "/educators/"
   side: left
   dropdown:
-  - title: "School visits"
+  - title: "Visits to your classroom"
     url: "/school-programs/"
-  - title: "Teacher training"
+  - title: "Physics for Teachers"
     url: "/teacher-training/"
-  - title: "Group visits to McGill"
+  - title: "Visit us at McGill"
     url: "/visit-department/"
-  - title: "Other partners"
-    url: "/partners/"
 
 - title: "Public Lectures"
   url: "/lectures/"
   side: left
 
-- title: Our Team
-  url: "/team/"
+- title: Our Activities
+  url: "/activities/"
   side: left
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
