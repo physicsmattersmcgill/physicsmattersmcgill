@@ -3,7 +3,7 @@ layout: event
 #
 # Content
 #
-title: Why the Warming Can't Be Natural: The Nonlinear Physics of Climate Closure
+title: "Why the Warming Can't Be Natural: The Nonlinear Physics of Climate Closure"
 speaker: Prof. Shaun Lovejoy (McGill)
 speaker_url: http://www.physics.mcgill.ca/~gang/Lovejoy.htm
 event-date: 2016-03-10 19:00

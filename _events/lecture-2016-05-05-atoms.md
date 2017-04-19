@@ -3,7 +3,7 @@ layout: event
 #
 # Content
 #
-title: In Awe of Atoms: Lego Blocks of the World around Us
+title: "In Awe of Atoms: Lego Blocks of the World around Us"
 speaker: Prof. Mark Sutton (McGill)
 speaker_url:
 event-date: 2016-05-05 19:00

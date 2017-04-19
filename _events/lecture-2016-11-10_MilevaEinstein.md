@@ -4,7 +4,7 @@ layout: event
 # Content
 #
 title: "The Tragic Destiny of Mileva Marić Einstein"
-speaker: "Prof. Peter Grutter (McGill U.)"
+speaker: "Pauline Gagnon"
 speaker_url: http://paulinegagnon3.wixsite.com/boson-in-winter
 event-date: 2016-11-10 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"

@@ -11,7 +11,7 @@ location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill U
 image:
     title: lecture_grutter.jpg
     thumb: thumb_lecture_grutter.jpg
-    caption: image credit: S. Burke, J. Mativetsky, P. Grutter, 2004
+    caption: "image credit: S. Burke, J. Mativetsky, P. Grutter, 2004"
 type: lecture
 tags:
   - nanotechnology
