@@ -10,7 +10,7 @@ event-date: 2016-03-10 19:00
 location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: multifractal.png
-    thumb: thumb_multifractal.jpg
+    thumb: thumb_multifractal.png
 type: lecture
 tags:
   - nonlinear physics
