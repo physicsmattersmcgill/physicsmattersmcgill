@@ -15,9 +15,8 @@ widget1:
   text: 'Join us for cutting edge science! These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!'
 widget2:
   title: "Space Explorers"
-  url: "{{ site.baseurl }}/space-explorers/"
+  url: "/space-explorers/"
   image: collisions_top_kids.jpg
-  caption: "Image credit: Gabriel Kocher (2015)"
   text: 'The Space Explorers program is a way for kids to explore physics in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
 widget3:
   title: "And much more!"
