@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: collisions_top_kids.jpg
+  caption: "Image credit: Gabriel Kocher (2015)"
 widget1:
   title: "Public Lectures"
   url: "{{ site.baseurl }}/lectures/"
@@ -16,7 +17,8 @@ widget2:
   title: "Space Explorers"
   url: "{{ site.baseurl }}/space-explorers/"
   image: collisions_top_kids.jpg
-  text: 'The Space Explorers program is a way for kids to explore physics concepts in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
+  caption: "Image credit: Gabriel Kocher (2015)"
+  text: 'The Space Explorers program is a way for kids to explore physics in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
 widget3:
   title: "And much more!"
   url: "{{ site.baseurl }}"
