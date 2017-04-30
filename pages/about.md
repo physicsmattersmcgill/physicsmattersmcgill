@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 ## Our Mission
-Add text
+The outreach group in the Department of Physics at McGill University aims to communicate the excitement and fascination of physics to the public, students, and other interested groups in our community.
 
 ## Our Team
-Thanks to all our volunteers!
+Thanks to all our dedicated volunteers!
