@@ -10,3 +10,5 @@ permalink: "/educators/"
 ---
 
 Under Construction
+
+Our volunteers facilitate fun and interactive activities in classrooms, summer camps, and more.
