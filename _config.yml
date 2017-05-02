@@ -6,7 +6,6 @@
 #    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
-#
 # Title of your website
 title: 'Physics Matters McGill'
 
@@ -24,7 +23,7 @@ email: "outreach@physics.mcgill.ca"
 
 # Main author of the website
 # See > authors.yml
-author: adasilva
+author: adasilva, achuinar
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -85,7 +84,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-
+    - [ 'Gemfile*', '_site/', '.code-highlighter-cache' ]
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
