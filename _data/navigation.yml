@@ -20,9 +20,18 @@
 - title: "Public Lectures"
   url: "/lectures/"
   side: left
+  dropdown:
+  - title: "Physics Matters series"
+    url: "/lectures/"
+  - title: "Anna I. McPherson series"
+    url: "/mcpherson/"
 
 - title: Our Activities
   url: "/activities/"
+  side: left
+
+- title: Partners
+  url: "/partners/"
   side: left
 
 - title: "Search"
