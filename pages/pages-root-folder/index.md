@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Public Lectures"
   url: "/lectures/"
-  image: public_lecture.jpg
+  image: lecture_hall_empty.jpg
   text: 'Join us for cutting edge science! These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!'
 widget2:
   title: "Space Explorers"
