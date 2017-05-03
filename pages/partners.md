@@ -11,4 +11,4 @@ links:
 permalink: "/partners/"
 ---
 
-{% include link_gallery %}
+{% include logo_blocks %}
