@@ -5,11 +5,19 @@
 			The Physics Matters (“La physique dans toutes ses états”) outreach group in the McGill Department of Physics presents the Physics Matters public lecture series!  These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!
 		</p>
 		<p>
-			The lectures are held at 7pm, usually on the first Thursday of each month.We will explore nanotechnology, high energy particle physics, nonlinear physics, biophysics, and more!
+			The lectures are held at 7pm, usually on the first Thursday of each month. We will explore nanotechnology, high energy particle physics, nonlinear physics, biophysics, and more!
 		</p>
 		<p>
 			This event is free of charge and no registration is required. Seats are assigned on a first come first serve basis.
 		</p>
+
+    <p>
+		  <ul class="inline-list social-icons">
+		    {% for social_item in site.data.socialmedia %}
+			    <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+		    {% endfor %}
+	    </ul>
+	  </p>
 	</div>
 
 </aside>
