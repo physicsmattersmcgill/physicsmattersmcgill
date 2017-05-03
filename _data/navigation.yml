@@ -26,12 +26,8 @@
   - title: "Anna I. McPherson series"
     url: "/mcpherson/"
 
-- title: Our Activities
-  url: "/activities/"
-  side: left
-
-- title: Hackathon
-  url: "http://www.physics.mcgill.ca/hackathon2017/"
+- title: Events
+  url: "/events/"
   side: left
 
 - title: Partners
