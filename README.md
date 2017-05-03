@@ -16,7 +16,7 @@ Images to be used as thumbnails should be sized to be 150x150 pixels and start w
 New events are added as elements of a jekyll collection - this is called the events collection. Each event has its own markdown file (extension: `.md`) in the `_events` folder which marks it as part of the collection.
 
 ## Naming convention for the markdown files
-For a public lecture, start the event with `lecture-`. For all events, please include the date as part of the name of the file using the format `YYYY-MM-DD`.  For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`.
+For a Physics Matters public lecture, start the event with `lecture-`. For all events, please include the date as part of the name of the file using the format `YYYY-MM-DD`.  For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`. Note that the McPherson lecturs should not be in this category, since they are another program, and have their own page.
 
 Each of the events has frontmatter which will help define it as an event and make sure the style and formatting is consistent on the website. The frontmatter is in between the three dashes (`---` both above and below). Here is the frontmatter for an event (comments after `#` are ignored by jekyll and are there to explain the field)
 ```
@@ -45,3 +45,11 @@ Each of the events has frontmatter which will help define it as an event and mak
   mediaplayer: false
   ```
   Finally, add a description of the event in the markdown file. Feel free to use any markdown styling (see examples.)
+
+# Adding new Partners
+The partners.md file contains links to partners. These should be added as a list in the frontmatter. Each partner must include a link, and may include either a logo or text. It could also include both (useful in cases where the logo doesn't include the name of the group/partner.) Each new partner gets a new `-` in the `links` list. For example,
+```
+links:
+  - url: http://www.astro.physics.mcgill.ca/outreach.php
+    logo: partnerlogo_AstroMcGill.png
+```
