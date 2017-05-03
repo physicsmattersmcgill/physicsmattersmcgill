@@ -30,6 +30,10 @@
   url: "/activities/"
   side: left
 
+- title: Hackathon
+  url: "http://www.physics.mcgill.ca/hackathon2017/"
+  side: left
+
 - title: Partners
   url: "/partners/"
   side: left
