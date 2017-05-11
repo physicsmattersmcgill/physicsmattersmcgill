@@ -1,11 +1,28 @@
 ---
-layout: page
-title: "Upcoming Events"
+layout: frontpage
+title: "Events"
 teaser: ""
 permalink: "/events/"
 header:
-  image_fullwidth: "header_unsplash_8.jpg"
+  image_fullwidth: "20170504_lecture_2.jpg"
+widget1:
+  title: "Public Lectures"
+  url: "/lectures/"
+  image: 20170504_lecture_2.jpg
+  text: 'The physics department hosts a variety of public lectures, including the monthly Physics Matters lecture series, monthly public Astro Night (hosted by AstroMcGill, a subgroup of the physics outreach group), and the yearly Anna McPherson lecture series.'
+widget2:
+  title: "Physics Hackathon"
+  url: "http://www.physics.mcgill.ca/hackathon2017/"
+  image: hackathon.jpg
+  text: 'Under Construction'
+widget3:
+  title: "Under construction"
+  url: "/"
+  image: lecture_hall_empty.jpg
+  text: 'Under construction'
 ---
+<h1> Upcoming Events</h1>
+
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
   {% for event in site.events %}
