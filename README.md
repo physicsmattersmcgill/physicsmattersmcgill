@@ -8,15 +8,19 @@ The data for the navigation menu (page names, what goes in each menu) goes in th
 To make a new page, add a new markdown file under the `pages/` folder. See existing pages for examples and the front matter to use.
 
 # Images  
-Any images used on the site should be in the images folder.
+Any images used on the site should be added to the `physics-matters/images` folder on the physics department server. Please do not put pictures for the website on github.
 
-Images to be used as thumbnails should be sized to be 150x150 pixels and start with `thumb_`.
+Images to be used as thumbnails should be sized to be 150x150 pixels. (Try to make the image as square as possible so that the event list looks consistent. If you really need a rectangular image, then set the width to 150 pixels, and the height can be a little flexible.) It is convenient if the filename for thumbnail images starts or ends with `thumb` so that it is easy to tell which are small thumbnail images and therefore should not be used for larger slots on the website.
+
+For very large images, it may be useful to scale down the size for the version shown on the website. Although this reduces the quality, it will help the page load faster.
 
 # Adding an event
 New events are added as elements of a jekyll collection - this is called the events collection. Each event has its own markdown file (extension: `.md`) in the `_events` folder which marks it as part of the collection.
 
 ## Naming convention for the markdown files
-For a Physics Matters public lecture, start the event with `lecture-`. For all events, please include the date as part of the name of the file using the format `YYYY-MM-DD`.  For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`. Note that the McPherson lecturs should not be in this category, since they are another program, and have their own page.
+To help things stay organized: for all events, please include the date as first part of the file name using the format `YYYY-MM-DD`.
+
+For a Physics Matters public lecture, start the event with `lecture-`. For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`. Note that the McPherson lectures should not be in this category, since they are another program, and have their own page.
 
 Each of the events has frontmatter which will help define it as an event and make sure the style and formatting is consistent on the website. The frontmatter is in between the three dashes (`---` both above and below). Here is the frontmatter for an event (comments after `#` are ignored by jekyll and are there to explain the field)
 ```
@@ -53,3 +57,14 @@ links:
   - url: http://www.astro.physics.mcgill.ca/outreach.php
     logo: partnerlogo_AstroMcGill.png
 ```
+
+# Testing a local copy of the website
+You can test the site locally by running
+```
+$ jekyll serve
+```
+This will still look for the images at the specified location on the department server as defined in `_config.yml`. If you want to temporarily use a local images folder, you can temporarily use a different configuration file:
+```
+$ jekyll serve --config _config_dev.yml
+```
+This configuration file uses a local folder to look for images. You may need to grab all the images from the department server in order to fully test the website locally.

@@ -10,12 +10,12 @@
   url: "/educators/"
   side: left
   dropdown:
+  - title: "Visit us at McGill"
+    url: "/visit-department/"
   - title: "Visits to your classroom"
     url: "/school-programs/"
   - title: "Physics for Teachers"
     url: "/teacher-training/"
-  - title: "Visit us at McGill"
-    url: "/visit-department/"
 
 - title: "Public Lectures"
   url: "/lectures/"
