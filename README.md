@@ -26,15 +26,16 @@ Each of the events has frontmatter which will help define it as an event and mak
 ```
   layout: event
   title: Event Title
-  meta_description: Short description that goes on the event listing page. #Do NOT use the full abstract - it is too long! Break up the title if it's long, use 1-2 sentences from the abstract, or just delete this line.
+  meta_description: Short description that goes on the event listing page. Note: Do NOT use the full abstract - it is too long! Break up the title if it's long and/or use 1-2 sentences from the abstract.
   speaker: Speaker Name (Affiliation of Speaker)
-  speaker_url: website_URL #delete or comment this line if no website
+  speaker_url: website_URL #delete this line if no website
   event-date: YYYY-MM-DD HH:MM  #date of the event - the format is important!
   location: the Keys Auditorium (Rutherford Physics Building, room 112), McGill University  #this will probably be the same for all lectures
   image:
-      title: filename_of_title_image #This image goes at the top of the page
-      thumb: filename_of_thumbnail #This should be a 150x150 px thumbnail
-      caption: Image from ... #add image credit here, or delete this line
+  image:
+      title: lecture_hall_empty.jpg #Use this as default if no image is given
+      thumb: thumb_lecture_hall_empty.jpg #Use this as default if no image is given
+      caption: Image from ... #If there's an image credit, add it here. If not, delete this line
   type: lecture   #if this is lecture, then the event will show up on the public lecture page, otherwise it will only show up on the event page
   tags:   # Add tags as a list, for example,
     - particle physics

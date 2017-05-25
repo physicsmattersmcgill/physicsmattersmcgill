@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "See the physics department at McGill"
+title: "Visit the physics department at McGill"
 meta_title: ""
-subheadline: "come visit us"
+subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/visit-department/"
 ---
+![A group of high school students does a physics experiment]({{ site.urlimg }}/kahnawake_visit.jpg)
 
-We often host groups at our department at McGill. We have a variety of activities for all ages.
+We are able to host school or extracurricular groups at our department at McGill University. We have a variety of activities for all ages, offered in French or English. Typical visits vary in length, and may involve museum tours, lab tours, short demos, or hands-on activities. [Contact us]("mailto:{{ site.email }}") for information or to request a visit. Visit date and language are subject to volunteer availability.
