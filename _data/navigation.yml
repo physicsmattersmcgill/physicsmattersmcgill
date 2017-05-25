@@ -16,6 +16,8 @@
     url: "/school-programs/"
   - title: "Physics for Teachers"
     url: "/teacher-training/"
+  - title: "Activity Guides"
+    url: "/activities/"
 
 - title: "Public Lectures"
   url: "/lectures/"
