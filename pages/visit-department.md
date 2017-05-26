@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Visit the physics department at McGill"
+lang: en
 meta_title: ""
 subheadline: ""
 teaser: ""

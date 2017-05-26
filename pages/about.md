@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Us"
+lang: en
 subheadline: ""
 teaser: About our mission and our team
 permalink: "/about/"

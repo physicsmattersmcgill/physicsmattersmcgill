@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Anna I. McPherson Lecture Series"
+lang: en
 meta_title: ""
 subheadline: ""
 teaser: ""

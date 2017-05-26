@@ -1,6 +1,7 @@
 ---
 layout: frontpage
 title: "For Educators"
+lang: en
 meta_title: ""
 subheadline: ""
 teaser: ""

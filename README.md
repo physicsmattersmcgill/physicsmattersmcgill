@@ -7,6 +7,8 @@ The data for the navigation menu (page names, what goes in each menu) goes in th
 
 To make a new page, add a new markdown file under the `pages/` folder. See existing pages for examples and the front matter to use.
 
+Each page must have an English and French title and url in the `_data/navigation.yml` file in order for the menus to work for both English and French versions of the site. The urls provided in this file should match the permalinks in the frontmatter of the corresponding pages. There should be two files for each page, one in English and one in French. If you cannot translate a new page, the French/English version can be a copy of the English/French version, maybe with a short statement at the top ("Cette page n'est pas disponsible en français en ce moment. Voici en Anglais." or similar.)
+
 # Images  
 Any images used on the site should be added to the `physics-matters/images` folder on the physics department server. Please do not put pictures for the website on github.
 
@@ -31,7 +33,6 @@ Each of the events has frontmatter which will help define it as an event and mak
   speaker_url: website_URL #delete this line if no website
   event-date: YYYY-MM-DD HH:MM  #date of the event - the format is important!
   location: the Keys Auditorium (Rutherford Physics Building, room 112), McGill University  #this will probably be the same for all lectures
-  image:
   image:
       title: lecture_hall_empty.jpg #Use this as default if no image is given
       thumb: thumb_lecture_hall_empty.jpg #Use this as default if no image is given

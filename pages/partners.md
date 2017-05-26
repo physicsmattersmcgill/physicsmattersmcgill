@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Partners"
+lang: en
 meta_title: ""
 subheadline: ""
 teaser: ""

@@ -8,6 +8,9 @@
 #                                                 /____/
 # Title of your website
 title: 'Physics Matters McGill'
+index:
+  en:
+  fr: index_fr.html
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Physics Matters / La physique dans tous ses états'

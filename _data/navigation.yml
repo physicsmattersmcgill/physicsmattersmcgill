@@ -1,45 +1,103 @@
-- title: Home
-  url: "/"
+- title:
+    en: Home
+    fr: Accueil
+  url:
+    en: "/"
+    fr: "/accueil/"
+  ref: home
   side: left
 
-- title: About
-  url: "/about/"
+- title:
+    en: About
+    fr: À propos
+  url:
+    en: "/about/"
+    fr: "/about_fr/"
+  ref: about
   side: left
 
-- title: "For educators"
-  url: "/educators/"
+- title:
+    en: "For educators"
+    fr: "For educators"
+  url:
+    en: "/educators/"
+    fr: "/educators_fr/"
   side: left
   dropdown:
-  - title: "Visit us at McGill"
-    url: "/visit-department/"
-  - title: "Visits to your classroom"
-    url: "/school-programs/"
-  - title: "Physics for Teachers"
-    url: "/teacher-training/"
-  - title: "Activity Guides"
-    url: "/activities/"
+  - title:
+      en: "Visit us at McGill"
+      fr: "Visitez-nous à McGill"
+    url:
+      en: "/visit-department/"
+      fr: "/visit-department_fr/"
+  - title:
+      en: "Visits to your classroom"
+      fr: "Visits to your classroom"
+    url:
+      en: "/school-programs/"
+      fr: "/school-programs_fr/"
+  - title:
+      en: "Physics for teachers"
+      fr: "La physique pour les enseignants"
+    url:
+      en: "/teacher-training/"
+      fr: "/teacher-training_fr/"
+  - title:
+      en: "Activity guides"
+      fr: "Activity guides"
+    url:
+      en: "/activities/"
+      fr: "/activities_fr/"
 
-- title: "Public Lectures"
-  url: "/lectures/"
+- title:
+    en: "Public Lectures"
+    fr: "Conférences publiques"
+  url:
+    en: "/lectures/"
+    fr: "/lectures_fr/"
   side: left
   dropdown:
-  - title: "Physics Matters series"
-    url: "/lectures/"
-  - title: "Anna I. McPherson series"
-    url: "/mcpherson/"
+  - title:
+      en: "Physics Matters series"
+      fr: "La physique dans tous ses états"
+    url:
+      en: "/lectures/"
+      fr: "/lectures_fr/"
+  - title:
+      en: "Anna I. McPherson series"
+      fr: "Anna I. McPherson series"
+    url:
+      en: "/mcpherson/"
+      fr: "/mcpherson_fr/"
 
-- title: Events
-  url: "/events/"
+- title:
+    en: Events
+    fr: Evenemments
+  url:
+    en: "/events/"
+    fr: "/events_fr/"
   side: left
 
-- title: Partners
-  url: "/partners/"
+- title:
+    en: Partners
+    fr: Partners
+  url:
+    en: "/partners/"
+    fr: "/partners_fr/"
   side: left
 
-- title: "Search"
-  url: "/search/"
+- title:
+    en: "Search"
+    fr: "Chercher"
+  url:
+    en: "/search/"
+    fr: "/search_fr/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title:
+    en: "Contact"
+    fr: "Contact"
+  url:
+    en: "/contact/"
+    fr: "/contact_fr/"
   side: right

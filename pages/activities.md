@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Activities"
+lang: en
 meta_title: "Science investigations for anyone!"
 subheadline: ""
 teaser: ""

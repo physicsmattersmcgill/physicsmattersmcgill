@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Collaborations with Educators"
+lang: en
 meta_title: ""
 subheadline: ""
 teaser: ""

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact Us"
+lang: en
 meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
