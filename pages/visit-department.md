@@ -6,7 +6,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_unsplash_8.jpg"
+   image_fullwidth: "openhouse_outside.jpg"
 permalink: "/visit-department/"
 ---
 ![A group of high school students does a physics experiment]({{ site.urlimg }}/kahnawake_visit.jpg)
