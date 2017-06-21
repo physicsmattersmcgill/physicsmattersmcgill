@@ -16,51 +16,38 @@
  / _, _/ / /_/ / / / / /_   / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
 /_/ |_/_/\__, /_/ /_/\__/  /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
         /____/                                 /____/
-
+(language switcher)
 {% endcomment %}
+
       <ul class="right">
-        {% for link in site.data.navigation %}
+        {% comment %}Find default language {% endcomment %}
 
-              {% if link.url[page.lang] contains 'http' %}
-                {% assign domain = '' %}
-              {% elsif link.url[page.lang] == '#' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
+        {% for lang in site.data.languages %}
+          {% if lang.default %}{% assign default = lang.short %}{% endif %}
+        {% endfor %}
 
-          {% comment %}   If there are links for right side begin   {% endcomment %}
-          {% if link.side == 'right' %}
-            {% comment %}   If right side WITHOUT dropdown menu do   {% endcomment %}
-            {% if link.dropdown == nil %}
-              <li class="divider"></li>
-              <li{% if link.url[page.lang] == page.url %} class="active"{% elsif page.homepage == true and link.url[page.lang] == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url[page.lang] }}"{% if link.url[page.lang] contains 'http' %} target="_blank"{% endif %}>{{ link.title[page.lang] | escape }}</a></li>
+        {% comment %}Build language switcher {% endcomment %}
 
-            {% comment %}   If right side WITH dropdown menu do   {% endcomment %}
+        {% for lang in site.data.languages %}
+          {% if page.lang == lang.short %}
+            {% assign link = page.url %}
+          {% elsif page.homepage %}
+            {% assign langarr0 = site.data.navigation[0].url %}
+            {% assign langarr = site.data.navigation[0] | map: "url" %}
+            <li>a {{ langarr['en']}}</li>
+          {% else %}
+            {% assign url_parts = page.url | split: '_' %}
+            {% if lang.default %}
+              {% assign pageurl = url_parts[0] | append: '/' %}
             {% else %}
-
-              <li class="divider"></li>
-              <li class="has-dropdown{% if link.url[page.lang] == page.url %} active{% endif %}">
-                <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url[page.lang] }}"{% if link.url[page.lang] contains 'http' %} target="_blank"{% endif %}>{{ link.title[page.lang] | escape }}</a>
-
-                  <ul class="dropdown">
-                    {% for dropdown_link in link.dropdown %}
-
-                      {% if dropdown_link.url[page.lang] contains 'http' %}
-                        {% assign domain = '' %}
-                        {% else %}
-                        {% assign domain = site.url %}
-                      {% endif %}
-
-                      <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url[page.lang] }}"{% if dropdown_link.url[page.lang] contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title[page.lang] | escape }}</a></li>
-                    {% endfor %}
-                  </ul>
-
-              </li>
+              {% assign pageurl = url_parts[0] | append: '_' | append: lang.short | append: '/'%}
             {% endif %}
           {% endif %}
+
+          <li class="divider"></li>
+          <li{% if page.lang == lang.short %} class="active"{% endif %}><a href="{{ site.baseurl }}{{ pageurl }}">{{ lang.short | escape }}</a></li>
+
         {% endfor %}
-        {% comment %}   First loop finished 1   {% endcomment %}
       </ul>
 {% comment %}
 
@@ -116,6 +103,7 @@
           {% endif %}
         {% endfor %}
         {% comment %}   Second loop finished   {% endcomment %}
+
       </ul>
     </section>
   </nav>

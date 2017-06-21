@@ -1,0 +1,7 @@
+- en:
+  short: en
+  long: english
+  default: true
+- fr:
+  short: fr
+  long: français

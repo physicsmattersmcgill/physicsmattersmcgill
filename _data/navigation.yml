@@ -15,6 +15,13 @@
     fr: "/about_fr/"
   ref: about
   side: left
+  dropdown:
+  - title:
+      en: Contact
+      fr: Contactez-nous
+    url:
+      en: "/contact/"
+      fr: "/contact_fr/"
 
 - title:
     en: "For educators"
@@ -85,19 +92,3 @@
     en: "/partners/"
     fr: "/partners_fr/"
   side: left
-
-- title:
-    en: "Search"
-    fr: "Chercher"
-  url:
-    en: "/search/"
-    fr: "/search_fr/"
-  side: right
-
-- title:
-    en: "Contact"
-    fr: "Contact"
-  url:
-    en: "/contact/"
-    fr: "/contact_fr/"
-  side: right
