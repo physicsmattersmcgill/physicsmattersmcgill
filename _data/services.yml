@@ -1,8 +1,6 @@
-- menu_name: "Services"
-
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- menu_name:
+    en: "Services"
+    fr: "Services"
 
 - name: "RSS"
   url: "/feed.xml"

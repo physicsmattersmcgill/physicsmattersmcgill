@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Bring a physicist to your classroom!"
-lang: en
+lang: fr
 meta_title: ""
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "20170506_103837_banner.jpg"
-permalink: "/school-programs/"
+permalink: "/school-programs_fr/"
 ---
+
 Our volunteers visit local classrooms for single or multiple visits. Our main effort in this area is the Space Explorers program for primary schools.
 
 ## Space Explorers program

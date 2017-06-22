@@ -1,0 +1,8 @@
+- en:
+  short: en
+  long: english
+  default: true
+- fr:
+  short: fr
+  long: français
+  errmsg: "Cette page n'est pas disponsable en français."

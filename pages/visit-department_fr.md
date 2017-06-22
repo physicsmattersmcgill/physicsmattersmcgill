@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Visit the physics department at McGill"
-lang: en
+lang: fr
 meta_title: ""
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "openhouse_outside.jpg"
-permalink: "/visit-department/"
+permalink: "/visit-department_fr/"
 ---
 ![A group of high school students does a physics experiment]({{ site.urlimg }}/kahnawake_visit.jpg)
 

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Contact Us"
-lang: en
+lang: fr
 meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/contact_fr/"
 ---
 The outreach group in the Department of Physics at McGill University aims to communicate the excitement and fascination of physics to the public, in classrooms, and other interested groups. Contact us at <{{ site.email }}> for information about school visits, teacher information, or other collaborations.
 

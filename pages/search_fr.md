@@ -1,8 +1,8 @@
 ---
-permalink: /search/
+permalink: /search_fr/
 layout: page
 title: "Search"
-lang: en
+lang: fr
 sitemap: false
 ---
 

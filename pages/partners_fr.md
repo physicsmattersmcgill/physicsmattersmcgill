@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Partners"
-lang: en
+lang: fr
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -12,7 +12,7 @@ links:
   - url: https://sites.google.com/site/womeninphysicsmcgill/home
     logo: partnerlogo_wip.png
     text: Women in Physics at McGill University
-permalink: "/partners/"
+permalink: "/partners_fr/"
 ---
 
 {% include logo_blocks %}

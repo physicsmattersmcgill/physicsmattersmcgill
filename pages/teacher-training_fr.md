@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Collaborations with Educators"
-lang: en
+lang: fr
 meta_title: ""
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "20170428_112956_v2.jpg"
    caption: "Image credit: Nik Provatas (2017)"
-permalink: "/teacher-training/"
+permalink: "/teacher-training_fr/"
 ---
 We are passionate about improving science education, and one way we do so is through partnerships with current and future teachers. Our main project in this area is the Inquiry Institute for primary school teachers. Our [lesson plans]({{ site.baseurl }}/activities/) for the Inquiry Institute and many other events are available for download. We also regularly collaborate with members of the department of education at McGill to help us practice effective teaching methods while helping future teachers gain experience teaching physics.
 

@@ -1,15 +1,22 @@
 <aside>
 	<div class="panel radius">
-		<h3>Join us for cutting edge science!</h3>
-		<p>
+		{% if lang == 'fr' %}
+			<h3>Joignez-vous à nous...</h3>
+			<p>Need translation in _includes/_sidebar.html</p>
+
+		{% comment %}English version (default){% endcomment %}
+		{% else %}
+			<h3>Join us for cutting edge science!</h3>
+			<p>
 			The Physics Matters (“La physique dans toutes ses états”) outreach group in the McGill Department of Physics presents the Physics Matters public lecture series!  These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!
-		</p>
-		<p>
+			</p>
+			<p>
 			The lectures are held at 7pm, usually on the first Thursday of each month. We will explore nanotechnology, high energy particle physics, nonlinear physics, biophysics, and more!
-		</p>
-		<p>
+			</p>
+			<p>
 			This event is free of charge and no registration is required. Seats are assigned on a first come first serve basis.
-		</p>
+			</p>
+		{% endif %}
 
     <p>
 		  <ul class="inline-list social-icons">

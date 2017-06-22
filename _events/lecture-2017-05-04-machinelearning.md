@@ -1,5 +1,6 @@
 ---
 layout: event
+lang: en
 #
 # Content
 #

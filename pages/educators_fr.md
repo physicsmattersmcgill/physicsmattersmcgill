@@ -1,13 +1,13 @@
 ---
 layout: frontpage
 title: "For Educators"
-lang: en
+lang: fr
 meta_title: ""
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "20170506_103837_banner.jpg"
-permalink: "/educators/"
+permalink: "/educators_fr/"
 widget1:
   title: "Inquiry Institute"
   url: "/inquiry-institute/"
