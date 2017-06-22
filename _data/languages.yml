@@ -5,3 +5,4 @@
 - fr:
   short: fr
   long: français
+  errmsg: "Cette page n'est pas disponsable en français."
