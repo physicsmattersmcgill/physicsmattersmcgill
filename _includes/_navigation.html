@@ -27,14 +27,11 @@
         {% endfor %}
 
         {% comment %}Build language switcher {% endcomment %}
-
         {% for lang in site.data.languages %}
           {% if page.lang == lang.short %}
-            {% assign link = page.url %}
+            {% assign pageurl = page.url %}
           {% elsif page.homepage %}
-            {% assign langarr0 = site.data.navigation[0].url %}
-            {% assign langarr = site.data.navigation[0] | map: "url" %}
-            <li>a {{ langarr['en']}}</li>
+            {% assign pageurl = site.data.navigation[0].url[lang.short] %}
           {% else %}
             {% assign url_parts = page.url | split: '_' %}
             {% if lang.default %}
