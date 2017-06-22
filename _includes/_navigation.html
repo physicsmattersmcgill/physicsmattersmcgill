@@ -25,7 +25,6 @@
         {% for lang in site.data.languages %}
           {% if lang.default %}{% assign default = lang.short %}{% endif %}
         {% endfor %}
-
         {% comment %}Build language switcher {% endcomment %}
         {% for lang in site.data.languages %}
           {% if page.lang == lang.short %}
@@ -33,11 +32,22 @@
           {% elsif page.homepage %}
             {% assign pageurl = site.data.navigation[0].url[lang.short] %}
           {% else %}
-            {% assign url_parts = page.url | split: '_' %}
-            {% if lang.default %}
-              {% assign pageurl = url_parts[0] | append: '/' %}
+            {% assign url_reverse = page.url | split: "" | reverse | join: "" | remove_first: "/" %}
+            {% if page.lang == default %}
+              {% assign urlpart = url_reverse | split: "" | reverse | join: "" %}
             {% else %}
-              {% assign pageurl = url_parts[0] | append: '_' | append: lang.short | append: '/'%}
+              {% assign urllang = url_reverse | slice: 0, 3 %}
+              {% assign urlpart = url_reverse | remove_first: urllang | split: "" | reverse | join: "" %}
+            {% endif %}
+            {% if lang.default %}
+              {% assign pageurl = urlpart | append: '/' %}
+            {% else %}
+              {% assign pageurl = urlpart | append: '_' | append: lang.short | append: '/'%}
+            {% endif %}
+
+            {% comment %}If no page in requested language, use default language{% endcomment %}
+            {% if page.handle == "site-message" %}
+              {% assign pageurl = url_part | append: '/' %}
             {% endif %}
           {% endif %}
 
