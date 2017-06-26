@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: "For Educators"
+title: "Pour les instructeurs"
 lang: fr
 meta_title: ""
 subheadline: ""
@@ -9,20 +9,20 @@ header:
    image_fullwidth: "20170506_103837_banner.jpg"
 permalink: "/educators_fr/"
 widget1:
-  title: "Inquiry Institute"
+  title: "Workshop sur l'auto-questionnement"
   url: "/inquiry-institute/"
   image: 20170428_112956_square.jpg
-  text: 'We partner with the Lester B. Pearson school board, Astro McGill, and BrainReach (also from McGill University) to bring inquiry-based activities to groups of primary school teachers.'
+  text: ' Avec l'aide de la commission scolaire Lester B. Pearson, du groupe Astro McGill et de BrainReach (autre association McGilloise), nous organisons un workshop d'une journée basée sur l'apprentissage par l'auto-questionnement. Ce workshop est destiné aux enseignants des écoles primaires.'
 widget2:
-  title: "Space Explorers"
+  title: "Explorateurs de l'espace"
   url: "/space-explorers/"
   image: collisions_top_kids.jpg
-  text: 'The Space Explorers program is a way for kids to explore physics in fun hands-on modules. Pairs of physics students visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
+  text: 'Le programme des Explorateurs de l'espace propose une série d'activités ludiques d'1 à 2h en rapport avec des thèmes physiqued. Ces activités sont animés par deux membres du groupe qui viennent rendre visite aux classes primaires partenaires, une fois par mois.'
 widget3:
-  title: "Activities for your classroom"
+  title: "Activités pour votre groupe classe"
   url: "/activities/"
   image: heatandtemp_scicity.jpg
-  text: 'Our hands-on physics activities are developed with inquiry in mind. We welcome you to browse these activities, and modify them for use in your classroom.'
+  text: 'Nos activités intéractives sont conçues pour encourager le questionnement des élèves. Nous vous encourageons a utiliser les materiels que nous avons développer, à l'adapter selon vos objectifs et à nous faire part de votre feedback'
 ---
 
-Our volunteers facilitate fun and interactive activities in classrooms, at summer camps, and more.
+D'autres activités, notamment des camps d'été, animés par nos volontaires sont oganisées au cours de l'année.
