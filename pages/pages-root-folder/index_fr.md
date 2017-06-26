@@ -9,17 +9,17 @@ lang: fr
 permalink: "/accueil/"
 header:
   image_fullwidth: collisions_top_kids.jpg
-  caption: "Image credit: Gabriel Kocher (2015)"
+  caption: "Droits réservés : Gabriel Kocher (2015)"
 widget1:
-  title: "Les conférences publiques"
+  title: "Colloques publics"
   url: "/lectures_fr/"
   image: 20170504_lecture_2.jpg
-  text: 'Join us for cutting edge science! These lectures are aimed at anyone who wants to learn more about current physics topics - no science background is necessary. Whether you are a long-time science enthusiast, or have developed a new interest in physics, we invite you to join us to learn about cutting edge science from the experts doing the research!'
+  text: "Découvrez la physique de pointe grâce aux colloques 'La Physique Dans Tous Ses Etats'. Les colloques sont ouverts et accessible à toutes et tous. Venez rencontrer des experts physiciens et en apprendre d'avantage sur la recherche faite à McGill!"
 widget2:
   title: "Les explorateurs/trices d'espace"
   url: "/school-programs_fr/"
   image: collisions_top_kids_old.jpg
-  text: 'The Space Explorers program is a way for kids to explore physics in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
+  text: "Le programme des Explorateurs de l'espace propose diverses activités en rapport avec la physique à destination des élèves en école primaire. Les activités sont encadrées par des membres du groupe de vulgarisation qui rendent visite aux écoles 5 fois par an. Une excellente opportunité pour les enfants de rencontrer de vrais scientifique et d'en apprendre d'avantage sur la physique dans un contexte intéractif."
 widget3:
   event: true
   url: "/events_fr/"
