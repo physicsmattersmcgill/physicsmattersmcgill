@@ -2,7 +2,7 @@
 layout: page
 title: "Activities"
 lang: fr
-meta_title: "Science investigations for anyone!"
+meta_title: ""
 subheadline: ""
 teaser: ""
 header:

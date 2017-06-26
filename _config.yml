@@ -38,6 +38,8 @@ baseurl: '/physicsmattersmcgill'
 collections:
   events:
     output: true
+  activities:
+    output: true
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

@@ -1,6 +1,6 @@
 # This is a copy of the _config.yml file, but uses a local address for the image url
 # Use this config file during development by running
-# $ jekyll serve --config _config_dev.yml 
+# $ jekyll serve --config _config_dev.yml
 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
@@ -38,6 +38,8 @@ baseurl: '/physicsmattersmcgill'
 # Collections
 collections:
   events:
+    output: true
+  activities:
     output: true
 
 # This is for the editing function in _/includes/improve_content
