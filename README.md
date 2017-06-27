@@ -7,7 +7,7 @@ The data for the navigation menu (page names, what goes in each menu) goes in th
 
 To make a new page, add a new markdown file under the `pages/` folder. See existing pages for examples and the front matter to use.
 
-Each page must have an English and French title and url in the `_data/navigation.yml` file in order for the menus to work for both English and French versions of the site. The urls provided in this file should match the permalinks in the frontmatter of the corresponding pages. There should be two files for each page, one in English and one in French. If you cannot translate a new page, the French/English version can be a copy of the English/French version, maybe with a short statement at the top ("Cette page n'est pas disponsible en français en ce moment. Voici en Anglais." or similar.)
+Each page must have an English and French title and url in the `_data/navigation.yml` file in order for the menus to work for both English and French versions of the site. The urls provided in this file should match the permalinks in the frontmatter of the corresponding pages. The filenames can be whatever you wish (but it may be easiest if they match the permalink convention). With the exception of the homepage (which is treated differently) the French version of the page must have a url that is the same as the English version plus `_fr`. For example, `/about/` for the English version and `/about_fr/` for the French version.
 
 # Images  
 Any images used on the site should be added to the `physics-matters/images` folder on the physics department server. Please do not put pictures for the website on github.
@@ -59,6 +59,13 @@ links:
   - url: http://www.astro.physics.mcgill.ca/outreach.php
     logo: partnerlogo_AstroMcGill.png
 ```
+
+# Languages and translations
+For any translated page (including events), the permalink variable in the frontmatter for the translation must be the same as the permalink for the English version with `_fr` at the end (exception: the home page). As long as this rule is followed, the language switcher links on the top right of the page will work even as new pages are added.
+
+Translations for website components like buttons and `more` links are contained in `_data/language.yml` for English and `_data/language_fr.yml` for French. The file `_data/languages.yml` contains other language information, such as the language codes and which is the default.
+
+The text for the sidebar on the lectures page is in the file `_includes/_sidebar.html` and for the footer is in `_includes/_footer.html`. There is an if/else loop in each of these files which checks the language. Both languages are in the same file.
 
 # Testing a local copy of the website
 You can test the site locally by running
