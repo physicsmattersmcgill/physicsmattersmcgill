@@ -21,4 +21,4 @@ Que tu sois étudiant au baccalauréat, gradué, post-gradué ou membre de la fa
 - Un bon vulgarisateur est un bon orateur. Par le biais de nos programmes, tu peux acquerir des compétences en communication très utiles pour ta carrière et pour la vie en général! C'est aussi une excellente opportunité pour pratiquer ton anglais, ton français, ou les deux!
 - Rien de tel que notre groupe pour te créer un réseau solide de contacts pour la suite de ta carrière.
 
-Si tu es intéressé, écris nous à l'adresse: <{{ site.email }}> et nous t'ajouterons à notre liste de diffusion. Ainsi, tu seras informé des horaires de réunion et des acitivités à venir.
+Si tu es intéressé, écris nous à l'adresse: <{{ site.email }}> et nous t'ajouterons à notre liste de diffusion. Ainsi, tu seras informé des horaires de réunion et des activités à venir.

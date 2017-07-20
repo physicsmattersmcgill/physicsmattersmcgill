@@ -1,7 +1,7 @@
 ---
 permalink: /search_fr/
 layout: page
-title: "Search"
+title: "Recherche"
 lang: fr
 sitemap: false
 ---

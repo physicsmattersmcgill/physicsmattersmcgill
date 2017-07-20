@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bring a physicist to your classroom!"
+title: "Un(e) physicien(ne) dans ta classe!"
 lang: fr
 meta_title: ""
 subheadline: ""
@@ -10,18 +10,12 @@ header:
 permalink: "/school-programs_fr/"
 ---
 
-Our volunteers visit local classrooms for single or multiple visits. Our main effort in this area is the Space Explorers program for primary schools.
+Nous organisons des visites ponctuelles ou mensuelles dans les classes. Note plus récente initiative, le Programm des Explorateurs de l'Espace, propose un panel d'activités couvrant des thèmes de la physique appliqués au contexte de l'exploration spatiale. Ce programme est destinés aux élèves des classes de primaire et est ouvert à tout enseigant des commissions scolaires montréalaises.
 
 ## Space Explorers program
 <img src="{{ site.urlimg }}SpaceExplorersLogo.png" alt="Logo of McGill Space Explorers program" style="height:200px; float:left; padding-right:10px;">
 
-In this program, pairs of physicists visit local primary schools around 5 times over the course of the school year, bringing along a different physics activity on each hour-long visit. Students get to know a physicist, while doing inquiry-based activities and experiments. Students participating in this program will investigate physics concepts like gravity, collisions, and heat. They will also practice using scientific tools like modeling, collecting data, and analyzing results. At the end of the program, students have completed their "training" to become junior Space Explorers! Activities may include:
-- Heat & temperature
-- Collisions
-- Gravity
-- Magnetism
-- Light & Color
-- Sink or Float
-- Forces & Friction (New)
+Nous rendons visite à votre classe par groupe de deux. Le programme comprend cinq visites possiles à répartir au long de l'année selon les disponibilités de chacun. Ces activités sont l'occasion pour les élèves de rencontrer des chercheuses et chercheurs modernes tout en approfondissant les thèmes du programme d'enseignement. Nos activités interactives abordent des thèmes tels que la chaleur et la température, les collisions, la gravité, le magnetisme, la lumière et les couleurs, le fait de flotter ou de couler ainsi que les forces. Le programme est développé de sorte que les élèves sont encouragés à formuler une démarche scientifique complète (hypothèse, modelisation, prise de données et analyse). À la fin d programme, chaque élève reçoit un certificat de complétion du programme.
 
-The Space Explorers program (formerly Adopt an Astronomer) was started in September 2015, and has since grown to include around 6 classrooms each year, reaching approximately 100 students from ages 9 to 12 (grades 4 - 6).
+6 écoles sont actuellement partenaires du programme. Nous atteignons ainsi une centaine d'élèves par année de la 4ème à la 6ème primaire.
+

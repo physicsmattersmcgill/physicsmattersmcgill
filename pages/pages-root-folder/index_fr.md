@@ -14,12 +14,12 @@ widget1:
   title: "Colloques publics"
   url: "/lectures_fr/"
   image: 20170504_lecture_2.jpg
-  text: "Découvrez la physique de pointe grâce aux colloques 'La Physique Dans Tous Ses Etats'. Les colloques sont ouverts et accessible à toutes et tous. Venez rencontrer des experts physiciens et en apprendre d'avantage sur la recherche faite à McGill!"
+  text: "Découvrez la physique de pointe grâce aux colloques 'La Physique Dans Tous Ses Etats'. Les colloques sont ouverts et accessibles à tous. Venez rencontrer des experts physiciens et en apprendre d'avantage sur la recherche faite à McGill!"
 widget2:
   title: "Les explorateurs/trices d'espace"
   url: "/school-programs_fr/"
   image: collisions_top_kids_old.jpg
-  text: "Le programme des Explorateurs de l'espace propose diverses activités en rapport avec la physique à destination des élèves en école primaire. Les activités sont encadrées par des membres du groupe de vulgarisation qui rendent visite aux écoles 5 fois par an. Une excellente opportunité pour les enfants de rencontrer de vrais scientifique et d'en apprendre d'avantage sur la physique dans un contexte intéractif."
+  text: "Le programme des Explorateurs de l'espace propose diverses activités en rapport avec la physique à destination des élèves en école primaire. Les activités sont encadrées par des membres du groupe de vulgarisation qui rendent visite aux écoles 5 fois par an. Une excellente opportunité pour les enfants de rencontrer de vrais chercheurs et d'en apprendre d'avantage sur la physique dans un contexte interactif."
 widget3:
   event: true
   url: "/events_fr/"

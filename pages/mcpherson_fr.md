@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Anna I. McPherson Lecture Series"
+title: "Série de colloques Anna I. McPherson"
 lang: fr
 meta_title: ""
 subheadline: ""
@@ -9,6 +9,6 @@ header: no
 permalink: "/mcpherson_fr/"
 ---
 ![Portrait of Anna I. McPherson]({{ site.urlimg }}annamc2-pg.jpg "Portrait of Anna I. McPherson"){:style="float: left;margin-right: 7px;margin-bottom: 7px;"}
-The Anna I. McPherson Lectures in Physics were established in honour of Anna Isobel McPherson, a member of the McGill Physics Faculty from 1940 until her death in 1979. Over her long association with the Department of Physics, Anna McPherson made important contributions in teaching, research, and counselling, helping and teaching a very large number of students. The McPherson lecture series was established to acknowledge her outstanding generosity and her many valued academic contributions. The mandate of these lectures is to bring a distinguished physicist to McGill each year to give two lectures, one of which is a lecture for the general public.
+Cette série de colloques annuels honore la personne de Anna Isobel McPherson, ancienne membdre de la faculté de Physique. La carrière d'Anna I. McPherson au sein du département est riche de contributions aussi bien en enseignement, qu'en recherche. Anna I. McPherson était de nature consiliante, progressiste et toujours prête à aider et encourager les étudiants de la faculté. La série de colloques éponyme rend hommage à 39 années de service à la communauté McGilloise. Les colloques de la série Anna I. McPherson sont tenus par des chercheuses et chercheurs de renommées internationales.     
 
-A list of the previous lectures in the series can be found [here](http://www.physics.mcgill.ca/outreach/mcpherson.html). More information about Anna McPherson and the McPherson collection of early 20th century experimental apparatus, can be found [here](http://www.physics.mcgill.ca/museum/anna_mcpherson.htm).
+La liste des colloques des années passées est disponible [ici](http://www.physics.mcgill.ca/outreach/mcpherson.html). Vous trouverez d'avantage d'information à propos d'Anna McPherson et de la collection d'appareil experimentaux du musée Rutherford [ici](http://www.physics.mcgill.ca/museum/anna_mcpherson.htm).
