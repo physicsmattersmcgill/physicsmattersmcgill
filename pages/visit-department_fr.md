@@ -9,6 +9,8 @@ header:
    image_fullwidth: "openhouse_outside.jpg"
 permalink: "/visit-department_fr/"
 ---
-![A group of high school students does a physics experiment]({{ site.urlimg }}/kahnawake_visit.jpg)
+![Un groupe de collégiens faisant une expérience]({{ site.urlimg }}/kahnawake_visit.jpg)
 
-We are able to host school or extracurricular groups at our department at McGill University. We have a variety of activities for all ages, offered in French or English. Typical visits vary in length, and may involve museum tours, lab tours, short demos, or hands-on activities. [Contact us]("mailto:{{ site.email }}") for information or to request a visit. Visit date and language are subject to volunteer availability.
+
+Nous pouvons accueillir de groupes scolaires ou extra-scolaires à McGill. Nous disposons d'un certains nombre d'activités que nous pouvons animer en français ou en anglais pour des jeunes de tout âge. La visite peut aussi inclure un tour dans le musée Rutherford, le tour de certain laboratoires de recherche ainsi que diverses activités de démosntration. 
+Pour toute visite, [contactez-nous]("mailto:{{ site.email }}") pour arranger une date.
