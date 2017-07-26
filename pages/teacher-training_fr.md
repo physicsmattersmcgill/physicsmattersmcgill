@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Collaborations with Educators"
+title: "Collaboration avec les Enseignants"
 lang: fr
 meta_title: ""
 subheadline: ""

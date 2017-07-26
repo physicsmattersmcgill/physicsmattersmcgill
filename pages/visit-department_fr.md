@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Visit the physics department at McGill"
+title: "Visitez le département de physique"
 lang: fr
 meta_title: ""
 subheadline: ""

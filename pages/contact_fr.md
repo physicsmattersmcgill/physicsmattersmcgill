@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact Us"
+title: "Nous contacter"
 lang: fr
 meta_title: "Contact"
 subheadline: ""

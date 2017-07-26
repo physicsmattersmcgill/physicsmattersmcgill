@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Activities"
+title: "Activités"
 lang: fr
 meta_title: "Science investigations for anyone!"
 subheadline: ""
