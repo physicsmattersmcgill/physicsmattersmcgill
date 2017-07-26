@@ -33,13 +33,13 @@
   dropdown:
   - title:
       en: "Visit us at McGill"
-      fr: "Visitez-nous à McGill"
+      fr: "Rendez-nous visite"
     url:
       en: "/visit-department/"
       fr: "/visit-department_fr/"
   - title:
       en: "Visits to your classroom"
-      fr: "Visits to your classroom"
+      fr: "Visite dans votre classe"
     url:
       en: "/school-programs/"
       fr: "/school-programs_fr/"
@@ -51,7 +51,7 @@
       fr: "/teacher-training_fr/"
   - title:
       en: "Activity guides"
-      fr: "Activity guides"
+      fr: "Guide d'activités"
     url:
       en: "/activities/"
       fr: "/activities_fr/"
@@ -66,20 +66,20 @@
   dropdown:
   - title:
       en: "Physics Matters series"
-      fr: "La physique dans tous ses états"
+      fr: "La physique dans Tous ses États"
     url:
       en: "/lectures/"
       fr: "/lectures_fr/"
   - title:
       en: "Anna I. McPherson series"
-      fr: "Anna I. McPherson series"
+      fr: "Série de colloques Anna I. McPherson"
     url:
       en: "/mcpherson/"
       fr: "/mcpherson_fr/"
 
 - title:
     en: Events
-    fr: Evenemments
+    fr: Évenements
   url:
     en: "/events/"
     fr: "/events_fr/"
@@ -87,7 +87,7 @@
 
 - title:
     en: Partners
-    fr: Partners
+    fr: Partenaires
   url:
     en: "/partners/"
     fr: "/partners_fr/"
