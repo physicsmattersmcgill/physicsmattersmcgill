@@ -3,7 +3,7 @@ layout: page
 title: "À propos de nous"
 lang: fr
 subheadline: ""
-teaser: Notre mission et de notre équipe
+teaser: Notre mission et notre équipe
 permalink: "/about_fr/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -14,4 +14,4 @@ Le groupe de vulgarisation du [département de Physique](http://www.physics.mcgi
 
 
 ## Notre Équipe
-Un grand merci à tous nos bénévols pour leur excellent travail!
+Un grand merci à tous nos bénévoles pour leur excellent travail!
