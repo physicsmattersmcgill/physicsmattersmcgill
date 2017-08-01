@@ -22,7 +22,7 @@ header:
 
           {% if event.meta_description %}{{ event.meta_description | strip_html | escape }}{% elsif event.speaker %}{{ event.speaker | strip_html | escape }}{% endif %}
 
-          <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language.read }} {{ event.title }}"><strong>{{ site.data.language.read_more }}</strong></a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language_fr.read }} {{ event.title }}"><strong>{{ site.data.language_fr.read_more }}</strong></a>
         </p>
       </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
