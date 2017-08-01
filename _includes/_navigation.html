@@ -29,6 +29,19 @@
         {% for lang in site.data.languages %}
           {% if page.lang == lang.short %}
             {% assign pageurl = page.url %}
+          {% elsif page.layout == 'event' %}
+            {% assign urlparts = page.url | split: "/" %}
+        	  {% assign old_folder = "/" | append: urlparts[1] %}
+            {% if lang.short == default %}
+              {% assign langcode = "_" | append: page.lang %}
+              {% assign langcode_reverse = langcode | split: "" | reverse | join: "" %}
+              {% assign folder_reverse = old_folder | split: "" | reverse | join: "" | remove_first: langcode_reverse %}
+        	    {% assign folder = folder_reverse | split: "" | reverse | join: "" %}
+            {% else %}
+              {% assign langcode = "_" | append: lang.short %}
+              {% assign folder = "/" | append: urlparts[1] | append: langcode %}
+            {% endif %}
+        	  {% assign pageurl = page.url | remove_first: old_folder | prepend: folder %}
           {% elsif page.homepage %}
             {% assign pageurl = site.data.navigation[0].url[lang.short] %}
           {% else %}
@@ -43,11 +56,6 @@
               {% assign pageurl = urlpart | append: '/' %}
             {% else %}
               {% assign pageurl = urlpart | append: '_' | append: lang.short | append: '/'%}
-            {% endif %}
-
-            {% comment %}If no page in requested language, use default language{% endcomment %}
-            {% if page.handle == "site-message" %}
-              {% assign pageurl = url_part | append: '/' %}
             {% endif %}
           {% endif %}
 
