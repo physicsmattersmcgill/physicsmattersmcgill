@@ -36,7 +36,13 @@ widget3:
         <p>
           {% if event.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}"><img src="{{ site.urlimg }}{{ event.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ event.title }}"></a>{% endif %}
 
-          {% if event.meta_description %}{{ event.meta_description | strip_html | escape }}{% elsif event.speaker %}{{ event.speaker | strip_html | escape }}{% endif %}
+          {% include lang-date date=event.event-date lang=event.lang%}<br>
+
+          {% if event.meta_description %}
+            {{ event.meta_description | strip_html | escape }}
+          {% else %}
+            {{ event.speaker | strip_html | escape }}
+          {% endif %}
 
           <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language.read }} {{ event.title }}"><strong>{{ site.data.language.read_more }}</strong></a>
         </p>
@@ -44,5 +50,5 @@ widget3:
     </div><!-- /.row -->
     {% endif %}
   {% endfor %}
-  
+
 <p><a class="button tiny radius" href="{{ site.baseurl }}/past-events">{{ site.data.language.past_events }}</a></p>

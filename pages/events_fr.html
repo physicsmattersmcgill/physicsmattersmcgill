@@ -36,7 +36,19 @@ widget3:
         <p>
           {% if event.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}"><img src="{{ site.urlimg }}{{ event.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ event.title }}"></a>{% endif %}
 
-          {% if event.meta_description %}{{ event.meta_description | strip_html | escape }}{% elsif event.speaker %}{{ event.speaker | strip_html | escape }}{% endif %}
+          {% include lang-date date=event.event-date lang=event.lang %}<br>
+
+          {% if event.meta_description_fr %}
+            {% assign meta_description = event.meta_description_fr | strip_html | escape %}
+          {% elsif event.meta_description %}
+            <em>Ce résumé n'est pas disponsible en français.</em> {{ event.meta_description | strip_html | escape }}
+          {% elsif event.speaker_fr %}
+            {{ event.speaker_fr | strip_html | escape }}
+          {% else %}
+            {{ event.speaker | strip_html | escape }}
+          {% endif %}
+
+
 
           <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language_fr.read }} {{ event.title }}"><strong>{{ site.data.language_fr.read_more }}</strong></a>
         </p>
