@@ -12,7 +12,7 @@ Les <a href="{{ site.baseurl }}/mcpherson_fr"> colloques Anna I. McPherson</a>, 
 
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
-  {% for event in site.events %}
+  {% for event in site.events_fr %}
   {% if event.type == "lecture" %}
     {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
     {% if event-time-seconds >= now-unix-seconds %}

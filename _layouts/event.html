@@ -45,9 +45,14 @@ format: post
 					{% endif %}
 				</p>
 			{% endif %}
+
+			<!-- Note: the following only shows the location next to date if
+			the event has not yet occurred -->
 			<p>
-				{{ page.event-date | date_to_string }} {{ page.location }}
+				{{ page.event-date | date_to_string }} {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
+		    {% if event-time-seconds >= now-unix-seconds %}{{ page.location }}{% endif %}
 			</p>
+
 
   		{% if showerrmsg %}
 				{% for lang in site.data.languages %}
