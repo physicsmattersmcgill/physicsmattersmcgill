@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Cutting it Both Ways - Ionizing Radiation and Cancer"
 speaker: "Prof. John Kildea (Medical Physics at McGill U.)"
 speaker_url: "https://www.depdocs.com/jkildea/"
 event-date: 2017-03-02 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: kildea_talk.jpg
     thumb: thumb_kildea_talk.jpg
@@ -17,11 +11,6 @@ tags:
   - medical physics
   - cancer
   - radiation
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

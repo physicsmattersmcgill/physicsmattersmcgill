@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "The Wave, Particle, and Mechanical Properties of Light"
 speaker: "Prof. Jack Sankey (McGill U.)"
 speaker_url: http://www.sankeylab.ca/
 event-date: 2016-09-01 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: wafer.jpg
     thumb: thumb_wafer.jpg
@@ -17,11 +11,6 @@ tags:
   - optics
   - light
   - material physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

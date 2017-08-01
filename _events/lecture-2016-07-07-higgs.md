@@ -1,9 +1,4 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "A Massive Quest: The Higgs Boson Discovery"
 speaker: Andrée Robichaud-Véronneau
 speaker_url: http://www.physics.mcgill.ca/~arobic/
@@ -17,11 +12,6 @@ tags:
   - Higgs boson
   - particle physics
   - Large Hadron Collider
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

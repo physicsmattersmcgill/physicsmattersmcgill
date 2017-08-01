@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Quantum Computing: The Science Behind the News"
 speaker: Prof. Bill Coish (McGill U.)
 speaker_url: http://www.physics.mcgill.ca/~coish/
 event-date: 2016-08-04 18:30
-location: "ENGTR 0070 (the Trottier Building), McGill University"
 image:
     title: trudeau-quantum.png
     thumb: thumb_trudeau-quantum.jpg
@@ -17,11 +11,6 @@ tags:
   - quantum computing
   - information theory
   - quantum physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

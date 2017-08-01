@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: The Physics of Disasters
 speaker: Prof. Nikolas Provatas (McGill U.)
 speaker_url: http://www.physics.mcgill.ca/~provatas/.index.html
 event-date: 2016-06-02 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: lecture_provatas.png
     thumb: thumb_lecture_provatas.png
@@ -17,11 +11,6 @@ tags:
   - materials physics
   - applied physics
   - materials engineering
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

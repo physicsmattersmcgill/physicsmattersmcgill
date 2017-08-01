@@ -1,25 +1,14 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "The Quest for Quark-Gluon Plasma — Nuclear Matter at Trillion Degree Temperatures"
 speaker: "Prof. Sangyong Jeon (McGill U.)"
 speaker_url: http://www.physics.mcgill.ca/~jeon/
 event-date: 2016-10-06 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: quark_gluon_small.png
     thumb: thumb_quark_gluon.jpg
 type: lecture
 tags:
   - particle physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

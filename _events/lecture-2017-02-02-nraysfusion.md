@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "From N-Rays to Cold Fusion to NASA’s EMDrive: A Tour of Pathological Science"
 speaker: "Prof. Brian Watson (St. Lawrence University)"
 speaker_url: "https://www.stlawu.edu/people/brian-watson"
 event-date: 2017-02-02 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: watson_nrays.jpg
     thumb: thumb_watson_nrays.jpg
@@ -16,11 +10,6 @@ type: lecture
 tags:
   - ethics
   - pathological science
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

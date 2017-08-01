@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Global Warming: We've Had This Coming For A Long Time"
 speaker: "Prof. Nicolas Cowan (McGill U.)"
 speaker_url: "https://www.mcgill.ca/eps/cowan"
 event-date: 2017-04-06 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: mlo_full_record.jpg
     thumb: thumb_mlo_full_record.jpg
@@ -16,11 +10,6 @@ type: lecture
 tags:
   - global warming
   - climate physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

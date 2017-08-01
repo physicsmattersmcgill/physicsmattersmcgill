@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Why the Warming Can't Be Natural: The Nonlinear Physics of Climate Closure"
 speaker: Prof. Shaun Lovejoy (McGill)
 speaker_url: http://www.physics.mcgill.ca/~gang/Lovejoy.htm
 event-date: 2016-03-10 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: multifractal.png
     thumb: thumb_multifractal.png
@@ -16,11 +10,6 @@ type: lecture
 tags:
   - nonlinear physics
   - climate change
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

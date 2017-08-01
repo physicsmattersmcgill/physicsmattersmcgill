@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Black Holes, String Theory and Quantum Gravity"
 speaker: "Prof. Alex Maloney (McGill U.)"
 speaker_url: http://www.physics.mcgill.ca/~maloney/
 event-date: 2017-01-05 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: maloney.jpg
     thumb: thumb_maloney.jpg
@@ -17,11 +11,6 @@ tags:
   - black holes
   - string theory
   - quantum gravity
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

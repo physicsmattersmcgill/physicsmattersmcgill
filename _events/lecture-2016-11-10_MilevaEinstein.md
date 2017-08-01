@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "The Tragic Destiny of Mileva Marić Einstein"
 speaker: "Pauline Gagnon"
 speaker_url: http://paulinegagnon3.wixsite.com/boson-in-winter
 event-date: 2016-11-10 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: AE_MM_1910.jpg
     thumb: thumb_AE_MM_1910.jpg
@@ -17,11 +11,6 @@ tags:
   - Einstein
   - women in physics
   - history of physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

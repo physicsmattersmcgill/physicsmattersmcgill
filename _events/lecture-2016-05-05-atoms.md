@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "In Awe of Atoms: Lego Blocks of the World around Us"
 speaker: Prof. Mark Sutton (McGill)
 speaker_url:
 event-date: 2016-05-05 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: laueprinciple_small.png
     thumb: thumb_laueprinciple.png
@@ -16,11 +10,6 @@ type: lecture
 tags:
   - microstructures
   - materials physics
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: Squeezing New Information out of DNA
 speaker: Prof. Sabrina Leslie (McGill)
 speaker_url: http://www.physics.mcgill.ca/leslielab/
 event-date: 2016-04-07 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: sabrinaleslie2.jpg
     thumb: thumb_sabrinaleslie2.jpg
@@ -16,11 +10,6 @@ type: lecture
 tags:
   - biophysics
   - DNA
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 

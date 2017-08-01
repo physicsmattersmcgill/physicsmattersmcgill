@@ -1,14 +1,8 @@
 ---
-layout: event
-lang: en
-#
-# Content
-#
 title: "Nanotechnology: there is plenty of room at the bottom"
 speaker: "Prof. Peter Grutter (McGill U.)"
 speaker_url: http://www.physics.mcgill.ca/~peter/
 event-date: 2016-12-01 19:00
-location: "the Keys Auditorium (Rutherford Physics Building, room 112), McGill University"
 image:
     title: lecture_grutter.jpg
     thumb: thumb_lecture_grutter.jpg
@@ -17,11 +11,6 @@ type: lecture
 tags:
   - nanotechnology
   - scanning probe microscopy
-#
-# Styling
-#
-header: no
-mediaplayer: false
 ---
 *Abstract:*
 
