@@ -22,6 +22,7 @@ widget2:
   text: 'The Space Explorers program is a way for kids to explore physics in fun, self-contained, and hands-on modules. Pairs of volunteers visit local classrooms around 5 times over the course of a school year, giving primary school kids a chance to get to know a physicist, while doing educational activities.'
 widget3:
   event: true
+  widget-title: "Upcoming Events"
   url: "/events/"
 #
 # Use the call for action to show a button on the frontpage

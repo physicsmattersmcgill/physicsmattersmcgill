@@ -22,6 +22,7 @@ widget2:
   text: "Le programme des Explorateurs de l'espace propose diverses activités en rapport avec la physique à destination des élèves en école primaire. Les activités sont encadrées par des membres du groupe de vulgarisation qui rendent visite aux écoles 5 fois par an. Une excellente opportunité pour les enfants de rencontrer de vrais chercheurs et d'en apprendre d'avantage sur la physique dans un contexte interactif."
 widget3:
   event: true
+  widget-title: "Événements à Venir"
   url: "/events_fr/"
 homepage: true
 ---

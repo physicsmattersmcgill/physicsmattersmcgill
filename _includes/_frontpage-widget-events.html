@@ -17,8 +17,19 @@
 
 {% assign next-event-image = this-event.image.title %}
 {% assign next-event-time = event-time-seconds %}
-{% assign next-event-title = this-event.title %}
-{% assign next-event-text = this-event.meta_description %}
+
+{% if page.lang=='fr' and this-event.title_fr %}
+  {% assign next-event-title = this-event.title_fr %}
+{% else %}
+  {% assign next-event-title = this-event.title %}
+{% endif %}
+{% if page.lang=='fr' and this-event.meta_description_fr %}
+  {% assign next-event-text = this-event.meta_description_fr %}
+{% elsif page.lang=='fr' %}
+  {% assign next-event-text = "<em>Ce résumé n'est pas disponsible en français.</em>" | append: this-event.meta_description %}
+{% else %}
+  {% assign next-event-text = this-event.meta_description %}
+{% endif %}
 
 <div class="medium-4 columns frontpage-widget">
 	<a href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">
@@ -27,8 +38,8 @@
 			<img src="{{ widget_image }}" alt="" />
 		{% endif %}
 		</a>
-	<h2 class="font-size-h3 t10">Join us at our next event!</h2>
-	<p><b>{{ next-event-title }}:</b> {{ next-event-text }}
+	<h2 class="font-size-h3 t10">{{ include.widget.widget-title }}</h2>
+	<p><b>{{ next-event-title }}</b>  {{ next-event-text }}
     {% if page.lang == 'fr' %}
       {% assign more = site.data.language_fr.more %}
     {% else %}
