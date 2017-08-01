@@ -16,9 +16,17 @@ format: post
 					{% if page.lang=='fr' %}
 						{% if page.title_fr %}
 							<h1>{{ page.title_fr }}</h1>
+							{% assign showerrmsg = false %}
+						{% elsif bilingual %}
+  						<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = false %}
+						{% else %}
+							<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = true %}
 						{% endif %}
 					{% else %}
 						<h1>{{ page.title }}</h1>
+						{% assign showerrmsg = false %}
 					{% endif %}
 				</div>
 			</header>
@@ -41,11 +49,12 @@ format: post
 				{{ page.event-date | date_to_string }} {{ page.location }}
 			</p>
 
-  		{% if page.lang=='fr' %}
-			 	{% if page.title_fr %}
-				{% else %}
-			   <p><em>{{ data.languages.fr.errmsg }}</em></p>
-				{% endif %}
+  		{% if showerrmsg %}
+				{% for lang in site.data.languages %}
+					{% if page.lang==lang.short %}
+			   	<p><em>{{ lang.errmsg }}</em></p>
+					{% endif %}
+				{% endfor %}
 			{% endif %}
 
 			<div itemprop="articleSection">
