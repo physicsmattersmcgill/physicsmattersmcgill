@@ -2,6 +2,7 @@
   short: en
   long: english
   default: true
+  errmsg: "This page is not available in English."
 - fr:
   short: fr
   long: français

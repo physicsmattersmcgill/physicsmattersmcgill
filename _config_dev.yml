@@ -1,6 +1,6 @@
 # This is a copy of the _config.yml file, but uses a local address for the image url
 # Use this config file during development by running
-# $ jekyll serve --config _config_dev.yml 
+# $ jekyll serve --config _config_dev.yml
 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
@@ -39,6 +39,8 @@ baseurl: '/physicsmattersmcgill'
 collections:
   events:
     output: true
+  activities:
+    output: true
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -60,6 +62,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-from
 
 
 #       ____              _             __  _
@@ -120,18 +123,32 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
   -
     scope:
       path: ''
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+  -
+    scope:
+      path: "_events_fr"
+    values:
+      layout: event
+      lang: 'fr'
+      location_fr: "l'auditorium Keys (salle 112), Pavillon Rutherford, 3600 rue Université, Université McGill"
+      permalink: /events_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_events"
+    values:
+      layout: event
+      lang: 'en'
+      location: "Keys Auditorium (room 112), Rutherford Physics Building, 3600 rue Université, McGill University"
+      permalink: /events/:title/
+      header: no
 
 
 

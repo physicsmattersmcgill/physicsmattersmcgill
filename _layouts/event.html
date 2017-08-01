@@ -13,26 +13,52 @@ format: post
 				{% endif %}
 
 				<div itemprop="name">
-					<h1>{{ page.title }}</h1>
+					{% if page.lang=='fr' %}
+						{% if page.title_fr %}
+							<h1>{{ page.title_fr }}</h1>
+							{% assign showerrmsg = false %}
+						{% elsif bilingual %}
+  						<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = false %}
+						{% else %}
+							<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = true %}
+						{% endif %}
+					{% else %}
+						<h1>{{ page.title }}</h1>
+						{% assign showerrmsg = false %}
+					{% endif %}
 				</div>
 			</header>
 
-
-			{% if page.speaker %}
-			<p class="teaser" itemprop="description">
-				{% if page.speaker_url %}
-				  <a href="{{ page.speaker_url }}">{{ page.speaker }}</a>
-				{% else %}
-				  {{ page.speaker }}
-				{% endif %}
-			</p>
+			{% if page.lang=='fr' and page.speaker_fr %}
+				{% assign speaker = page.speaker_fr %}
+			{% elsif page.speaker %}
+				{% assign speaker = page.speaker %}
+			{% endif %}
+			{% if speaker %}
+				<p class="teaser" itemprop="description">
+					{% if page.speaker_url %}
+				  	<a href="{{ page.speaker_url }}">{{ speaker }}</a>
+					{% else %}
+				  	{{ speaker }}
+					{% endif %}
+				</p>
+			{% endif %}
 			<p>
-				{{ page.event-date | date_to_string }} in {{ page.location }}
+				{{ page.event-date | date_to_string }} {{ page.location }}
 			</p>
+
+  		{% if showerrmsg %}
+				{% for lang in site.data.languages %}
+					{% if page.lang==lang.short %}
+			   	<p><em>{{ lang.errmsg }}</em></p>
+					{% endif %}
+				{% endfor %}
 			{% endif %}
 
 			<div itemprop="articleSection">
-			{{ content }}
+				{{ content }}
 			</div>
 
 			{% if page.show_meta == true %}
