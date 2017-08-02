@@ -4,7 +4,7 @@ title: "For Students"
 lang: en
 header:
    image_fullwidth: "openhouse_outside.jpg"
-permalink: /students/
+permalink: /students_fr/
 ---
 *Traduction en course*
 
