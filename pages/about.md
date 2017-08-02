@@ -13,3 +13,8 @@ The outreach group in the [Department of Physics](http://www.physics.mcgill.ca) 
 
 ## Our Team
 Thanks to all our dedicated volunteers!
+
+### Leadership
+- Chair of the Outreach Committee: Prof. Nikolas Provatas
+- Outreach coordinator: Ashley DaSilva (soon to be Rasa Rejali)
+- Webmaster: Ashley DaSilva (new volunteer needed!)
