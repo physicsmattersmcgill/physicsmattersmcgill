@@ -12,6 +12,8 @@ links:
   - url: https://sites.google.com/site/womeninphysicsmcgill/home
     logo: partnerlogo_wip.png
     text: Women in Physics at McGill University
+  - url: http://www.physics.mcgill.ca/museum/rutherford_museum.htm
+    text: The Rutherford Museum
 permalink: "/partners/"
 ---
 
