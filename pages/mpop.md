@@ -6,7 +6,7 @@ Training sessions will be held approximately once a week and last around two to 
 The type of person who should sign-up for this program are high-school or CEGEP students passionate about physics, love to solve puzzles and would like to perform well in these competitions.  Although these sessions are given in English, the Olympiads can be written in either French or English.  In fact, we support female and underrepresented individuals to sign-up!
 It would also be advantageous if students have self-studied various topics in physics and calculus.   It may also be useful to note that good performance in physics Olympiads is well recognized by universities around the world.
 # How to join?
-Start by filling out this <a href="https://goo.gl/forms/ESjLoWbYVNMlABM12">registration form</a>.
+Start by filling out this [registration form](https://goo.gl/forms/ESjLoWbYVNMlABM12).
 You will be contacted shortly after you have submitted the form.  Note that if demand is too high, there may be a selection process.
 # How much does it cost?
 MPOP is free of charge! If you’re a passionate CEGEP or high-school student and would like to learn more than what’s taught in your physics classes, then you are more than welcome to join!
@@ -15,9 +15,8 @@ Abtin Ameri is a Mechanical Engineering student at McGill minoring in Physics (c
 
 Vincent Van Duong is a Honours Mathematics and Physics major (class of 2020) at McGill and has graduated from Marianopolis College in Montreal.  Vincent received the highest score in Quebec and the ninth best score in Canada for the 2016 CAP examination.  He was invited to the national finals at the University of British Columbia for the CPO.  As Vincent is from Montreal originally, he supports this initiative because Quebec students are underrepresented at physics Olympiads.
 # Useful Links
-<ul>
-<li><a href=”http://ipho.org/”>International Physics Olympiad</a></li>
-<li><a href=”http://cpo.phas.ubc.ca/”>Canadian Physics Oympiad”</a></li>
-<li><a href=”http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/”> Canadian Association of Physicists Exam</a></li>
-<li><a href=”https://uwaterloo.ca/sir-isaac-newton-exam/”>Sir Isaac Newton contest</a></li>
-</ul>
+- [International Physics Olympiad](http://ipho.org/)
+- [Canadian Physics Oympiad](http://cpo.phas.ubc.ca/)
+- [Canadian Association of Physicists Exam](http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)
+- [Sir Isaac Newton contest](https://uwaterloo.ca/sir-isaac-newton-exam/)
+
