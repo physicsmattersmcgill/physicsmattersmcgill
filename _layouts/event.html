@@ -2,6 +2,9 @@
 layout: default
 format: post
 ---
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% capture event-time-seconds %}{{ page.event-date | date: '%s' }}{% endcapture %}
+
 <div class="row t30">
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
@@ -49,7 +52,7 @@ format: post
 			<!-- Note: the following only shows the location next to date if
 			the event has not yet occurred -->
 			<p>
-				{{ page.event-date | date_to_string }} {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
+				{% include lang-date date=event-time-seconds lang=page.lang %}{{ event-time-seconds | date: '%H:%M' }}<br>
 		    {% if event-time-seconds >= now-unix-seconds %}{{ page.location }}{% endif %}
 			</p>
 
