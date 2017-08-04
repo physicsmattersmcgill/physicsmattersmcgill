@@ -1,5 +1,4 @@
 language: ruby
-<<<<<<< HEAD
 script: "bundle exec jekyll build"
 rvm:
 - 2.3.3
