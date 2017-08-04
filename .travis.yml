@@ -1,9 +1,14 @@
 language: ruby
+<<<<<<< HEAD
 script: "bundle exec jekyll build"
 rvm:
 - 2.3.3
 install:
   - bundle install
+=======
+rvm:
+ - 2.2
+>>>>>>> master
 deploy:
   provider: pages
   skip_cleanup: true

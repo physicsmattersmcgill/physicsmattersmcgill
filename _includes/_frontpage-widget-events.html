@@ -26,7 +26,7 @@
 {% if page.lang=='fr' and this-event.meta_description_fr %}
   {% assign next-event-text = this-event.meta_description_fr %}
 {% elsif page.lang=='fr' %}
-  {% assign next-event-text = "<em>Ce résumé n'est pas disponsible en français.</em>" | append: this-event.meta_description %}
+  {% assign next-event-text = "<em>Ce résumé n'est pas disponsible en français. </em>" | append: this-event.meta_description %}
 {% else %}
   {% assign next-event-text = this-event.meta_description %}
 {% endif %}
