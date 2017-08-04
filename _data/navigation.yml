@@ -57,33 +57,46 @@
       fr: "/activities_fr/"
 
 - title:
-    en: "Public Lectures"
-    fr: "Conférences publiques"
+    en: "For students"
+    fr: "Pour les élèves"
   url:
-    en: "/lectures/"
-    fr: "/lectures_fr/"
+    en: "/students/"
+    fr: "/students_fr/"
   side: left
   dropdown:
-  - title:
-      en: "Physics Matters series"
-      fr: "La physique dans Tous ses États"
-    url:
-      en: "/lectures/"
-      fr: "/lectures_fr/"
-  - title:
-      en: "Anna I. McPherson series"
-      fr: "Série de colloques Anna I. McPherson"
-    url:
-      en: "/mcpherson/"
-      fr: "/mcpherson_fr/"
+    - title:
+        en: "Visit us at McGill"
+        fr: "Rendez-nous visite"
+      url:
+        en: "/students/"
+        fr: "/students_fr/"
+    - title:
+        en: McGill Physics Olympiad Program
+        fr: McGill Physics Olympiad Program
+      url:
+        en: "/mpop/"
+        fr: "/mpop_fr/"
 
 - title:
-    en: Events
-    fr: Évenements
+    en: "Public Events"
+    fr: "Événements publics"
   url:
     en: "/events/"
     fr: "/events_fr/"
   side: left
+  dropdown:
+  - title:
+      en: "Physics Matters lecture series"
+      fr: "Série de colloques 'La physique dans Tous ses États'"
+    url:
+      en: "/lectures/"
+      fr: "/lectures_fr/"
+  - title:
+      en: "Anna I. McPherson lecture series"
+      fr: "Série de colloques Anna I. McPherson"
+    url:
+      en: "/mcpherson/"
+      fr: "/mcpherson_fr/"
 
 - title:
     en: Partners
