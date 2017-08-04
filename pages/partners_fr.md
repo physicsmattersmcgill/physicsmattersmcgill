@@ -14,6 +14,8 @@ links:
     text: Women in Physics at McGill University
   - url: http://www.physics.mcgill.ca/museum/rutherford_museum.htm
     text: Le musée Rutherford
+  - url: https://www.mcgill.ca/ipn/brainreach
+    logo: partnerlogo_BrainReach.png
 permalink: "/partners_fr/"
 ---
 

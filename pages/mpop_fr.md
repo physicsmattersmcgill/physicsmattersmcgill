@@ -28,3 +28,4 @@ Vincent Van Duong est étudiant en mathématiques et en physique des honneurs (c
 - [Olympiades canadienne de physique](http://cpo.phas.ubc.ca/)
 - [Examen Association Canadienne des physiciens et physiciennes](http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)
 - [Concours Sir Isaac Newton](https://uwaterloo.ca/sir-isaac-newton-exam/)
+
