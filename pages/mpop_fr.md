@@ -7,7 +7,7 @@ permalink: /mpop_fr/
 ---
 
 # C’est quoi MPOP ?
-Le “McGill Physics Olympiad Program” est une initiative commencée par des étudiants de McGill avec le but de préparé des étudiants niveau secondaire ou de CEGEP pour les olympiades en physique.  Parmis ces olympiades contiennent les examens : Sir Isaac Newton (SIN), Association Canadienne des physiciens et physiciennes (ACP), Olympiades canadienne de physique (CPO) et l’Olympiade de physique internationale (IPhO).
+Le “Programme d'olympiade de physique à McGill (MPOP)” est une initiative commencée par des étudiants de McGill avec le but de préparé des étudiants niveau secondaire ou de CEGEP pour les olympiades en physique.  Parmis ces olympiades contiennent les examens : Sir Isaac Newton (SIN), Association Canadienne des physiciens et physiciennes (ACP), Olympiades canadienne de physique (CPO) et l’Olympiade de physique internationale (IPhO).
 # Commentaire déroulera ce cours ?
 Des séances de deux à trois heures seront organisées environ chaque semaine. Le sujet des séances comportera de concepts avancés en physique et comprendront des techniques spéciales de résolution de problèmes pour aider les élèves à mieux performer au examens olympiades. Les élèves seront mis au défis avec des problèmes comme devoir ; résoudre ces problèmes est d’abords la responsabilité de l'élève.
 # Qui devrait s’inscrire ?
@@ -24,5 +24,5 @@ Vincent Van Duong est étudiant en mathématiques et en physique des honneurs (c
 # Liens utliles
 - [Olympiade de Physique Internationale](http://ipho.org/)
 - [Olympiades canadienne de physique](http://cpo.phas.ubc.ca/)
-- [Examen de l’Association Canadienne des physiciens et physiciennes](http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)
-- [Le concours Sir Isaac Newton](https://uwaterloo.ca/sir-isaac-newton-exam/)
+- [Examen Association Canadienne des physiciens et physiciennes](http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)
+- [Concours Sir Isaac Newton](https://uwaterloo.ca/sir-isaac-newton-exam/)
