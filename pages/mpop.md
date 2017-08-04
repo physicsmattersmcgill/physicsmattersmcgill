@@ -1,5 +1,13 @@
+---
+layout: page
+title: "McGill Physics Olympiad Program (MPOP)"
+lang: en
+header: no
+permalink: /mpop/
+---
+
 # What is MPOP?
-The “McGill Physics Olympiad Program” is a student-run initiative which aims to prepare high school and CEGEP students in the Montreal area for prestigious competitions such as the: Sir Isaac Newton (SIN) exam, Canadian Association of Physicists (CAP) exam, Canadian Physics Olympiad (CPO), and the International Physics Olympiad (IPhO).
+The “McGill Physics Olympiad Program (MPOP)” is a student-run initiative which aims to prepare high school and CEGEP students in the Montreal area for prestigious competitions such as the: Sir Isaac Newton (SIN) exam, Canadian Association of Physicists (CAP) exam, Canadian Physics Olympiad (CPO), and the International Physics Olympiad (IPhO).
 # How does it Work?
 Training sessions will be held approximately once a week and last around two to three hours. Sessions will cover special topics in physics found in Olympiads and problem solving strategies. For homework, participants will be assigned challenge homework problems, some of which will be taken up in the next lecture; solving the problems is ultimately the responsibility of the student.
 # Who should sign-up?
