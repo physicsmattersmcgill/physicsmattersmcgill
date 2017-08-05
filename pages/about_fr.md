@@ -8,7 +8,6 @@ permalink: "/about_fr/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-*Traduction en course*
 
 ## Notre mission
 Le groupe de vulgarisation du [département de Physique](http://www.physics.mcgill.ca) de l'université McGill a été fondé avec le but de faciliter l'accès aux connaissances scientifiques et de communiquer l'engouement pour les sciences Physiques au plus grand nombre. Nos programmes sont variés et destinés à des publics divers: écoliers, étudiants, grand public et autres groupes de la communauté scientifique.  
