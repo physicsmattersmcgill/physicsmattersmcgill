@@ -15,9 +15,7 @@ Etes-vous intéresser à obtenir un diplôme en physique ? Vous vous demander qu
 ## Hackathon de physique
 Le [Hackathon de physique McGill](http://www.physics.mcgill.ca/hackathon2017/), lancé en 2016, est un hackathon consacré à la résolution et à la visualisation de problèmes de physique. Les équipes participantes seront mises au défi d'utiliser des outils informatiques scientifiques et / ou des gadgets microélectroniques pour démontrer un concept, un phénomène ou une application impliquant les sciences physiques.
 
-## McGill Physics Olympiad Program
-Are you a high school or CEGEP student interested in competitive physics olympiads? Our  offers mentorship and practice sessions led by undergraduate physics students experienced in these competitions.
-
+## Programme d'olympiade de physique à McGill
 Êtes-vous un élève en secondaire ou de CEGEP intéressé par les olympiades compétitives en physique? Notre [Programme d'olympiade de physique à McGill]({{ site.baseurl }}/mpop_fr) (MPOP), organisé par des étudiants expérimenter dans ces examens, offre des cours et mentorat pour ces olympiades.
 
 ## Visitez le département de physique
