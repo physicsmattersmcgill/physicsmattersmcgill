@@ -8,14 +8,17 @@ permalink: /students_fr/
 ---
 *Traduction en course*
 
-## Open House
-Interested in pursuing an undergraduate physics degree? Wondering what kind of research happens in the physics department at McGill? Each year we host an open house for students interested in seeing what our department is all about. Watch the [events page]({{ site.baseurl }}/events_fr) for more details.
+## Porte ouverte
+Etes-vous intéresser à obtenir un diplôme en physique ? Vous vous demander que ce notre département de physique fait comme recherches ? Chaque année, McGill organise une porte ouverte pour les étudiants intéressés à voir ce que nous faisons. Visitez la [page des événements] ({{ site.baseurl }}/events_fr) pour plus en savoir.
 
-## Physics Hackathon
-The [McGill Physics hackathon](http://www.physics.mcgill.ca/hackathon2017/), started in 2016, is a hackathon devoted to solving and visualizing physics problems. Participant teams will be challenged to use scientific computing tools and/or microelectronic gadgets to demonstrate a concept, phenomenon or application involving the physical sciences.
+
+## Hackathon de physique
+Le [Hackathon de physique McGill](http://www.physics.mcgill.ca/hackathon2017/), lancé en 2016, est un hackathon consacré à la résolution et à la visualisation de problèmes de physique. Les équipes participantes seront mises au défi d'utiliser des outils informatiques scientifiques et / ou des gadgets microélectroniques pour démontrer un concept, un phénomène ou une application impliquant les sciences physiques.
 
 ## McGill Physics Olympiad Program
-Are you a high school or CEGEP student interested in competitive physics olympiads? Our [McGill Physics Olympiad Program]({{ site.baseurl }}/mpop_fr) (MPOP) offers mentorship and practice sessions led by undergraduate physics students experienced in these competitions.
+Are you a high school or CEGEP student interested in competitive physics olympiads? Our  offers mentorship and practice sessions led by undergraduate physics students experienced in these competitions.
+
+Êtes-vous un élève en secondaire ou de CEGEP intéressé par les olympiades compétitives en physique? Notre [Programme d'olympiade de physique à McGill]({{ site.baseurl }}/mpop_fr) (MPOP), organisé par des étudiants expérimenter dans ces examens, offre des cours et mentorat pour ces olympiades.
 
 ## Visitez le département de physique
 Nous pouvons accueillir de groupes scolaires ou extra-scolaires à McGill. Nous disposons d'un certains nombre d'activités que nous pouvons animer en français ou en anglais pour des jeunes de tout âge. La visite peut aussi inclure un tour dans le musée Rutherford, le tour de certain laboratoires de recherche ainsi que diverses activités de démosntration.
