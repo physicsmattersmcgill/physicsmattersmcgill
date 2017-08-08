@@ -19,4 +19,4 @@ Un grand merci à tous nos bénévoles pour leurs excellents traveaux!
 ### Les dirigeants
 - Président du comité de vulgarisation: Prof. Nikolas Provatas
 - Coordinateur de vulgarisation: Ashley DaSilva (bientôt remplacé par Rasa Rejali)
-- Webmaster: Ashley DaSilva (nouveau volontaire recherché!)
+- Webmaster: Taylor Bell
