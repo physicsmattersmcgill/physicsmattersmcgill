@@ -16,13 +16,13 @@ image:
 downloads:
   -
     name: "Facilitator guide - English"
-    filename: "Collision_facilitator_guide.pdf"
+    filename: "Collisions_facilitator_guide.pdf"
   -
     name: "Student worksheet - English"
-    filename: "Collisions_student_worksheet_en.pdf"
+    filename: "Collisions_student_worksheet_EN.pdf"
   -
     name: "Feuille de travail de l'élève - français"
-    filename: "Collisions_student_worksheet_fr.pdf"
+    filename: "Collisions_student_worksheet_FR.pdf"
 #
 # Styling
 #
