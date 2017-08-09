@@ -42,6 +42,8 @@ collections:
     output: true
   activities:
     output: true
+  activities_fr:
+    output: true
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -54,7 +56,6 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'http://www.physics.mcgill.ca/physics-matters/images/'
-
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -153,7 +154,22 @@ defaults:
       permalink: /events/:title/
       header: no
       bilingual: false
-
+    -
+      scope:
+        path: "_activities_fr"
+      values:
+        layout: activity
+        lang: 'fr'
+        permalink: /activities_fr/:title/
+        header: no
+    -
+      scope:
+        path: "_activities"
+      values:
+        layout: activity
+        lang: 'en'
+        permalink: /activities/:title/
+        header: no
 
 
 #       _   __            _             __  _
