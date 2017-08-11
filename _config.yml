@@ -154,22 +154,22 @@ defaults:
       permalink: /events/:title/
       header: no
       bilingual: false
-    -
-      scope:
-        path: "_activities_fr"
-      values:
-        layout: activity
-        lang: 'fr'
-        permalink: /activities_fr/:title/
-        header: no
-    -
-      scope:
-        path: "_activities"
-      values:
-        layout: activity
-        lang: 'en'
-        permalink: /activities/:title/
-        header: no
+  -
+    scope:
+      path: "_activities_fr"
+    values:
+      layout: activity
+      lang: 'fr'
+      permalink: /activities_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_activities"
+    values:
+      layout: activity
+      lang: 'en'
+      permalink: /activities/:title/
+      header: no
 
 
 #       _   __            _             __  _
