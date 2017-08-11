@@ -41,6 +41,8 @@ collections:
     output: true
   activities:
     output: true
+  activities_fr:
+    output: true
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -149,7 +151,22 @@ defaults:
       location: "Keys Auditorium (room 112), Rutherford Physics Building, 3600 rue Université, McGill University"
       permalink: /events/:title/
       header: no
-
+  -
+    scope:
+      path: "_activities_fr"
+    values:
+      layout: activity
+      lang: 'fr'
+      permalink: /activities_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_activities"
+    values:
+      layout: activity
+      lang: 'en'
+      permalink: /activities/:title/
+      header: no
 
 
 #       _   __            _             __  _

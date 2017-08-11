@@ -13,21 +13,28 @@ format: post
 				{% endif %}
 
 				<div itemprop="name">
-					<h1>{{ page.title }}</h1>
+					<h1>{% if page.lang=='fr' %}{{ page.title_fr }}{% else %}{{ page.title }}{% endif %}</h1>
 				</div>
 			</header>
 
 
-			{% if page.objective %}
 			<p class="teaser" itemprop="description">
-			  {{ page.objective }}
+			  {% if page.lang=='fr' %}{{ page.objective_fr }}{% else %}{{ page.objective }}{% endif %}
 			</p>
-			{% endif %}
+
+			<p>{% if page.lang=='fr' %}Pour les scientifiques de {{ page.age }} ans.{% else %}For scientists aged {{ page.age }}.{% endif %}
 
 			<div itemprop="articleSection">
-			{{ content }}
+				{% if page.lang=='fr' %}{{ page.summary_fr }}{% else %}{{ page.summary }}{% endif %}
 			</div>
 
-
+			<h2>Downloads</h2>
+			{% if page.downloads %}
+			<ul>
+			{% for doc in page.downloads %}
+				<li><a href="{{ site.baseurl }}/downloads/{{ doc.filename }}">{{ doc.name }}</a></li>
+			{% endfor %}
+		</ul>
+			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->

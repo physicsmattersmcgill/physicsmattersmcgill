@@ -29,7 +29,7 @@
         {% for lang in site.data.languages %}
           {% if page.lang == lang.short %}
             {% assign pageurl = page.url %}
-          {% elsif page.layout == 'event' %}
+          {% elsif page.layout == 'event' or page.layout == 'activity' %}
             {% assign urlparts = page.url | split: "/" %}
         	  {% assign old_folder = "/" | append: urlparts[1] %}
             {% if lang.short == default %}

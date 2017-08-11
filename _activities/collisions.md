@@ -1,41 +1,31 @@
 ---
 layout: activity
-lang: en
 #
 # Content
 #
 title: "Collisions"
+title_fr:
 age: 8-12
-objective: "Predict a hidden shape by looking at trajectories of marbles that bounce off of it."
-tags:
-  - trajectories
-  - particle collisions
-  - radar
-  - reflection
+objective: "Predict a hidden shape by looking at trajectories of marbles that bounce off it."
+objective_fr: ""
+summary: "In this activity, students will learn about how scientists use collisions to determine properties of objects that they cannot see with their eyes. Students will learn about how an object behaves when it hits a surface at different angles and use this to predict the shape of a hidden object using our 'shape colliders.'"
+summary_fr: ""
 image:
   thumb: collisions_top_kids_thumb.jpg
   title: collisions_top_kids_old.jpg
+downloads:
+  -
+    name: "Facilitator guide - English"
+    filename: "Collisions_facilitator_guide.pdf"
+  -
+    name: "Student worksheet - English"
+    filename: "Collisions_student_worksheet_EN.pdf"
+  -
+    name: "Feuille de travail de l'élève - français"
+    filename: "Collisions_student_worksheet_FR.pdf"
 #
 # Styling
 #
 header: no
 mediaplayer: false
 ---
-## Preparation
-This activity makes use of "shape colliders." The shape colliders are made by creating different shapes, each about 1 inch thick, which are attached to the bottom of round disks which hide the shape from view.
-- Prepare the shape colliders
-- Do the activity on a large, flat table, or move chairs and tables out of the way so activity can be done on the floor.
-
-## Materials
-- hula hoops (1 per group)
-- shape colliders (1-2 per group)
-- large sheets or roll of paper
-- marbles
-- pens
-- tape
-
-## Engage
-
-## Explore
-
-## Explain
