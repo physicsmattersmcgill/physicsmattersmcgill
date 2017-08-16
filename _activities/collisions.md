@@ -13,6 +13,8 @@ summary_fr: ""
 image:
   thumb: collisions_top_kids_thumb.jpg
   title: collisions_top_kids_old.jpg
+  alttext: "three children performing the collisions experiment"
+  alttext_fr: "trois enfants font l'activité collisions"
 downloads:
   -
     name: "Facilitator guide - English"
@@ -21,7 +23,7 @@ downloads:
     name: "Student worksheet - English"
     filename: "Collisions_student_worksheet_EN.pdf"
   -
-    name: "Feuille de travail de l'élève - français"
+    name: "Fiche d'activité - français"
     filename: "Collisions_student_worksheet_FR.pdf"
 #
 # Styling
