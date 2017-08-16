@@ -76,6 +76,12 @@
       url:
         en: "/mpop/"
         fr: "/mpop_fr/"
+    - title:
+        en: Summer Internships
+        fr: Summer Internships
+      url:
+        en: "/interns/"
+        fr: "/interns_fr/"
 
 - title:
     en: "Public Events"
