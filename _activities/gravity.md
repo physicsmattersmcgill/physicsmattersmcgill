@@ -6,11 +6,7 @@ lang: en
 #
 title: "Gravity"
 age: 8-12
-objective: "Learn how objects with different masses and from different heights fall under the effect of gravity"
-tags:
-  - gravity
-  - mass
-  - energy
+objective: ""
 #
 # Styling
 #

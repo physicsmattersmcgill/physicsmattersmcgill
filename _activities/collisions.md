@@ -13,6 +13,8 @@ summary_fr: "Dans cet activité, les élèves vont apprendre au sujet d'une mét
 image:
   thumb: collisions_top_kids_thumb.jpg
   title: collisions_top_kids_old.jpg
+  alttext: "three children performing the collisions experiment"
+  alttext_fr: "trois enfants font l'activité collisions"
 downloads:
   -
     name: "Facilitator guide - English"
