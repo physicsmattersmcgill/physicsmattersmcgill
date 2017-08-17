@@ -6,7 +6,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth: "20170506_103837_banner.jpg"
 permalink: "/activities_fr/"
 ---
 {% for activity in site.activities_fr %}
