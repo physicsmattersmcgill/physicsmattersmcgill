@@ -11,12 +11,8 @@ objective_fr: "Relier des ampoules et d'autres élèments d'un circuit ensemble 
 summary: "In this activity, students will develop a model of electricity and explore their model using circuit elements. Students will get a chance to connect a battery, LEDs, and other circuit elements using wires with alligator clips. They will explain their findings using a model of electrical current and potential energy that is developed during the activity."
 summary_fr: "Dans cette activité, les élèves vont développer une maquette d’un circuit électrique, puis ils vont explorer cette maquette en utilisant de différents éléments de circuits. Les élèves auront la chance de relier une pile, des diodes électroluminescentes, et d’autres éléments de circuits à l’aide de fils avec des pinces crocodile. Ils vont expliquer les résultats en utilisant une maquette de courant électrique et d’énergie potentielle qui sera développé au cours de l’activité."
 image:
-  thumb:
-  title:
-downloads:
-  -
-    name: "Facilitator guide - English"
-    filename: "Collisions_facilitator_guide.pdf"
+  thumb: circuits.jpg
+  title: thumb_circuits.jpg
 #
 # Styling
 #
