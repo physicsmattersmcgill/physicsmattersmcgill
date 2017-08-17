@@ -31,8 +31,8 @@ author: adasilva, achuinar
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #url: 'https://physics.mcgill.ca/physics-matters'
-url: 'https://physics.mcgill.ca'
-baseurl: '/physics-matters'
+url: 'https://physicsmattersmcgill.github.io'
+baseurl: '/physicsmattersmcgill'
 
 # Collections
 collections:
@@ -55,7 +55,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.physics.mcgill.ca/outreach/images/'
+urlimg: 'http://www.physics.mcgill.ca/physics-matters/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
