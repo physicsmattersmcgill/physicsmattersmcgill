@@ -4,7 +4,7 @@ layout: activity
 # Content
 #
 title: "Circuits and Electricity"
-title_fr:"Électricité et Circuits"
+title_fr: "Électricité et Circuits"
 age: 8-12
 objective: "Connect lights and other circuit elements together to discover how electricity works."
 objective_fr: "Relier des ampoules et d'autres élèments d'un circuit ensemble afin d'apprendre au sujet du fonctionnement de l'électricité."

@@ -1,12 +1,15 @@
 ---
 layout: activity
-lang: en
 #
 # Content
 #
 title: "Gravity"
+title_fr: ""
 age: 8-12
 objective: ""
+objective_fr: ""
+summary: ""
+summary_fr: ""
 #
 # Styling
 #
