@@ -30,9 +30,10 @@ author: adasilva, achuinar
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://physicsmatters.physics.mcgill.ca'
-#url: 'https://physicsmattersmcgill.github.io'
-baseurl: ''
+#url: 'https://physicsmatters.physics.mcgill.ca'
+url: 'https://physicsmattersmcgill.github.io'
+#baseurl: 'physics-matters'
+baseurl: '/physicsmattersmcgill'
 
 # Collections
 collections:
