@@ -2,6 +2,12 @@ This is the repository for the Physics Matters McGill website, https://physicsma
 
 This README is meant to help someone to update the Physics Matters website. This website was built using the [Feeling Responsive template](http://phlow.github.io/feeling-responsive/). Please refer to the template documentation for more details about the template. The information below is specific to our website, and covers all the basic tasks that will be necessary for updating and maintaining this website.
 
+# Are you a Physics Matters volunteer here to help?
+
+Check out the issues list on github!
+
+If you're bilingual, look for the label "translation needed" in light green. Ask questions in the thread if you need help finding a file, or have any questions about the translation.
+
 # Adding a page or changing the navigation menu
 The data for the navigation menu (page names, what goes in each menu) goes in the folder `_data/navigation.yml`.
 
@@ -12,12 +18,12 @@ Each page in the menu must have an English and French title and url in the `_dat
 # Images  
 Any images used on the site should be added to the `physics-matters/images` folder on the physics department server. Please do NOT put pictures for the website on github.
 
+Before uploading the image, take a look at its size. It may be necessary to scale down the size for the website. Although this reduces the quality, it will help the page load faster. Typical dimensions will most likely be in the range of 600-1200 pixels, depending on how large it'll be shown on the page.
+
 ## Thumbnails
 Images to be used as thumbnails should be sized to be 150x150 pixels. Try to make the image as square as possible so that the thumbnails will look consistent when content is listed on a page. If you really need a rectangular image, then set the width to 150 pixels, and the height can be a little flexible.
 
-It is convenient if the filename for thumbnail images starts or ends with `thumb` so that it is easy to tell which are small thumbnail images and therefore should not be used for larger slots on the website.
-
-For very large images, it may be useful to scale down the size for the version shown on the website. Although this reduces the quality, it will help the page load faster.
+It is convenient if the filename for thumbnail images starts or ends with `thumb` so that it is easy to tell which are small thumbnail images and therefore should not be used for larger slots on the website
 
 # Adding an event
 New events are added as elements of a jekyll collection - this is called the events collection. Each event has its own markdown file (extension: `.md`) in the `_events` folder which marks it as part of the collection. There is a template you can use the the `_drafts` folder.
