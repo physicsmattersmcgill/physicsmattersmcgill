@@ -13,6 +13,13 @@ summary_fr: "Dans cette activité, les élèves vont développer une maquette d�
 image:
   title: circuits.jpg
   thumb: thumb_circuits.jpg
+downloads:
+  -
+    name: "Facilitator guide - English"
+    filename: "Circuits - facilitator guide.pdf"
+  -
+    name: "Student worksheet - English"
+    filename: "Circuits - student worksheet - EN.pdf"
 #
 # Styling
 #
