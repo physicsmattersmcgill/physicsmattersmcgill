@@ -6,6 +6,7 @@ layout: activity
 title: "Circuits and Electricity"
 title_fr: "Électricité et Circuits"
 age: 8-12
+spaceexplorers: true
 objective: "Connect lights and other circuit elements together to discover how electricity works."
 objective_fr: "Relier des ampoules et d'autres élèments d'un circuit ensemble afin d'apprendre au sujet du fonctionnement de l'électricité."
 summary: "In this activity, students will develop a model of electricity and explore their model using circuit elements. Students will get a chance to connect a battery, LEDs, and other circuit elements using wires with alligator clips. They will explain their findings using a model of electrical current and potential energy that is developed during the activity."

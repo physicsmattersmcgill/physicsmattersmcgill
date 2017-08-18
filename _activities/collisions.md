@@ -6,6 +6,7 @@ layout: activity
 title: "Collisions"
 title_fr: "Collisions"
 age: 8-12
+spaceexplorers: true
 objective: "Predict a hidden shape by looking at trajectories of marbles that bounce off it."
 objective_fr: "Prédire la forme inconnu d'un objet en regardant la trajectoire des billes créer par une collision avec l'objet. "
 summary: "In this activity, students will learn about how scientists use collisions to determine properties of objects that they cannot see with their eyes. Students will learn about how an object behaves when it hits a surface at different angles and use this to predict the shape of a hidden object using our 'shape colliders.'"

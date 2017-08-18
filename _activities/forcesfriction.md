@@ -6,6 +6,7 @@ layout: activity
 title: "Forces and Friction"
 title_fr: "Forces et Friction"
 age: 8-12
+spaceexplorers: true
 objective: "Learn how forces affect the motion of objects."
 objective_fr: "Apprendre comment que les forces influencent le mouvement d'un objet."
 summary: "In this activity, students will perform experiments using a pulley-weight setup in order to understand the effects of forces on the motion of an object. They will learn about how the force applied on the object and the mass of the object affects it's motion by adding washers to both ends of a string that is attached to a pulley.  They will also experiment with the force of friction acting on the object, and discover how a sandpaper surface affects the object’s motion."
