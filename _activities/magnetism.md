@@ -1,6 +1,5 @@
 ---
 layout: activity
-lang: en
 #
 # Content
 #

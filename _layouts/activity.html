@@ -52,7 +52,7 @@ format: post
 				<h2>Downloads</h2>
 				<ul>
 					{% for doc in page.downloads %}
-					<li><a href="{{ site.baseurl }}/downloads/{{ doc.filename }}">{{ doc.name }}</a></li>
+					<li><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ doc.filename }}">{{ doc.name }}</a></li>
 					{% endfor %}
 				</ul>
 			</p>
