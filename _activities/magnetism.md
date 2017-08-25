@@ -4,7 +4,7 @@ layout: activity
 # Content
 #
 title: "Magnetism"
-title_fr:"Magnétisme"
+title_fr: "Magnétisme"
 age: 8-12
 objective: "Discover the cause of magnetic forces."
 objective_fr: "Découvrir la cause de la force magnétique"
