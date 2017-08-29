@@ -14,8 +14,12 @@ image:
    thumb:
    title:
 downloads:
-   name: “”
-   filename: “”
+   -
+      name: “Facilitator guide - EN”
+      filename: “Sink or Float - facilitator guide_EN.pdf”
+   -
+      name: “Student worksheet - EN”
+      filename: “Sink or Float - student worksheet_EN.pdf”
 #
 # Styling
 #
