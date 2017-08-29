@@ -15,7 +15,7 @@ Si vous êtes intéressés à participer à l'un de nos programmes. Contactez-no
 
 # Partant pour devenir bénévole?
 
-Que tu sois étudiant au baccalauréat, gradué, post-gradué ou membre de la faculté, notre association serait ravie de t'accueillir. Aucune expérience préalable n'est requise.  Les étudiants bénévoles peuvent être admissibles pour le programme [dossier co-curriculaire](https://www.mcgill.ca/involvement/ccr) de McGill. Et si tu hésites encore, voici quelques points qui saurons te convaincre:
+<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"> Que tu sois étudiant au baccalauréat, gradué, post-gradué ou membre de la faculté, notre association serait ravie de t'accueillir. Aucune expérience préalable n'est requise.  Les étudiants bénévoles peuvent être admissibles pour le programme [dossier co-curriculaire](https://www.mcgill.ca/involvement/ccr) de McGill. Et si tu hésites encore, voici quelques points qui saurons te convaincre:
 - Tout le monde est confronté aux lois de la physique dans al vie de tous les jours. Il est essentiel pour tous d'en comprendre les bases. En tant que membre de notre groupe, tu apportes ta pierre à l'édifice!
 - L'image du/de la scientifique est souvent très stéréotypée. Quoi de mieux que de donner un coup de balais sur le cliché du scientifique ébouriffé en blouse blanche?
 - Un bon vulgarisateur est un bon orateur. Par le biais de nos programmes, tu peux acquerir des compétences en communication très utiles pour ta carrière et pour la vie en général! C'est aussi une excellente opportunité pour pratiquer ton anglais, ton français, ou les deux!
