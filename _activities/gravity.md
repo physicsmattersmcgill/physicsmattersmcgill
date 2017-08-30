@@ -12,14 +12,14 @@ summary: "Students will perform three different experiments by dropping ball bea
 summary_fr: "Les élèves vont performés trois experience différentes en relachant des billes dans une boîte rempli de sable. La première fois, deux billes ayant des masses différentes seront relachées de la même hauteur. La deuxième fois, deux billes ayant la même masse seront relachées de deux hauteur différentes. La troisième fois, les deux billes auront la même masse, et ils seront relachées de la même hauteur, mais une de ces billes sera lancée afin qu'elle ait une vélocité initiale. Les élèves se serviront ensuite d'une lampe de poche pour analyser la différence entre les deux cratère, et ils vont discutés leurs résultats. "
 downloads:
   -
-	name: "Facilitator Guide - English"
-	filename: "gravity_facilitator_guide.pdf"
+    name: "Facilitator Guide - English"
+    filename: "gravity_facilitator_guide.pdf"
   -
-	name: "Student worksheet - English"
-	filename: "Gravity_student_worksheet.EN.pdf"
+    name: "Student worksheet - English"
+    filename: "Gravity_student_worksheet.EN.pdf"
   -
-	name: "Fiche d'activité de l'élève - francais"
-	filename: "Gravity_student_worksheet.FR.pdf"
+    name: "Fiche d'activité de l'élève - francais"
+    filename: "Gravity_student_worksheet.FR.pdf"
 #
 # Styling
 #
