@@ -13,13 +13,13 @@ summary_fr: "Les élèves vont performés trois experience différentes en relac
 downloads:
   -
     name: "Facilitator Guide - English"
-    filename: "gravity_facilitator_guide.pdf"
+    filename: "Gravity_facilitator_guide.pdf"
   -
     name: "Student worksheet - English"
-    filename: "Gravity_student_worksheet.EN.pdf"
+    filename: "Gravity_student_worksheet_EN.pdf"
   -
     name: "Fiche d'activité de l'élève - francais"
-    filename: "Gravity_student_worksheet.FR.pdf"
+    filename: "Gravity_student_worksheet_FR.pdf"
 #
 # Styling
 #
