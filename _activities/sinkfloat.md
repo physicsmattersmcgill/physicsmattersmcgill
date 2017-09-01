@@ -16,11 +16,11 @@ image:
 downloads:
   -
    name: “Facilitator guide - English”
-   filename: “Sink_or_Float_facilitator_guide_EN.pdf”
+   filename: “Sink or Float - facilitator guide_EN.pdf”
   -
    name: “Student worksheet - English”
-   filename: “Sink_or_Float_student_worksheet_EN.pdf”
-#
+   filename: “Sink or Float - student worksheet_EN.pdf”
+
 # Styling
 #
 header: no
