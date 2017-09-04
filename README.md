@@ -91,3 +91,11 @@ This will still look for the images at the specified location on the department 
 $ jekyll serve --config _config_dev.yml
 ```
 This configuration file uses a local folder to look for images. You may need to grab all the images from the department server in order to fully test the website locally.
+
+# Deployment
+
+The website is deployed automatically using Travis Continuous Integration (Travis CI for short). So in short, **you do not need to do anything in order for the website to deploy** -- whenever the github repository is updated, the website is automatically rebuilt.
+
+To make any changes to the deployment process, the webmaster should make an account at https://travis-ci.org/. Physics Matters will show up as one of the organizations associated with the webmaster's account. It is currently set up to build the website whenever there is an update, or once a day if there are no updates. The daily builds will ensure that the activity list is always up to date (for example, an event that just occurred will be automatically moved from upcoming to past events.) In addition to this, whenever there's a new pull request, Travis CI will attempt to build the new branch (without merging them into the main project) and will show if there are any errors or if the build occurs without any problems. These checks may take 5-10 min.
+
+How it works: Travis CI will build the website and put the built website on the gh-pages branch. The gh-pages branch should therefore NOT be used by the human developers. Note: from what I understand, the commit history on the gh-pages branch is rewritten by Travis CI.

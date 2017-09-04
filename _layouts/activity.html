@@ -58,5 +58,12 @@ format: post
 			</p>
 			{% endif %}
 
+			<!-- button to go back to activity list -->
+			{% if page.lang=='fr' %}
+			<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/activities_fr">Liste des activités</a></p>
+			{% else %}
+			<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/activities">Activity list</a></p>
+			{% endif %}
+
 		</article>
 	</div><!-- /.medium-8.columns -->
