@@ -11,7 +11,7 @@ Le “Programme d'olympiade de physique à McGill (MPOP)” est une initiative c
 # Commentaire déroulera ce cours ?
 Des séances de deux à trois heures seront organisées environ chaque semaine. Le sujet des séances comportera de concepts avancés en physique et comprendront des techniques spéciales de résolution de problèmes pour aider les élèves à mieux performer au examens olympiades. Les élèves seront mis au défis avec des problèmes comme devoir ; résoudre ces problèmes est d’abords la responsabilité de l'élève.
 # Qui devrait s’inscrire ?
-Le type de personne qui devrait s’inscrire à ce programme sont des étudiants du secondaire ou CEGEP qui sont passionnés par la physique, adorent les casse-têtes et souhaitent bien performer dans ces compétitions. Tandis que ces sessions soient données en anglais, les olympiades peuvent être écrites en français ou en anglais. En fait, nous encourageons bien les femmes et les sous-représentés à s’inscrire !
+Le type de personne qui devrait s’inscrire à ce programme sont des étudiants du secondaire ou CEGEP qui sont passionnés par la physique, adorent les casse-têtes et souhaitent bien performer dans ces compétitions. Tandis que ces sessions soient données en anglais, les olympiades peuvent être écrites en français ou en anglais. Nous encourageons bien les femmes et les sous-représentés à s’inscrire !
 
 Il serait également avantageux que les étudiants aient étudié également divers sujets en physique et en calcul. Il peut aussi être utile de noter que de bonnes performances dans les olympiades en physique sont bien reconnues par les universités à travers le monde.
 # Combien coûte ceci ?
@@ -28,4 +28,3 @@ Vincent Van Duong est étudiant en mathématiques et en physique des honneurs (c
 - [Olympiades canadienne de physique](http://cpo.phas.ubc.ca/)
 - [Examen Association Canadienne des physiciens et physiciennes](http://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)
 - [Concours Sir Isaac Newton](https://uwaterloo.ca/sir-isaac-newton-exam/)
-

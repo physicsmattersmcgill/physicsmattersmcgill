@@ -30,8 +30,9 @@ author: adasilva, achuinar
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://physics.mcgill.ca/physics-matters'
+#url: 'https://physicsmatters.physics.mcgill.ca'
 url: 'https://physicsmattersmcgill.github.io'
+#baseurl: 'physics-matters'
 baseurl: '/physicsmattersmcgill'
 
 # Collections
@@ -41,6 +42,8 @@ collections:
   events_fr:
     output: true
   activities:
+    output: true
+  activities_fr:
     output: true
 
 # This is for the editing function in _/includes/improve_content
@@ -53,8 +56,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.physics.mcgill.ca/physics-matters/images/'
-
+urlimg: 'http://www.physics.mcgill.ca/outreach/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -153,7 +155,22 @@ defaults:
       permalink: /events/:title/
       header: no
       bilingual: false
-
+  -
+    scope:
+      path: "_activities_fr"
+    values:
+      layout: activity
+      lang: 'fr'
+      permalink: /activities_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_activities"
+    values:
+      layout: activity
+      lang: 'en'
+      permalink: /activities/:title/
+      header: no
 
 
 #       _   __            _             __  _

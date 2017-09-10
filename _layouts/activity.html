@@ -7,27 +7,63 @@ format: post
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				{% if page.image.title %}
+					{% if page.lang=='fr' %}
+						{% if page.image.alttext_fr %}
+							{% assign imgalt = page.image.alttext_fr %}
+						{% else %}
+							{% assign imgalt = "photo de l'activité " | append: page.title_fr %}
+						{% endif %}
+					{% else %}
+						{% if page.image.alttext %}
+							{% assign imgalt = page.image.alttext %}
+						{% else %}
+							{% assign imgalt=page.title %}
+						{% endif %}
+					{% endif %}
 				<figure>
-					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ imgalt | escape_once }}" itemprop="image">
 				</figure>
 				{% endif %}
 
 				<div itemprop="name">
-					<h1>{{ page.title }}</h1>
+					<h1>{% if page.lang=='fr' %}{{ page.title_fr }}{% else %}{{ page.title }}{% endif %}</h1>
 				</div>
 			</header>
 
 
-			{% if page.objective %}
 			<p class="teaser" itemprop="description">
-			  {{ page.objective }}
+			  {% if page.lang=='fr' %}{{ page.objective_fr }}{% else %}{{ page.objective }}{% endif %}
+			</p>
+
+			<p>{% if page.lang=='fr' %}Pour les scientifiques de {{ page.age }} ans.{% else %}For scientists aged {{ page.age }}.{% endif %}</p>
+
+			<div itemprop="articleSection">
+				{% if page.lang=='fr' %}{{ page.summary_fr }}{% else %}{{ page.summary }}{% endif %}
+			</div>
+
+			{% if page.video %}
+			<p>
+				<video src="{{ page.video.url }}" type="video/mp4" controls="controls"></video>
 			</p>
 			{% endif %}
 
-			<div itemprop="articleSection">
-			{{ content }}
-			</div>
+			{% if page.downloads %}
+			<p>
+				<h2>Downloads</h2>
+				<ul>
+					{% for doc in page.downloads %}
+					<li><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ doc.filename }}">{{ doc.name }}</a></li>
+					{% endfor %}
+				</ul>
+			</p>
+			{% endif %}
 
+			<!-- button to go back to activity list -->
+			{% if page.lang=='fr' %}
+			<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/activities_fr">Liste des activités</a></p>
+			{% else %}
+			<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/activities">Activity list</a></p>
+			{% endif %}
 
 		</article>
 	</div><!-- /.medium-8.columns -->

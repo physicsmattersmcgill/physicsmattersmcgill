@@ -11,8 +11,10 @@ objective_fr: “Comprendre la différence entre la chaleur et la température e
 summary: “In this activity, students will discover that certain materials conduct heat better than others through the observation that ice cubes melt at a higher rate on metal plates than on plastic ones. They will also learn that heat flows from warmer objects to colder ones to reach a thermal equilibrium.
 summary_fr: “Dans cette activité, les élèves découvriront que certains matériaux conduisent mieux la chaleur que d’autres en observant que les glaçons fondent plus vite sur les plaques métalliques que sur les plastiques. Ils apprendront également que la chaleur voyage toujours d’un objet chaud vers un objet froid afin d’atteindre un équilibre des température.”
 image:
-   thumb:
-   title:
+  thumb: thumb_heattemp.jpg
+  title: heattemp.jpg
+  alttext: "two children performing the heat and temperature experiment"
+  alttext_fr: "deux enfants font l'activité chaleur et température"
 downloads:
   -
    name: “Facilitator guide - English”
