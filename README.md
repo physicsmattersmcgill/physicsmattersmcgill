@@ -25,6 +25,10 @@ Images to be used as thumbnails should be sized to be 150x150 pixels. Try to mak
 
 It is convenient if the filename for thumbnail images starts or ends with `thumb` so that it is easy to tell which are small thumbnail images and therefore should not be used for larger slots on the website
 
+# Videos
+First, ask the outreach coordinator to upload the video to the outreach youtube account (associated with the gmail account, physicsmattersmcgill@gmail.com). Then, add the following code in the markdown or html file, replacing the link after `src:` with the link of the youtube video:
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/zLNch2v5twc" frameborder="0" allowfullscreen></iframe> `
+
 # Adding an event
 New events are added as elements of a jekyll collection - this is called the events collection. Each event has its own markdown file (extension: `.md`) in the `_events` folder which marks it as part of the collection. There is a template you can use the the `_drafts` folder.
 
