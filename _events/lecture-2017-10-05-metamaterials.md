@@ -3,7 +3,7 @@ title: "Metamaterials: Going Beyond What Nature Gives Us"
 meta_description: Prof. Amy Szuchmacher Blum from the Department of Chemistry at McGill University will talk about her research on metamaterials. We will learn about the applications of metamaterials and examples of how the Blum group are repurposing proteins from viruses to make these exciting new materials.
 speaker: Amy Szuchmacher Blum 
 speaker_url: http://www.mcgill.ca/chemistry/faculty/amy-blum
-event-date: 2017-10-05 19:00
+event-date: 2017-10-12 19:00
 image:
     title: lecture-metamaterials.png
     thumb: thumb_lecture-metamaterials.png
