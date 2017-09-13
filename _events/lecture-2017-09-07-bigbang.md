@@ -14,3 +14,5 @@ tags:
 *Abstract:*
 Cosmology is a natural meeting ground between fundamental theory (e.g. superstring theory or quantum gravity) and observations. This lecture
 explores how seeds laid down in the very early universe developed into the large-scale structure we observe today, and how this may teach us about the beginnings of the universe.
+
+<a href="http://www.physics.mcgill.ca/~outreach/slides/Brandenberger_Lecture_20170907.pdf">Link to the slides</a>
