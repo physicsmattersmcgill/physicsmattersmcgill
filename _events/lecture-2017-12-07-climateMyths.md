@@ -1,7 +1,7 @@
 ---
 title: "Winning the War on Climate Change: Twelve Myths Debunked"
 meta_description: In his talk, Prof. Normand Mousseau from the Department of Physics at the Université de Montréal will debunk twelve climate change myths. With this gained clarity, it will become clear that the solution to climate change issues is not foremost of technological or scientific nature, but is fundamentally political.
-speaker: Normand Mousseau
+speaker: Normand Mousseau (Université de Montréal Department of Physics)
 speaker_url: http://normandmousseau.com/
 event-date: 2017-12-07 19:00
 image:
