@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Public Lecture - Thomas Brunner"
 meta_description: Description Coming Soon!
 speaker: Thomas Brunner (McGill University Department of Physics)
 speaker_url: http://www.physics.mcgill.ca/~brunner/
