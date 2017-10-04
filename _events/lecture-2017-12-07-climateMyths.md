@@ -5,8 +5,8 @@ speaker: Normand Mousseau (Université de Montréal Department of Physics)
 speaker_url: http://normandmousseau.com/
 event-date: 2017-12-07 19:00
 image:
-    title: lecture_hall_empty.jpg
-    thumb: thumb_lecture_hall_empty.jpg
+    title: lecture-climatemyths.png
+    thumb: thumb_lecture-climatemyths.png
 type: lecture
 ---
 *Abstract:*
