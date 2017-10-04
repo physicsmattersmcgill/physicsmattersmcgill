@@ -6,7 +6,7 @@ speaker_url: http://www.physics.mcgill.ca/~hilke/
 event-date: 2017-11-02 19:00
 image:
     title: lecture-flatland.png
-    thumb: thumb_lecture_hall_empty.jpg
+    thumb: thumb_lecture-flatland.png
 type: lecture
 ---
 *Abstract:*
