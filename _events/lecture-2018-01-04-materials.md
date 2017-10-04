@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Public Lecture - Audrey Moores"
 meta_description: Description Coming Soon!
 speaker: Audrey Moores (McGill University Department of Chemistry)
 speaker_url: http://www.mcgill.ca/moores-group/
