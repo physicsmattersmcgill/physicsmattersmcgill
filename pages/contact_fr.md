@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Nous contacter"
+title: "Nous joindre”
 lang: fr
-meta_title: "Contact"
+meta_title: “Nous joindre“
 subheadline: ""
 teaser: ""
 header:
@@ -10,15 +10,16 @@ header:
 permalink: "/contact_fr/"
 ---
 
-Le groupe de vulgarisation du département de Physique a pour but de faciliter l'accès aux connaissances et savoirs-faire scientifiques auprès d'un public diversifié.
-Si vous êtes intéressés à participer à l'un de nos programmes. Contactez-nous à l'adresse: <{{ site.email }}>. Nous pourrons vous renseigner sur notre programme de visite dans les écoles, les possibilités de visite à McGill et les divers événements que nous organisons.   
+Le groupe de vulgarisation du département de Physique de l’université McGill vise à faciliter l'accès à la connaissance scientifiques auprès de publics variés.
+Si vous êtes intéressé à participer à l'un de nos programmes, contactez-nous à l'adresse: <{{ site.email }}>. Nous pourrons vous renseigner sur nos programmes tels que les visites scolaires, les possibilités de visiter McGill et tous les autres collaborations.   
 
-# Partant pour devenir bénévole?
+# Intéressé à devenir bénévole?
 
-<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"> Que tu sois étudiant au baccalauréat, gradué, post-gradué ou membre de la faculté, notre association serait ravie de t'accueillir. Aucune expérience préalable n'est requise.  Les étudiants bénévoles peuvent être admissibles pour le programme [dossier co-curriculaire](https://www.mcgill.ca/involvement/ccr) de McGill. Et si tu hésites encore, voici quelques points qui saurons te convaincre:
-- Tout le monde est confronté aux lois de la physique dans al vie de tous les jours. Il est essentiel pour tous d'en comprendre les bases. En tant que membre de notre groupe, tu apportes ta pierre à l'édifice!
-- L'image du/de la scientifique est souvent très stéréotypée. Quoi de mieux que de donner un coup de balais sur le cliché du scientifique ébouriffé en blouse blanche?
-- Un bon vulgarisateur est un bon orateur. Par le biais de nos programmes, tu peux acquerir des compétences en communication très utiles pour ta carrière et pour la vie en général! C'est aussi une excellente opportunité pour pratiquer ton anglais, ton français, ou les deux!
-- Rien de tel que notre groupe pour te créer un réseau solide de contacts pour la suite de ta carrière.
+<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"> 
+Que vous soyez étudiant au baccalauréat, gradué, post-gradués ou membre de la faculté, notre équipe sera ravie de vous accueillir. Aucune expérience préalable n'est requise.  Les étudiants bénévoles peuvent être admissibles au programme [dossier co-curriculaire](https://www.mcgill.ca/involvement/ccr) de McGill. Et si vous hésitez encore, voici quelques points qui sauront vous convaincre:
+- Au sein du monde réel, les lois de la physiques nous dominent. En tant que bénévole, vous aiderez les publics à comprendre les phénomènes de la physique qui est omniprésents dans nos vies quotidiennes.
+- L'image des scientifiques est souvent stéréotypée et semble inaccessible aux publics. Représentez-vous en tant que scientifique pour déconstruire le cliché du scientifique ébouriffé en blouse blanche?
+- Un bon vulgarisateur est un bon orateur. Vous pouvez acquérir des compétences en communication qui seront utiles pour votre carrière et pour votre vie en général! C'est aussi une excellente opportunité pour pratiquer votre anglais, votre français, ou même les deux!
+- Il vous permet d’élargir votre réseau de contacts et d’ouvrir les portes pour votre carrière suite à votre graduation. 
 
-Si tu es intéressé, écris nous à l'adresse: <{{ site.email }}> et nous t'ajouterons à notre liste de diffusion. Ainsi, tu seras informé des horaires de réunion et des activités à venir.
+Si vous êtes intéressé(e), écrivez nous à l'adresse: <{{ site.email }}> pour vous inscrire à notre liste de diffusion, afin que vous puissiez recevoir nos horaires de réunion et tous les activités à venir.
