@@ -15,6 +15,7 @@ Si vous êtes intéressé à participer à l'un de nos programmes, contactez-nou
 
 # Intéressé à devenir bénévole?
 
+<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"> 
 Que vous soyez étudiant au baccalauréat, gradué, post-gradués ou membre de la faculté, notre équipe sera ravie de vous accueillir. Aucune expérience préalable n'est requise.  Les étudiants bénévoles peuvent être admissibles au programme [dossier co-curriculaire](https://www.mcgill.ca/involvement/ccr) de McGill. Et si vous hésitez encore, voici quelques points qui sauront vous convaincre:
 - Au sein du monde réel, les lois de la physiques nous dominent. En tant que bénévole, vous aiderez les publics à comprendre les phénomènes de la physique qui est omniprésents dans nos vies quotidiennes.
 - L'image des scientifiques est souvent stéréotypée et semble inaccessible aux publics. Représentez-vous en tant que scientifique pour déconstruire le cliché du scientifique ébouriffé en blouse blanche?
