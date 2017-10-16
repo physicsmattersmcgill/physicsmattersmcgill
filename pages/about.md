@@ -3,7 +3,7 @@ layout: page
 title: "About Us"
 lang: en
 subheadline: ""
-teaser: The outreach group in the [Department of Physics](http://www.physics.mcgill.ca) at McGill University aims to communicate the excitement and fascination of physics to the public, students, and other interested groups in our community.
+teaser: The outreach group in the <a href="http://www.physics.mcgill.ca">Department of Physics</a> at McGill University aims to communicate the excitement and fascination of physics to the public, students, and other interested groups in our community.
 permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
