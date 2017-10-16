@@ -8,7 +8,7 @@ permalink: /students_fr/
 ---
 
 ## Porte ouverte
-Etes-vous intéresser à obtenir un diplôme en physique ? Vous vous demander que ce notre département de physique fait comme recherches ? Chaque année, McGill organise une porte ouverte pour les étudiants intéressés à voir ce que nous faisons. Visitez la [page des événements]({{ site.baseurl }}/events_fr) pour plus en savoir.
+Etes-vous intéresser à obtenir un diplôme en physique ? Vous vous demander que ce notre département de physique fait comme recherches ? Chaque année, McGill organise une porte ouverte pour les étudiants intéressés à voir ce que nous faisons. <!--Visitez la [page des événements]({{ site.baseurl }}/events_fr) pour plus en savoir.--> Cette année, l'événement aura lieu le dimanche 29 octobre 2017 de 10h30 à 15h30. Visitez la [page de l'événement](https://www.mcgill.ca/openhouse/fr) pour plus en savoir.
 
 
 ## Hackathon de physique
