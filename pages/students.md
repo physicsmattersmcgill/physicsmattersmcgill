@@ -7,7 +7,7 @@ header:
 permalink: /students/
 ---
 ## Open House
-Interested in pursuing an undergraduate physics degree? Wondering what kind of research happens in the physics department at McGill? Each year we host an open house for students interested in seeing what our department is all about. Watch the [events page]({{ site.baseurl }}/events) for more details.
+Interested in pursuing an undergraduate physics degree? Wondering what kind of research happens in the physics department at McGill? Each year we host an open house for students interested in seeing what our department is all about. <!--Watch the [events page]({{ site.baseurl }}/events) for more details.--> This year, the event will be occurring on Sunday, October 29, 2017 from 10:30AM to 3:30PM. Visit the [event page](https://www.mcgill.ca/openhouse/open-house-2017) for more details.
 
 ## Physics Hackathon
 The [McGill Physics hackathon](http://www.physics.mcgill.ca/hackathon2017/), started in 2016, is a hackathon devoted to solving and visualizing physics problems. Participant teams will be challenged to use scientific computing tools and/or microelectronic gadgets to demonstrate a concept, phenomenon or application involving the physical sciences.
