@@ -71,14 +71,14 @@
         en: "/students/"
         fr: "/students_fr/"
     - title:
-        en: McGill Physics Olympiad Program
-        fr: Programme d'olympiade de physique à McGill
+        en: "McGill Physics Olympiad Program"
+        fr: "Programme d'olympiade de physique à McGill"
       url:
         en: "/mpop/"
         fr: "/mpop_fr/"
     - title:
-        en: Summer Internships
-        fr: Summer Internships
+        en: "Summer Internships"
+        fr: "Stages d'été"
       url:
         en: "/interns/"
         fr: "/interns_fr/"
