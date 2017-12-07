@@ -1,5 +1,5 @@
 ---
-title: "Public Lecture - Audrey Moores"
+title: "How Green Chemistry Invents New Ways from Abundant Resources and Energies"
 meta_description: Description Coming Soon!
 speaker: Audrey Moores (McGill University Department of Chemistry)
 speaker_url: http://www.mcgill.ca/moores-group/
