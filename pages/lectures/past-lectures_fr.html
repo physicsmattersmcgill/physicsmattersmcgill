@@ -10,7 +10,7 @@ header:
 ---
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
-  {% for event in site.events_fr reversed %}
+  {% for event in site.events reversed %}
   {% if event.type == "lecture" %}
     {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
     {% if event-time-seconds < now-unix-seconds %}
@@ -41,4 +41,4 @@ header:
     {% endif %}
   {% endfor %}
 
-  <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/lectures/index_fr.html">Futurs colloques</a></p>
+  <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/lectures_fr/">Futurs colloques</a></p>
