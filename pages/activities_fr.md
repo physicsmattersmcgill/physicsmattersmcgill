@@ -9,7 +9,7 @@ header:
    image_fullwidth: "20170506_103837_banner.jpg"
 permalink: "/activities_fr/"
 ---
-{% for activity in site.activities_fr %}
+{% for activity in site.activities %}
   <div class="row">
     <div class="small-12 columns b60">
 
