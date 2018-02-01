@@ -1,0 +1,249 @@
+/*html {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 62.5%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+
+.row {
+	width: 94%;
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+.row .row {
+	width: auto;
+	max-width: none;
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+.row:before,
+.row:after {
+	content: "";
+	display: table;
+}
+
+.row:after {
+	clear: both;
+}
+
+/*
+.bgrid {
+	position: relative;
+	min-height: 1px;
+	float: left;
+}
+
+
+
+/* small screens
+--------------------------------------------------------------- */
+/*@media screen and (max-width:1024px) {
+	.row .row {
+		margin-left: -18px;
+		margin-right: -18px;
+	}
+
+	.column,
+	.columns {
+		padding: 0 18px;
+	}
+
+}
+
+/* tablets
+--------------------------------------------------------------- */
+/*@media screen and (max-width:768px) {
+	.row {
+		width: auto;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.row .row {
+		padding-left: 0;
+		padding-right: 0;
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+
+	.column,
+	.columns {
+		padding: 0 15px;
+	}
+
+	.tab-fourth,
+	.row .tab-fourth {
+		width: 25%;
+	}
+
+	.tab-third,
+	.row .tab-third {
+		width: 33.33333%;
+	}
+
+	.tab-half,
+	.row .tab-half {
+		width: 50%;
+	}
+
+	.tab-2thirds,
+	.row .tab-2thirds {
+		width: 66.66667%;
+	}
+
+	.tab-3fourths,
+	.row .tab-3fourths {
+		width: 75%;
+	}
+
+	.tab-whole,
+	.row .tab-whole {
+		width: 100%;
+	}
+
+}
+
+/* large mobile devices
+--------------------------------------------------------------- */
+/*@media screen and (max-width:600px) {
+	.row {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+	.row .row {
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+
+	.column,
+	.columns {
+		padding: 0 10px;
+	}
+
+	.mob-fourth,
+	.row .mob-fourth {
+		width: 25%;
+	}
+
+	.mob-half,
+	.row .mob-half {
+		width: 50%;
+	}
+
+	.mob-3fourths,
+	.row .mob-3fourths {
+		width: 75%;
+	}
+
+	.mob-whole,
+	.row .mob-whole {
+		width: 100%;
+	}
+
+}
+
+/* small mobile devices
+--------------------------------------------------------------- */
+/*@media screen and (max-width:400px) {
+	.row {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.row .row {
+		padding-left: 0;
+		padding-right: 0;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.column,
+	.columns {
+		width: auto !important;
+		float: none !important;
+		margin-left: 0;
+		margin-right: 0;
+		clear: both;
+		padding: 0;
+	}
+
+	[class*="column"] + [class*="column"]:last-child {
+		float: none;
+	}
+
+}
+
+/* 
+/* block grids
+===================================================================== */
+.bgrid-fourth .bgrid {
+	width: 25%;
+}
+
+/* Clearing for block grid columns. Allows columns with 
+different heights to align properly.
+--------------------------------------------------------------------- */
+.bgrid-fourth .bgrid:nth-child(4n+1) {
+	clear: both;
+}
+
+/* small screens
+--------------------------------------------------------------- */
+@media screen and (max-width:1024px) {
+
+	.s-bgrid-third .bgrid {
+		width: 33.33333%;
+	}
+
+	[class*="bgrid-"] .bgrid:nth-child(n) {
+		clear: none;
+	}
+
+	.s-bgrid-third .bgrid:nth-child(3n+1) {
+		clear: both;
+	}
+
+}
+
+/* tablets
+--------------------------------------------------------------- */
+@media screen and (max-width:768px) {
+	.tab-bgrid-half .bgrid {
+		width: 50%;
+	}
+
+	[class*="tab-bgrid-"] .bgrid:nth-child(n) {
+		clear: none;
+	}
+
+	.tab-bgrid-half .bgrid:nth-child(2n+1) {
+		clear: both;
+	}
+
+}
+
+/* mobile devices
+--------------------------------------------------------------- */
+@media screen and (max-width:600px) {
+	.mob-bgrid-whole .bgrid {
+		width: 100%;
+		clear: both;
+	}
+
+	[class*="mob-bgrid-"] .bgrid:nth-child(n) {
+		clear: none;
+	}
+
+}

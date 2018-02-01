@@ -1,0 +1,77 @@
+/* block grids default paddings 
+--------------------------------------------------------------------- */
+.bgrid {
+	padding: 0 20px;
+}
+
+@media only screen and (max-width:1024px) {
+	.bgrid {
+		padding: 0 18px;
+	}
+
+}
+
+@media only screen and (max-width:768px) {
+	.bgrid {
+		padding: 0 15px;
+	}
+
+}
+
+@media only screen and (max-width:600px) {
+	.bgrid {
+		padding: 0 10px;
+	}
+
+}
+
+@media only screen and (max-width:400px) {
+	.bgrid {
+		padding: 0;
+	}
+
+}
+
+
+/* 
+/* 10. =about
+/* =================================================================== */
+
+
+/* team members
+-------------------------------------------------------------- */
+
+#team-wrapper {
+	margin: 0 auto;
+}
+
+#team-wrapper .member {
+	margin-bottom: 24px;
+	margin-top: 12px;
+}
+
+#team-wrapper .member h3 {
+	font: 18px/36px "raleway-heavy", sans-serif;
+	line-height: 24px;
+	margin-top: 12px;
+	margin-bottom: 0;
+}
+
+#team-wrapper .member span {
+	position: relative;
+	font-size: 17px;
+	line-height: 19px;
+	color: #000;
+}
+
+#team-wrapper .member-pic {
+	position: relative;
+	line-height: 20;
+	overflow: hidden;
+	background: #000;
+}
+
+#team-wrapper .member-pic img {
+	vertical-align: bottom;
+}
+
