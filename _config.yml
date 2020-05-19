@@ -6,31 +6,49 @@
 #    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
-#
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Physics Matters McGill'
+index:
+  en:
+  fr: index_fr.html
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: "McGill Physics Outreach"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
-
+description: "This is the website for the McGill Physics department's outreach group."
+description_fr: "Voici est le site web pour le sensibilisation de le departement de physique à McGill."
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+# Main contact email address
+email: "outreach@physics.mcgill.ca"
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: adasilva, achuinar
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+#url: 'https://physicsmatters.physics.mcgill.ca'
+url: 'https://physicsmattersmcgill.github.io'
+#baseurl: 'physics-matters'
+baseurl: '/physicsmattersmcgill'
+
+# Collections
+collections:
+  events:
+    output: true
+  events_fr:
+    output: true
+  activities:
+    output: true
+  activities_fr:
+    output: true
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content:
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,18 +56,17 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-
+urlimg: 'http://www.physics.mcgill.ca/outreach/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Plugins
-plugins:
+# Gems
+plugins_dir:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
+#     - jekyll-redirect-from
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -58,16 +75,16 @@ plugins:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate: 5                       # Paginates all X entries
+#paginate_path: "past-lectures/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
-markdown           : kramdown
-permalink          : /:categories/:title/
-highlight          : rouge
-excerpt_separator  : "<!--more-->"
-include            : ['.htaccess']
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -76,8 +93,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-    - vendor
-
+    - [ 'Gemfile*', '_site/', '.code-highlighter-cache' ]
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
@@ -110,19 +126,50 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
   -
     scope:
       path: ''
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
+  -
+    scope:
+      path: "_events_fr"
+    values:
+      layout: event
+      lang: 'fr'
+      location: "l'auditorium Keys (salle 112), Pavillon Rutherford, 3600 rue Université, Université McGill"
+      permalink: /events_fr/:title/
+      header: no
+      bilingual: false
+  -
+    scope:
+      path: "_events"
+    values:
+      layout: event
+      lang: 'en'
+      location: "Keys Auditorium (room 112), Rutherford Physics Building, 3600 rue Université, McGill University"
+      permalink: /events/:title/
+      header: no
+      bilingual: false
+  -
+    scope:
+      path: "_activities_fr"
+    values:
+      layout: activity
+      lang: 'fr'
+      permalink: /activities_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_activities"
+    values:
+      layout: activity
+      lang: 'en'
+      permalink: /activities/:title/
+      header: no
 
 
 #       _   __            _             __  _
@@ -143,9 +190,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+#google_author:             ''
+#google_site_verification:  ''
+#bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -193,8 +240,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter:
+    facebook: physicsmatters
 
 
 #        ____  _
@@ -206,7 +253,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname:
 
 
 #      _____
@@ -217,8 +264,8 @@ disqus_shortname: feelingresponsive
 #
 
 sass:
-    sass_dir : _sass
-    style    : :compressed
+    sass_dir: _sass
+    style: :compressed
 
 
 #       ___                __      __  _
@@ -230,7 +277,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+#google_analytics_tracking_id:
 
 
 
@@ -266,7 +313,7 @@ sass:
 
 asciidoctor-enabled: false
 asciidoctor:
-  description: 
+  description: testtewtetrue
   attributes:
     source-highlighter: coderay
     coderay-css: style
