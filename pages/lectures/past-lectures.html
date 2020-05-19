@@ -1,0 +1,40 @@
+---
+layout: page
+lang: en
+title: "Physics Matters Lecture Series"
+teaser: "Public Physics night, brought to you by the McGill University Department of Physics"
+sidebar: right
+permalink: "/past-lectures/"
+header:
+  image_fullwidth: "20170504_lecture_banner.jpg"
+---
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+
+  {% for event in site.events reversed %}
+  {% if event.type == "lecture" %}
+    {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
+    {% if event-time-seconds < now-unix-seconds %}
+    <div class="row">
+      <div class="small-12 columns b60">
+        <p class="subheadline">{{ event.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if event.categories != empty and event.subheadline != NULL %} – {% endif %}{{ event.subheadline }}</p>
+        <h2><a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h2>
+        <p>
+          {% if event.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}"><img src="{{ site.urlimg }}{{ event.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ event.title }}"></a>{% endif %}
+
+          {% include lang-date date=event.event-date lang=event.lang%}<br>
+
+          {% if event.meta_description %}
+            {{ event.meta_description | strip_html | escape }}
+          {% else %}
+            {{ event.speaker | strip_html | escape }}
+          {% endif %}
+
+          <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language.read }} {{ event.title }}"><strong>{{ site.data.language.read_more }}</strong></a>
+        </p>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/lectures/">Upcoming Lectures</a></p>

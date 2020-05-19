@@ -2,6 +2,7 @@
 permalink: /search/
 layout: page
 title: "Search"
+lang: en
 sitemap: false
 ---
 

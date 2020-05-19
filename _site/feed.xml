@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/physicsmattersmcgill/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/physicsmattersmcgill/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Physics Matters McGill</title>
+		<description>This is the website for the McGill Physics department's outreach group.</description>
+		<link>http://localhost:4000/physicsmattersmcgill/</link>
+		<atom:link href="http://localhost:4000/physicsmattersmcgill/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

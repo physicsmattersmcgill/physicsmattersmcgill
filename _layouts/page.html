@@ -2,6 +2,7 @@
 layout: default
 format: post
 ---
+{% capture lang %}{{ page.lang }}{% endcapture %}
 <div class="row t30">
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
@@ -52,14 +53,14 @@ format: post
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
-		{% include _sidebar.html %}
+		{% include _sidebar.html lang=page.lang %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
 
 	{% if page.sidebar == "right" %}
 	<div class="medium-4 columns">
-		{% include _sidebar.html %}
+		{% include _sidebar.html lang=page.lang %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->

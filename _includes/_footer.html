@@ -9,11 +9,28 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
+
+          {% if page.lang == 'fr' %}
+            {% assign info_website = site.data.language_fr.info_website %}
+          {% else %}
+            {% assign info_website = site.data.language.info_website %}
+          {% endif %}
+            <h5 class="shadow-black">{{ info_website }}</h5>
 
             <p class="shadow-black">
-              {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
+              {% if page.lang == 'fr' %}
+                {% assign description = site.description_fr %}
+              {% else %}
+                {% assign description = site.description %}
+              {% endif %}
+              {{ description }}
+
+                {% if page.lang == 'fr' %}
+                  {% assign more = site.data.language_fr.more %}
+                {% else %}
+                  {% assign more = site.data.language.more %}
+                {% endif %}
+              <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ more }}</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -21,7 +38,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+                <h5 class="shadow-black">{{ service_item.menu_name[page.lang] }}</h5>
               {% endif %}
             {% endfor %}
 
@@ -39,7 +56,7 @@
           <div class="small-6 medium-3 large-3 columns">
             {% for network_item in site.data.network %}
               {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
+                <h5 class="shadow-black">{{ network_item.menu_name[page.lang] }}</h5>
               {% endif %}
             {% endfor %}
 
@@ -47,7 +64,7 @@
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name[page.lang] }}</a>
                 </li>
             {% endfor %}
             </ul>

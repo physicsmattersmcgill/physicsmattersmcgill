@@ -1,0 +1,41 @@
+{% comment %}
+*
+*   This include lets you easily embed a gallery into your post.
+*   To use the gallery include you...
+*
+*   1. Add the urls to the front-matter,
+*
+*   links:
+*       - url: whatever-the-url-is
+*
+*
+*   2. Each url can have a logo and/or text
+*     (either is optional, but it should have at least one of these)
+*
+*   links:
+*       - url: whatever-the-url-is
+*         logo: logo_image.jpg
+*         text: This is optional
+*
+*   2. Add the include wherever you want in your content like this:
+*
+*   {% include link_gallery %}
+*
+
+{% endcomment %}
+
+<div style="text-align:center;vertical-align:middle;">
+	<ul class="small-block-grid-4">
+		{% for item in page.links %}
+		<li>
+  		{% if item.logo %}
+		    <a href="{{ item.url }}" style="border:0">
+			    <img {% if item.text %}data-caption="{{ item.text }}"{% endif %} src="{{ site.urlimg }}/{{ item.logo }}" alt="Logo for {{ item.text }}"></a>
+			{% endif %}
+			{% if item.text %}
+				<a href="{{ item.url }}">{{ item.text }}</a>
+			{% endif %}
+		</li>
+		{% endfor %}
+	</ul>
+</div>
