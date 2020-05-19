@@ -1,75 +1,131 @@
-- title: Start
-  url: "/"
+- title:
+    en: Home
+    fr: Accueil
+  url:
+    en: "/"
+    fr: "/accueil/"
+  ref: home
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
+- title:
+    en: About
+    fr: À propos
+  url:
+    en: "/about/"
+    fr: "/about_fr/"
+  ref: about
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title:
+      en: Contact
+      fr: Contactez-nous
+    url:
+      en: "/contact/"
+      fr: "/contact_fr/"
 
-- title: Documentation
-  url: "/documentation/"
+- title:
+    en: "For educators"
+    fr: "Pour les enseignants"
+  url:
+    en: "/educators/"
+    fr: "/educators_fr/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title:
+      en: "Visit us at McGill"
+      fr: "Rendez-nous visite"
+    url:
+      en: "/visit-department/"
+      fr: "/visit-department_fr/"
+  - title:
+      en: "Visits to your classroom"
+      fr: "Visite dans votre classe"
+    url:
+      en: "/school-programs/"
+      fr: "/school-programs_fr/"
+  - title:
+      en: "Physics for teachers"
+      fr: "La physique pour les enseignants"
+    url:
+      en: "/teacher-training/"
+      fr: "/teacher-training_fr/"
+  - title:
+      en: "Activity guides"
+      fr: "Guide d'activités"
+    url:
+      en: "/activities/"
+      fr: "/activities_fr/"
 
-- title: Blog
-  url: "/blog/"
+- title:
+    en: "For students"
+    fr: "Pour les élèves"
+  url:
+    en: "/students/"
+    fr: "/students_fr/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+    - title:
+        en: "Visit us at McGill"
+        fr: "Rendez-nous visite"
+      url:
+        en: "/students/"
+        fr: "/students_fr/"
+    - title:
+        en: "ATLAS Masterclass"
+        fr: "Masterclasse d'ATLAS"
+      url:
+        en: "/masterclass/"
+        fr: "/masterclass_fr/"
+    - title:
+        en: "McGill Physics Olympiad Program"
+        fr: "Programme d'olympiade de physique à McGill"
+      url:
+        en: "/mpop/"
+        fr: "/mpop_fr/"
+    - title:
+        en: "Summer Internships"
+        fr: "Stages d'été"
+      url:
+        en: "/interns/"
+        fr: "/interns_fr/"
+    - title:
+        en: "Physics Matters to the World"
+        fr: "La physique compte pour le monde"
+      url:
+        en: "/international/"
+        fr: "/international_fr/"
+    - title:
+        en: "Girls in Physics Day"
+        fr: "Journée des Filles en Physique"
+      url:
+        en: "/girls/"
+        fr: "/girls_fr/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+- title:
+    en: "Public Events"
+    fr: "Événements publics"
+  url:
+    en: "/events/"
+    fr: "/events_fr/"
+  side: left
+  dropdown:
+  - title:
+      en: "Physics Matters lecture series"
+      fr: "Série de colloques 'La physique dans Tous ses États'"
+    url:
+      en: "/lectures/"
+      fr: "/lectures_fr/"
+  - title:
+      en: "Anna I. McPherson lecture series"
+      fr: "Série de colloques Anna I. McPherson"
+    url:
+      en: "/mcpherson/"
+      fr: "/mcpherson_fr/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+- title:
+    en: Partners
+    fr: Partenaires
+  url:
+    en: "/partners/"
+    fr: "/partners_fr/"
+  side: left
