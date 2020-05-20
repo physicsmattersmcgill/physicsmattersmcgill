@@ -11,27 +11,26 @@
 title: 'Feeling Responsive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "McGill Physics Outreach"
+slogan: 'A Flexible Theme for Jekyll'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This is the website for the McGill Physics department's outreach group.'
-description_fr: "Voici est le site web pour le sensibilisation de le departement de physique à McGill."
+description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: adasilva, achuinar, sfairbrother
+author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sarahfairbro.github.io/physicsdraft/'
-baseurl: '/physicsdraft'
+url: 'https://phlow.github.io'
+baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content:
+improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -39,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.physics.mcgill.ca/outreach/images/'
+urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
@@ -123,42 +122,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
--
-    scope:
-      path: "_events_fr"
-    values:
-      layout: event
-      lang: 'fr'
-      location: "l'auditorium Keys (salle 112), Pavillon Rutherford, 3600 rue Université, Université McGill"
-      permalink: /events_fr/:title/
-      header: no
-      bilingual: false
-  -
-    scope:
-      path: "_events"
-    values:
-      layout: event
-      lang: 'en'
-      location: "Keys Auditorium (room 112), Rutherford Physics Building, 3600 rue Université, McGill University"
-      permalink: /events/:title/
-      header: no
-      bilingual: false
-  -
-    scope:
-      path: "_activities_fr"
-    values:
-      layout: activity
-      lang: 'fr'
-      permalink: /activities_fr/:title/
-      header: no
-  -
-    scope:
-      path: "_activities"
-    values:
-      layout: activity
-      lang: 'en'
-      permalink: /activities/:title/
-      header: no
+
 
 
 #       _   __            _             __  _
@@ -229,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter:
-    facebook: physicsmatters
+    twitter: phlow
+    facebook: phlow.media
 
 
 #        ____  _
@@ -242,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname:
+disqus_shortname: feelingresponsive
 
 
 #      _____
