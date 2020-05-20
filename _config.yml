@@ -34,6 +34,17 @@ author: adasilva, achuinar, sfairbrother
 url: 'https://sarahfairbro.github.io'
 baseurl: '/physicsdraft'
 
+# Collections
+collections:
+  events:
+    output: true
+  events_fr:
+    output: true
+  activities:
+    output: true
+  activities_fr:
+    output: true
+
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
