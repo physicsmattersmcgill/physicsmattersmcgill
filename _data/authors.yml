@@ -12,3 +12,15 @@ sfairbrother: # replace this with your info
   email: "sarah.fairbrother@rogers.com"
   twitter:
 # you can add more authors here
+adasilva:
+  name: "Ashley DaSilva"
+  siterole: "webmaster, physicist, outreach coordinator"
+  uri: http://www.ashleydasilva.com
+  email:
+  twitter: "@adasilvaphd"
+achuinar: 
+  name: "Anabel Chuinard"
+  siterole: "webmaster, physicist, education coordinator, outreach enthousiast"
+  uri: http://www.physics.mcgill.ca/~chuinard/
+  email:
+  twitter: "@anabelchuinard"
