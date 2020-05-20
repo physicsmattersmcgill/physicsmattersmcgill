@@ -122,7 +122,42 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
-
+-
+    scope:
+      path: "_events_fr"
+    values:
+      layout: event
+      lang: 'fr'
+      location: "l'auditorium Keys (salle 112), Pavillon Rutherford, 3600 rue Université, Université McGill"
+      permalink: /events_fr/:title/
+      header: no
+      bilingual: false
+  -
+    scope:
+      path: "_events"
+    values:
+      layout: event
+      lang: 'en'
+      location: "Keys Auditorium (room 112), Rutherford Physics Building, 3600 rue Université, McGill University"
+      permalink: /events/:title/
+      header: no
+      bilingual: false
+  -
+    scope:
+      path: "_activities_fr"
+    values:
+      layout: activity
+      lang: 'fr'
+      permalink: /activities_fr/:title/
+      header: no
+  -
+    scope:
+      path: "_activities"
+    values:
+      layout: activity
+      lang: 'en'
+      permalink: /activities/:title/
+      header: no
 
 
 #       _   __            _             __  _
