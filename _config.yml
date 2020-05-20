@@ -9,6 +9,9 @@
 #
 # Title of your website
 title: 'Physics Matters McGill'
+index:
+  en:
+  fr: index_fr.html
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -215,8 +218,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter:
+    facebook: physicsmatters
 
 
 #        ____  _
@@ -228,7 +231,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname:
 
 
 #      _____
