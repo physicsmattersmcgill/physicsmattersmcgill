@@ -113,6 +113,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author:      # Default author for pages
+      lang: 'fr'
   -
     scope:
       path: '_events'
@@ -122,6 +123,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author:      # Default author for posts
+      lang: 'en'
   -
     scope:
       path: '_activities_fr'
@@ -131,6 +133,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author:      # Default author for posts
+      lang: 'fr'
   -
     scope:
       path: '_activites'
@@ -140,6 +143,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author:      # Default author for posts
+      lang: 'en'
 
 
 
