@@ -22,12 +22,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: adasilva, achuinar, sfairbrother
+author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sarahfairbro.github.io/physicsdraft'
-baseurl: '/physicsdraft'
+url: 'https://phlow.github.io'
+baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
