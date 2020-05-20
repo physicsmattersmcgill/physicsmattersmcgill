@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'sarahfairbro'
+title: 'Physics Matters McGill'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'McGill Physics Outreach'
@@ -26,7 +26,7 @@ author: adasilva, achuinar, sfairbrother
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sarahfairbro.github.io/physicsdraft/'
+url: 'https://sarahfairbro.github.io/physicsdraft'
 baseurl: '/physicsdraft'
 
 # This is for the editing function in _/includes/improve_content
