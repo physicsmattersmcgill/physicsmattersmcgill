@@ -3,16 +3,16 @@
 <?xml-stylesheet type="text/css" href="/physicsdraft/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/physicsdraft/</id>
-	<title>Feeling Responsive</title>
-	<updated>2020-05-20T11:33:15-04:00</updated>
+	<title>Physics Matters McGill</title>
+	<updated>2020-05-20T13:31:14-04:00</updated>
 
-	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
+	<subtitle>This is the website for the McGill Physics department's outreach group.</subtitle>
 
 	
 		
 		<author>
 			
-				<name>phlow</name>
+				<name>adasilva, achuinar, sfairbrother</name>
 			
 			
 			

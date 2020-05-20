@@ -2,6 +2,14 @@
 
 Name: Sarah Fairbrother
 
+Name: Ashley DaSilva
+Site: http://www.ashleydasilva.com
+Twitter: @adasilvaphd
+
+Name: Anabel Chuinard
+Site: http://www.physics.mcgill.ca/~chuinard/
+Twitter: @anabelchuinard
+
 
 /* THANKS */
 
