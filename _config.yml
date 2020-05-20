@@ -55,6 +55,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-form
 
 
 #       ____              _             __  _
