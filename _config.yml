@@ -31,8 +31,9 @@ author: adasilva, achuinar, sfairbrother
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sarahfairbro.github.io'
-baseurl: '/physicsdraft'
+
+url: 'https://physicsmattersmcgill.github.io'
+baseurl: '/physicsmattersmcgill'
 
 # Collections
 collections:
