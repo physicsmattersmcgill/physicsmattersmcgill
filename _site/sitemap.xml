@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 57 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 59 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/404.html</loc>
+	<loc>http://localhost:4000/physicsdraft/404.html</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/about/</loc>
+	<loc>http://localhost:4000/physicsdraft/about/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/about_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,24 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/activities/</loc>
+	<loc>http://localhost:4000/physicsdraft/about_fr/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/activities_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -80,9 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/blog/archive/</loc>
+	<loc>http://localhost:4000/physicsdraft/activities/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -94,12 +64,25 @@
 	
 
 	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/activities_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/atom.xml</loc>
+	<loc>http://localhost:4000/physicsdraft/blog/archive/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,583 +97,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/contact/</loc>
+	<loc>http://localhost:4000/physicsdraft/atom.xml</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/contact_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/educators/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/educators_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/events/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/events_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/feed.xml</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/girls/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/girls_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/humans.txt</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/blog/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/lectures/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/lectures_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/accueil/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/international/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/international_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/interns/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/interns_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/masterclass/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/masterclass_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mcpherson/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mcpherson_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mpop/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mpop_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/partners/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/partners_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-events/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-events_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-lectures/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-lectures_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/robots.txt</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/school-programs/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/school-programs_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/search/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/search_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/sitemap.xml</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/students/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/students_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -705,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/teacher-training/</loc>
+	<loc>http://localhost:4000/physicsdraft/contact/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/teacher-training_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -735,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/upcoming-events/</loc>
+	<loc>http://localhost:4000/physicsdraft/contact_fr/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/upcoming-events_fr/</loc>
-	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -765,9 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/visit-department/</loc>
+	<loc>http://localhost:4000/physicsdraft/educators/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -780,9 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/visit-department_fr/</loc>
+	<loc>http://localhost:4000/physicsdraft/educators_fr/</loc>
 	
-		<lastmod>2020-05-19T15:38:57-04:00</lastmod>
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -791,6 +170,631 @@
 		<priority>0.3</priority>
 	
 	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/events/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/events_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/feed.xml</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/girls/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/girls_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/humans.txt</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/blog/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/lectures/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/lectures_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/accueil/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/international/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/international_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/interns/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/interns_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/masterclass/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/masterclass_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/mcpherson/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/mcpherson_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/mpop/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/mpop_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/partners/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/partners_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/past-events/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/past-events_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/past-lectures/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/past-lectures_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/robots.txt</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/school-programs/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/school-programs_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/search/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/search_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/sitemap.xml</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/students/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/students_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/teacher-training/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/teacher-training_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/upcoming-events/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/upcoming-events_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/visit-department/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/physicsdraft/visit-department_fr/</loc>
+	
+		<lastmod>2020-05-20T11:33:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
 	
 
 

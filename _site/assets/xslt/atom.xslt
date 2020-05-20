@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/physicsmattersmcgill/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/physicsdraft/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/physicsmattersmcgill/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/physicsdraft/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -31,57 +31,65 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="This is the website for the McGill Physics department&#39;s outreach group.">
+	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	
-	
-	
-	
-	<link rel="canonical" href="http://localhost:4000/physicsmattersmcgill/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/physicsdraft/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="This is the website for the McGill Physics department&#39;s outreach group.">
-	<meta property="og:url" content="http://localhost:4000/physicsmattersmcgill/assets/xslt/atom.xslt">
+	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:url" content="http://localhost:4000/physicsdraft/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Physics Matters McGill">
+	<meta property="og:site_name" content="Feeling Responsive">
 	
-	<meta property="article:author" content="https://www.facebook.com/physicsmatters">
+	<meta property="article:author" content="https://www.facebook.com/phlow.media">
 
-
-	
-
-	<link type="text/plain" rel="author" href="http://localhost:4000/physicsmattersmcgill/humans.txt">
 
 	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="phlow">
+	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:title" content="Atom Feed (Styled)">
+	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	
+	
+
+	<link type="text/plain" rel="author" href="http://localhost:4000/physicsdraft/humans.txt">
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/physicsmattersmcgill/assets/img/favicon-32x32.png">
+	
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/physicsmattersmcgill/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/physicsdraft/assets/img/favicon-32x32.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/physicsdraft/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/physicsmattersmcgill/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/physicsdraft/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/physicsmattersmcgill/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/physicsdraft/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -96,7 +104,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/physicsmattersmcgill/" class="icon-tree"> Physics Matters McGill</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/physicsdraft/" class="icon-tree"> Feeling Responsive</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -113,13 +121,13 @@
           
 
           <li class="divider"></li>
-          <li><a href="http://localhost:4000/physicsmattersmcgill/assets/xsltatom.x/">en</a></li>
+          <li><a href="http://localhost:4000/physicsdraft/assets/xsltatom.x/">en</a></li>
 
         
           
 
           <li class="divider"></li>
-          <li><a href="http://localhost:4000/physicsmattersmcgill/assets/xsltatom.x_fr/">fr</a></li>
+          <li><a href="http://localhost:4000/physicsdraft/assets/xsltatom.x_fr/">fr</a></li>
 
         
       </ul>
@@ -134,7 +142,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+              <li><a  href="http://localhost:4000/physicsdraft"></a></li>
               <li class="divider"></li>
 
             
@@ -151,14 +159,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/physicsmattersmcgill"></a>
+                <a  href="http://localhost:4000/physicsdraft"></a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
                   </ul>
 
@@ -177,29 +185,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/physicsmattersmcgill"></a>
+                <a  href="http://localhost:4000/physicsdraft"></a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
                   </ul>
 
@@ -218,39 +226,39 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/physicsmattersmcgill"></a>
+                <a  href="http://localhost:4000/physicsdraft"></a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
                   </ul>
 
@@ -269,19 +277,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/physicsmattersmcgill"></a>
+                <a  href="http://localhost:4000/physicsdraft"></a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+                      <li><a  href="http://localhost:4000/physicsdraft"></a></li>
                     
                   </ul>
 
@@ -298,7 +306,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/physicsmattersmcgill"></a></li>
+              <li><a  href="http://localhost:4000/physicsdraft"></a></li>
               <li class="divider"></li>
 
             
@@ -317,8 +325,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/physicsmattersmcgill/" title="Physics Matters McGill – McGill Physics Outreach">
-				<img src="http://localhost:4000/physicsmattersmcgill/assets/img/logo.png" alt="Physics Matters McGill – McGill Physics Outreach">
+			<a id="logo" href="http://localhost:4000/physicsdraft/" title="Feeling Responsive – A Flexible Theme for Jekyll">
+				<img src="http://localhost:4000/physicsdraft/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -398,10 +406,10 @@
 
             <p class="shadow-black">
               
-              This is the website for the McGill Physics department's outreach group.
+              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
 
                 
-              <a href="http://localhost:4000/physicsmattersmcgill/about/">More ›</a>
+              <a href="http://localhost:4000/physicsdraft/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -423,22 +431,22 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/physicsmattersmcgill"  title=""></a>
+                    <a href="http://localhost:4000/physicsdraft"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/physicsmattersmcgill/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/physicsdraft/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/physicsmattersmcgill/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/physicsdraft/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/physicsmattersmcgill/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/physicsdraft/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -460,7 +468,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/physicsmattersmcgill"  title=""></a>
+                  <a href="http://localhost:4000/physicsdraft"  title=""></a>
                 </li>
             
               
@@ -483,7 +491,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -500,7 +508,7 @@
 		
 
 
-<script src="http://localhost:4000/physicsmattersmcgill/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/physicsdraft/assets/js/javascript.min.js"></script>
 
 
 
