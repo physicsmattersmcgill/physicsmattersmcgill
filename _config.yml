@@ -34,9 +34,6 @@ author: adasilva, achuinar, sfairbrother
 url: 'https://physicsmattersmcgill.github.io'
 baseurl: '/physicsmattersmcgill'
 
-# url: 'https://physicsmattersmcgill.github.io'
-# baseurl: '/physicsmattersmcgill'
-
 # Collections
 collections:
   events:
