@@ -1,0 +1,12 @@
+language: ruby
+script: "bundle exec jekyll build"
+rvm:
+- 2.5.3
+install:
+  - bundle install
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
