@@ -34,6 +34,9 @@ author: adasilva, achuinar, sfairbrother
 url: 'https://physicsmattersmcgill.github.io'
 baseurl: '/physicsmattersmcgill'
 
+# url: 'https://physicsmattersmcgill.github.io'
+# baseurl: '/physicsmattersmcgill'
+
 # Collections
 collections:
   events:
@@ -125,6 +128,7 @@ defaults:
   -
     scope:
       path: '_events_fr' 				# an empty string here means all files in the project
+      type: 'event'
     values:
       layout: event
       show_meta: true 	# Hide metadata for all pages
@@ -145,7 +149,7 @@ defaults:
   -
     scope:
       path: '_activities_fr'
-      type: activity
+      type: 'activity'
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
@@ -155,7 +159,7 @@ defaults:
   -
     scope:
       path: '_activites'
-      type: activity
+      type: 'activity'
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
