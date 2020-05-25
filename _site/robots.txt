@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://sarahfairbro.github.io/physicsdraft/sitemap.xml
+Sitemap: https://physicsmattersmcgill.github.io/physicsmattersmcgill/sitemap.xml
