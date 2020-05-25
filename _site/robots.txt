@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://physicsmattersmcgill.github.io/physicsmattersmcgill/sitemap.xml
+Sitemap: https://physicsmatters.physics.mcgill.ca/sitemap.xml
