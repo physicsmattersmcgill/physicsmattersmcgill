@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/404.html</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/404.html</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/about/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/about_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/about/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/activities/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -65,24 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/activities_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/about_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/blog/archive/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -95,24 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/atom.xml</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/activities/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/contact/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -125,24 +65,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/contact_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/activities_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/educators/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -155,24 +80,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/educators_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/blog/archive/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/events/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -185,24 +95,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/events_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/atom.xml</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/feed.xml</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -215,24 +110,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/girls/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/contact/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/girls_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -245,24 +125,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/humans.txt</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/contact_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/lectures/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -275,24 +140,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/blog/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/educators/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -305,24 +155,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/lectures_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/educators_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/accueil/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -335,24 +170,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/international/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/events/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/international_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -365,24 +185,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/interns/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/events_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/interns_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -395,24 +200,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/masterclass/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/feed.xml</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/masterclass_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -425,24 +215,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mcpherson/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/girls/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mcpherson_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -455,24 +230,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mpop/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/girls_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/mpop_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -485,24 +245,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/partners/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/humans.txt</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/partners_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -515,24 +260,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-events/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/lectures/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-events_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -545,24 +275,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-lectures/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/blog/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/past-lectures_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -575,24 +290,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/robots.txt</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/school-programs/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -605,24 +305,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/school-programs_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/lectures_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/search/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -635,24 +320,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/search_fr/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/accueil/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/sitemap.xml</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -665,24 +335,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/students/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/international/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/students_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -695,24 +350,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/teacher-training/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/international_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/teacher-training_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -725,24 +365,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/upcoming-events/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/interns/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/upcoming-events_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -755,24 +380,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/visit-department/</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/interns_fr/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/visit-department_fr/</loc>
-	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -785,9 +395,399 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/physicsmattersmcgill/redirects.json</loc>
+	<loc>https://sarahfairbro.github.io/physicsdraft/masterclass/</loc>
 	
-		<lastmod>2020-05-25T14:53:51-04:00</lastmod>
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/masterclass_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/mcpherson/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/mcpherson_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/mpop/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/mpop_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/partners/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/partners_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/past-events/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/past-events_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/past-lectures/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/past-lectures_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/robots.txt</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/school-programs/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/school-programs_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/search/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/search_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/sitemap.xml</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/students/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/students_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/teacher-training/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/teacher-training_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/upcoming-events/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/upcoming-events_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/visit-department/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/visit-department_fr/</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://sarahfairbro.github.io/physicsdraft/redirects.json</loc>
+	
+		<lastmod>2020-05-25T15:09:24-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
