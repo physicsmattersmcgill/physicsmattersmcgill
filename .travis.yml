@@ -8,8 +8,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  fqdn: physicsmatters.physics.mcgill.ca
   on:
     branch: master
-addons:
-  hosts:
-    - physicsmatters.physics.mcgill
