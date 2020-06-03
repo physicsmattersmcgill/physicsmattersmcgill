@@ -1,0 +1,24 @@
+{% assign months_en = "Jan. Feb. Mar. April May June July Aug. Sept. Oct. Nov. Dec." | split: " " %}
+{% assign months_fr = "janv. févr. mars avril mai juin juil. août sept. oct. nov. déc." | split: " " %}
+
+{% assign month=include.date | date: "%-m" %}
+{% case month %}
+  {% when '1' %}{% assign n=0 %}
+  {% when '2' %}{% assign n=1 %}
+  {% when '3' %}{% assign n=2 %}
+  {% when '4' %}{% assign n=3 %}
+  {% when '5' %}{% assign n=4 %}
+  {% when '6' %}{% assign n=5 %}
+  {% when '7' %}{% assign n=6 %}
+  {% when '8' %}{% assign n=7 %}
+  {% when '9' %}{% assign n=8 %}
+  {% when '10' %}{% assign n=9 %}
+  {% when '11' %}{% assign n=10 %}
+  {% when '12' %}{% assign n=11 %}
+{% endcase %}
+
+{% if include.lang == 'fr' %}
+  {{ include.date | date: "%-d" }} {{ months_fr[n] }} {{ include.date | date: "%Y"}}
+{% else %}
+  {{ months_en[n] }} {{ include.date | date: "%-d" }}, {{ include.date | date: "%Y" }}
+{% endif %}

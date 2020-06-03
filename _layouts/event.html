@@ -1,0 +1,110 @@
+---
+layout: default
+format: post
+---
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% capture event-time-seconds %}{{ page.event-date | date: '%s' }}{% endcapture %}
+
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+				</figure>
+				{% endif %}
+
+				<div itemprop="name">
+					{% if page.lang=='fr' %}
+						{% if page.title_fr %}
+							<h1>{{ page.title_fr }}</h1>
+							{% assign showerrmsg = false %}
+						{% elsif bilingual %}
+  						<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = false %}
+						{% else %}
+							<h1>{{ page.title }}</h1>
+							{% assign showerrmsg = true %}
+						{% endif %}
+					{% else %}
+						<h1>{{ page.title }}</h1>
+						{% assign showerrmsg = false %}
+					{% endif %}
+				</div>
+			</header>
+
+			{% if page.lang=='fr' and page.speaker_fr %}
+				{% assign speaker = page.speaker_fr %}
+			{% elsif page.speaker %}
+				{% assign speaker = page.speaker %}
+			{% endif %}
+			{% if speaker %}
+				<p class="teaser" itemprop="description">
+					{% if page.speaker_url %}
+				  	<a href="{{ page.speaker_url }}">{{ speaker }}</a>
+					{% else %}
+				  	{{ speaker }}
+					{% endif %}
+				</p>
+			{% endif %}
+
+			<!-- Note: the following only shows the location next to date if
+			the event has not yet occurred -->
+			<p>
+				{%if page.facebook_event %}
+					{{ page.facebook_event }}
+				{% endif %}
+			</p>
+
+			<p>
+				{% include lang-date date=event-time-seconds lang=page.lang %}{{ event-time-seconds | date: '%H:%M' }}<br>
+		    {% if event-time-seconds >= now-unix-seconds %}
+				{% if page.lang=='fr' and page.event_location_fr %}
+					{{page.event_location_fr}}
+				{% elsif page.event_location %}
+				    {{page.event_location}}
+				{% else %}
+					{{ page.location }}
+				{% endif %}
+			{% endif %}
+			</p>
+
+
+  		{% if showerrmsg %}
+				{% for lang in site.data.languages %}
+					{% if page.lang==lang.short %}
+			   	<p><em>{{ lang.errmsg }}</em></p>
+					{% endif %}
+				{% endfor %}
+			{% endif %}
+
+			<div itemprop="articleSection">
+				{{ content }}
+				
+			{% if page.youtube %}
+				{{ page.youtube }}
+			{% endif %}
+			</div>
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
+
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar.html lang=page.lang %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar.html lang=page.lang %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->

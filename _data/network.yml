@@ -1,0 +1,17 @@
+- menu_name:
+    en: "Thanks!"
+    fr: "Merci !"
+
+- name:
+    en: "Anabel Chuinard for PhMa logos"
+    fr: "Anabel Chuinard pour les logos de PhMa"
+  class: "logo-phma"
+  url: "http://www.physics.mcgill.ca/~chuinard/"
+  title: "Anabel Chuinard"
+
+- name:
+    en: "Kelly Lepo for Space Explorers logos"
+    fr: "Kelly Lepo pour les logos de les explorateurs d'espace"
+  class: "logo-spaceexplorers"
+  url: "http://msi.mcgill.ca/Contact.html"
+  title: "Kelly Lepo"

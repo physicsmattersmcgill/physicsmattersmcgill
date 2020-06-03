@@ -1,0 +1,49 @@
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% assign counter = 0 %}
+
+{% for event in site.events %}
+  {% capture event-time-seconds %}{{ event.event-date | date: '%s' }}{% endcapture %}
+  {% if event-time-seconds >= now-unix-seconds %}
+    {% if counter == 0 %}
+      {% assign counter = 1 %}
+			{% assign this-event = event %}
+      {% assign next-event-time = event-time-seconds %}
+    {% elsif event-time-seconds <= next-event-time %}
+			{% assign this-event = event %}
+      {% assign next-event-time = event-time-seconds %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign next-event-image = this-event.image.thumb %}
+{% assign next-event-time = event-time-seconds %}
+
+{% if page.lang=='fr' and this-event.title_fr %}
+  {% assign next-event-title = this-event.title_fr %}
+{% else %}
+  {% assign next-event-title = this-event.title %}
+{% endif %}
+{% if page.lang=='fr' and this-event.meta_description_fr %}
+  {% assign next-event-text = this-event.meta_description_fr %}
+{% elsif page.lang=='fr' %}
+  {% assign next-event-text = "<em>Ce résumé n'est pas disponsible en français. </em>" | append: this-event.meta_description %}
+{% else %}
+  {% assign next-event-text = this-event.meta_description %}
+{% endif %}
+
+<div class="medium-4 columns frontpage-widget">
+	<a href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">
+		{% if next-event-image %}
+			{% capture widget_image %}{% if next-event-image contains 'http' %}{{ next-event-image }}{% else %}{{ site.urlimg }}{{ next-event-image }}{% endif %}{% endcapture %}
+			<img src="{{ widget_image }}" alt="" style="height: 227px;"/>
+		{% endif %}
+		</a>
+	<h2 class="font-size-h3 t10">{{ include.widget.widget-title }}</h2>
+	<p><b>{{ next-event-title }}</b><br/>  {{ next-event-text }}
+    {% if page.lang == 'fr' %}
+      {% assign more = site.data.language_fr.more %}
+    {% else %}
+      {% assign more = site.data.language.more %}
+    {% endif %}
+	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ more }}</a></p>
+</div>

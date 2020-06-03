@@ -1,0 +1,46 @@
+---
+layout: page
+lang: fr
+title: "Série de Colloque 'La Physique dans tous ses états'"
+teaser: "Soirées ouvertes à tous organisées par le département de physique de McGill"
+sidebar: right
+permalink: "/lectures_fr/"
+header:
+  image_fullwidth: "20170504_lecture_banner.jpg"
+---
+Les <a href="{{ site.baseurl }}/mcpherson_fr"> colloques Anna I. McPherson</a>, organisés une fois par année par le département sont l'occasion d'assister à la présentation des travaux de recherche de physicien(ne)s reconnus internationalement. Les <a href="https://astro.physics.mcgill.ca/astronight">soirées publiques d'astronomie </a> sont aussi parfaites pour rencontrer des astronomes et découvrir la recherche qui se fait dans ce domaine.
+
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+
+  {% for event in site.events %}
+  {% if event.type == "lecture" %}
+    {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
+    {% if event-time-seconds >= now-unix-seconds %}
+    <div class="row">
+      <div class="small-12 columns b60">
+        <p class="subheadline">{{ event.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if event.categories != empty and event.subheadline != NULL %} – {% endif %}{{ event.subheadline }}</p>
+        <h2><a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h2>
+        <p>
+          {% if event.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}"><img src="{{ site.urlimg }}{{ event.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ event.title }}"></a>{% endif %}
+
+          {% include lang-date date=event.event-date lang=event.lang%}<br>
+
+          {% if event.meta_description_fr %}
+            {% assign meta_description = event.meta_description_fr | strip_html | escape %}
+          {% elsif event.meta_description %}
+            <em>Ce résumé n'est pas disponsible en français.</em> {{ event.meta_description | strip_html | escape }}
+          {% elsif event.speaker_fr %}
+            {{ event.speaker_fr | strip_html | escape }}
+          {% else %}
+            {{ event.speaker | strip_html | escape }}
+          {% endif %}
+
+          <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language_fr.read }} {{ event.title }}"><strong>{{ site.data.language_fr.read_more }}</strong></a>
+        </p>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/past-lectures_fr">{{ site.data.language_fr.past_lectures }}</a></p>

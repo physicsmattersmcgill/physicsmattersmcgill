@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://physicsmatters.physics.mcgill.ca/</id>
+	<title>Physics Matters McGill</title>
+	<updated>2020-06-03T21:59:02+00:00</updated>
+
+	<subtitle>This is the website for the McGill Physics department's outreach group.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>adasilva, achuinar, sfairbrother</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://physicsmatters.physics.mcgill.ca/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://physicsmatters.physics.mcgill.ca/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+
+	
+</feed>

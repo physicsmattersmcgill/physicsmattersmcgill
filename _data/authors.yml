@@ -1,0 +1,26 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+sfairbrother: # replace this with your info
+  name: "Sarah Fairbrother"
+  siterole: "Webmaster"
+  uri:
+  email: "sarah.fairbrother@rogers.com"
+  twitter:
+# you can add more authors here
+adasilva:
+  name: "Ashley DaSilva"
+  siterole: "webmaster, physicist, outreach coordinator"
+  uri: http://www.ashleydasilva.com
+  email:
+  twitter: "@adasilvaphd"
+achuinar: 
+  name: "Anabel Chuinard"
+  siterole: "webmaster, physicist, education coordinator, outreach enthousiast"
+  uri: http://www.physics.mcgill.ca/~chuinard/
+  email:
+  twitter: "@anabelchuinard"

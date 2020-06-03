@@ -1,0 +1,131 @@
+- title:
+    en: Home
+    fr: Accueil
+  url:
+    en: "/"
+    fr: "/accueil/"
+  ref: home
+  side: left
+
+- title:
+    en: About
+    fr: À propos
+  url:
+    en: "/about/"
+    fr: "/about_fr/"
+  ref: about
+  side: left
+  dropdown:
+  - title:
+      en: Contact
+      fr: Contactez-nous
+    url:
+      en: "/contact/"
+      fr: "/contact_fr/"
+
+- title:
+    en: "For educators"
+    fr: "Pour les enseignants"
+  url:
+    en: "/educators/"
+    fr: "/educators_fr/"
+  side: left
+  dropdown:
+  - title:
+      en: "Visit us at McGill"
+      fr: "Rendez-nous visite"
+    url:
+      en: "/visit-department/"
+      fr: "/visit-department_fr/"
+  - title:
+      en: "Visits to your classroom"
+      fr: "Visite dans votre classe"
+    url:
+      en: "/school-programs/"
+      fr: "/school-programs_fr/"
+  - title:
+      en: "Physics for teachers"
+      fr: "La physique pour les enseignants"
+    url:
+      en: "/teacher-training/"
+      fr: "/teacher-training_fr/"
+  - title:
+      en: "Activity guides"
+      fr: "Guide d'activités"
+    url:
+      en: "/activities/"
+      fr: "/activities_fr/"
+
+- title:
+    en: "For students"
+    fr: "Pour les élèves"
+  url:
+    en: "/students/"
+    fr: "/students_fr/"
+  side: left
+  dropdown:
+    - title:
+        en: "Visit us at McGill"
+        fr: "Rendez-nous visite"
+      url:
+        en: "/students/"
+        fr: "/students_fr/"
+    - title:
+        en: "ATLAS Masterclass"
+        fr: "Masterclasse d'ATLAS"
+      url:
+        en: "/masterclass/"
+        fr: "/masterclass_fr/"
+    - title:
+        en: "McGill Physics Olympiad Program"
+        fr: "Programme d'olympiade de physique à McGill"
+      url:
+        en: "/mpop/"
+        fr: "/mpop_fr/"
+    - title:
+        en: "Summer Internships"
+        fr: "Stages d'été"
+      url:
+        en: "/interns/"
+        fr: "/interns_fr/"
+    - title:
+        en: "Physics Matters to the World"
+        fr: "La physique compte pour le monde"
+      url:
+        en: "/international/"
+        fr: "/international_fr/"
+    - title:
+        en: "Girls in Physics Day"
+        fr: "Journée des Filles en Physique"
+      url:
+        en: "/girls/"
+        fr: "/girls_fr/"
+
+- title:
+    en: "Public Events"
+    fr: "Événements publics"
+  url:
+    en: "/events/"
+    fr: "/events_fr/"
+  side: left
+  dropdown:
+  - title:
+      en: "Physics Matters lecture series"
+      fr: "Série de colloques 'La physique dans Tous ses États'"
+    url:
+      en: "/lectures/"
+      fr: "/lectures_fr/"
+  - title:
+      en: "Anna I. McPherson lecture series"
+      fr: "Série de colloques Anna I. McPherson"
+    url:
+      en: "/mcpherson/"
+      fr: "/mcpherson_fr/"
+
+- title:
+    en: Partners
+    fr: Partenaires
+  url:
+    en: "/partners/"
+    fr: "/partners_fr/"
+  side: left

@@ -1,0 +1,54 @@
+---
+layout: frontpage
+title: "Events"
+lang: en
+teaser: ""
+permalink: "/events/"
+header:
+  image_fullwidth: "20170504_lecture_2.jpg"
+widget1:
+  title: "Public Lectures"
+  url: "/lectures/"
+  image: 20170504_lecture_2.jpg
+  text: 'The physics department hosts monthly Physics Matters public letures, monthly public Astro Nights, and the yearly Anna I. MacPherson lecture series.'
+widget2:
+  title: "Physics Hackathon"
+  url: "http://www.physics.mcgill.ca/hackathon2017/"
+  image: hackathon_onetable_whitelogo.jpg
+  text: 'Participant teams will be challenged to use scientific computing tools and/or microelectronic gadgets to demonstrate a concept, phenomenon or application involving the physical sciences.'
+widget3:
+  title: "Rutherford Museum"
+  url: "http://www.physics.mcgill.ca/museum/index.htm"
+  image: "http://www.physics.mcgill.ca/museum/ruthleft_copy.jpg"
+  text: 'The Rutherford Museum and the Anna MacPherson collection are open to the public. These collections have a variety of historical devices and memorabilia. To make an appointment, <a href="mailto:curator@physics.mcgill.ca">email the curator</a>.'
+---
+<h1> Upcoming Events</h1>
+
+{% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
+
+  {% for event in site.events %}
+    {% capture event-time-seconds %}{{event.event-date | date: '%s' }}{% endcapture %}
+    {% if event-time-seconds >= now-unix-seconds %}
+    <div class="row">
+      <div class="small-12 columns b60">
+        <p class="subheadline">{{ event.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if event.categories != empty and event.subheadline != NULL %} – {% endif %}{{ event.subheadline }}</p>
+        <h2><a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h2>
+        <p>
+          {% if event.image.thumb %}<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}"><img src="{{ site.urlimg }}{{ event.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ event.title }}"></a>{% endif %}
+
+          {% include lang-date date=event.event-date lang=event.lang%}<br>
+
+          {% if event.meta_description %}
+            {{ event.meta_description | strip_html | escape }}
+          {% else %}
+            {{ event.speaker | strip_html | escape }}
+          {% endif %}
+
+          <a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="{{ site.data.language.read }} {{ event.title }}"><strong>{{ site.data.language.read_more }}</strong></a>
+        </p>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+    {% endif %}
+  {% endfor %}
+
+<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/past-events">{{ site.data.language.past_events }}</a></p>
