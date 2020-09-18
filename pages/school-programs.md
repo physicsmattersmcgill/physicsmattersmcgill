@@ -24,3 +24,5 @@ In this program, pairs of physicists visit local primary schools around 5 times 
 - Forces & Friction (New)
 
 The Space Explorers program (formerly Adopt an Astronomer) was started in September 2015, and has since grown to include around 6 classrooms each year, reaching approximately 100 students from ages 9 to 12 (grades 4 - 6).
+
+For more online activities and resources on Science, visit the <a href="https://www.mcgill.ca/science/outreach">Science Outreach</a> page of the Faculty of Science!
