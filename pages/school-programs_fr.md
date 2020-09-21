@@ -22,3 +22,5 @@ Nous rendons visite à votre classe par groupe de deux. Le programme comprend ci
 {% endfor %}
 
 6 écoles sont actuellement partenaires du programme, ce qui représente un bassin d'une centaine d'élèves de la 4ème à la 6ème primaire.
+
+Pour trouver des autres activités et ressources, veuillez visiter le site web de <a href="https://www.mcgill.ca/science/outreach">vulgarisation scientifique</a> de la faculté des sciences !
