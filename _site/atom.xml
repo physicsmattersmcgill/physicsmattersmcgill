@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://physicsmatters.physics.mcgill.ca/</id>
+	<id>http://localhost:4000/</id>
 	<title>Physics Matters McGill</title>
-	<updated>2020-05-25T16:12:25-04:00</updated>
+	<updated>2020-09-20T20:51:07-04:00</updated>
 
 	<subtitle>This is the website for the McGill Physics department's outreach group.</subtitle>
 
@@ -19,8 +19,8 @@
 		</author>
 	
 
-	<link href="https://physicsmatters.physics.mcgill.ca/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://physicsmatters.physics.mcgill.ca/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 

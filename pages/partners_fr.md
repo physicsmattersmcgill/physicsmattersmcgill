@@ -22,3 +22,5 @@ permalink: "/partners_fr/"
 {% include logo_blocks %}
 
 <p>Pour plus d'information à propos des activités de vulgarisation de la Faculté des Science, <a href="http://www.mcgill.ca/science/outreach">veuillez visiter leur site web</a></p>
+<br>
+<p>Pour découvrir comment nous sommes impliquées dans la vulgarisation scientifique à Montréal dans son ensemble, consultez cette <a href="https://storymaps.arcgis.com/stories/310463ae12ae4a8292dab1f6adb86a9b">superbe carte!</a></p>

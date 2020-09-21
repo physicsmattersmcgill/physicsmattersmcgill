@@ -22,3 +22,5 @@ permalink: "/partners/"
 {% include logo_blocks %}
 
 <p>Find out what other types of <a href="http://www.mcgill.ca/science/outreach">Science Outreach</a> McGill and its partner groups offer.</p>
+<br>
+<p>To see how McGill Physics is involved with outreach in Montreal as a whole, check out this neat <a href="https://storymaps.arcgis.com/stories/310463ae12ae4a8292dab1f6adb86a9b">Outreach Map!</a></p>
