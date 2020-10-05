@@ -55,6 +55,12 @@
     url:
       en: "/activities/"
       fr: "/activities_fr/"
+  - title:
+      en: "Virtual Space Explorers"
+      fr: "Les Explorateurs de l’espace"
+    url:
+      en: "/virtual-space-explorers/"
+      fr: "/virtual-space-explorers_fr/"
 
 - title:
     en: "For students"
