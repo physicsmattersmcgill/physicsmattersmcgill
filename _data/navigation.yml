@@ -22,6 +22,12 @@
     url:
       en: "/contact/"
       fr: "/contact_fr/"
+  - title:
+      en: Volunteer Profiles
+      fr: Volunteer Profiles
+    url:
+      en: "/volunteers/"
+      fr: "/volunteers_fr/"
 
 - title:
     en: "For educators"
