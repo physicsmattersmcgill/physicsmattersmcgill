@@ -3,8 +3,10 @@ layout: page
 title: "Alice Curtin"
 lang: fr
 header: no
-permalink: /volunteers_fr/alice_c_fr/
+permalink: /volunteers/alice_c_fr/
 ---
+<img src="http://www.physics.mcgill.ca/~outreach/team/alicecurtin.jpg" />
+<br><br>
 <b>Parle-nous un peu de toi! D'où viens-tu, et qu’est-ce qui t’a menée à étudier la physique?</b>
 <br><br>
 Je suis une étudiante de 2e année de maîtrise originaire des États-Unis. J'ai grandi dans une très petite ville rurale dans l'ouest du Massachusetts, sur une ferme laitière ancestrale. Bien que mes parents ne soient pas des scientifiques, j'ai eu la chance d'avoir un professeur de physique au secondaire qui était passionné par l'astronomie. Même après avoir changé d'école, j'ai continué à explorer le monde de la physique à l'extérieur des cours (en grande partie grâce à un professeur de chimie), par l’entremise d’activités d'astronomes amateurs, de projets indépendants, de concours d'écriture et de la vulgarisation scientifique!
@@ -30,3 +32,5 @@ La physique est une discipline à prédominance masculine. Bien que cela commenc
 En tant que physicienne, chaque jour est différent. Parfois, je passe la journée à lire de nouveaux articles scientifiques; d'autres jours, je passe dix heures à déboguer quelques lignes de code informatique. En général, je passe mon temps en classe, en réunion avec des collaborateurs, à programmer, à analyser de nouveaux résultats, à effectuer mes tâches d'assistante d'enseignement, et à mener des activités de vulgarisation scientifique.
 <br><br>
 Je m'intéresse avant tout à la radioastronomie. Ma recherche se concentre sur la détection de sursauts radio rapides (fast radio bursts), des sources transitoires d'ondes radio sur lesquelles nous en savons très peu. Je participe à la collaboration CHIME/FRB (Canadian Hydrogen Mapping Experiment/Fast Radio Bursts) qui utilise un nouveau télescope radio situé à Penticton, C.-B. pour détecter des sursauts radio rapides. Ma recherche se divise plus spécifiquement en deux parties: premièrement, analyser l'interférence dans les fréquences radio enregistrées par CHIME/FRB, et deuxièmement, calculer des limites supérieures sur l'émission radio d'autres types d'événements. En plus de CHIME/FRB, je contribue toujours à un projet de recherche que j'ai commencé quand j'étais étudiante au baccalauréat et qui utilise les pulsars pour caractériser lechamp magnétique galactique.
+<br><br>
+<a href="/volunteers_fr/">Back to Volunteer List</a>

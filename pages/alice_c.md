@@ -5,6 +5,8 @@ lang: en
 header: no
 permalink: /volunteers/alice_c/
 ---
+<img src="http://www.physics.mcgill.ca/~outreach/team/alicecurtin.jpg" />
+<br><br>
 <b>Tell us a bit about yourself! Where are you from, and how did you get into Physics?</b>
 <br><br>
 I am a second year MSc student from the USA. I grew up in a very small, rural town in Western Massachusetts on an old dairy farm. While neither of my parents are scientists, I was lucky to have a physics teacher in high school with passion and enthusiasm for astronomy. Even after switching schools, I found myself exploring physics outside the classroom (largely due to the support of my chemistry teacher) through local astronomy events, an independent project, essay competitions, and outreach
@@ -30,3 +32,5 @@ Physics is a predominantly male field. While this is starting to change, we stil
 Every day as a physicist is different. Sometimes, I spend the entire day reading new journal articles; on some other days, I spend 10 hours debugging a few lines of code. In general, I spend my time either in class, at a collaboration meeting, coding, analyzing new scientific results, attending to teaching assistant duties, and performing outreach activities.
 <br><br>
 I am the most interested in radio astronomy. My research focuses on detecting fast radio bursts, atransient radio source for which very little is known. I am a part of the CHIME/FRB (Canadian Hydrogen Mapping Experiment/Fast Radio Bursts) experiment which uses a novel radio telescope out in Penticton, BC to detect fast radio bursts. My specific research is best split into two categories: first, analyzing the radio frequency interference within the CHIME/FRB pipeline, and second, calculating radio emission upper limits on other types of events. In additionto CHIME/FRB, I am also a lead contributor to research that I started as an undergraduate student that uses pulsars to study the galactic magnetic field.
+<br><br>
+<a href="/volunteers/">Back to Volunteer List</a>
