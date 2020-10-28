@@ -41,7 +41,7 @@ We want to empower teachers to feel comfortable and happy teaching physics! To t
     <div class="column column-block t30" style="width: 270px">
         <img src="http://www.physics.mcgill.ca/~outreach/team/Kim_Metera.jpg" class="thumbnail" alt=""/><br/>
         <b>Kim Metera</b><br/>
-        Associé académique
+        Academic Associate
     </div>
     <div class="column column-block t30" style="width: 270px">
         <img src="http://www.physics.mcgill.ca/~outreach/team/Adrian_Liu.jpg" class="thumbnail" alt=""/><br/>

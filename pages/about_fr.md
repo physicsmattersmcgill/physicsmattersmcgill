@@ -23,37 +23,52 @@ Nous voulons donner aux enseignants les moyens de se sentir à l'aise et heureux
 ## Notre équipe
 
 <div class="row small-up-1 medium-up-2 large-up-2">
-    <div class="column column-block t30" style="width: 290px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/nikolasProvatas.jpg" class="thumbnail" alt=""/><br/>
-        <b>Prof. Nikolas Provatas</b><br/>
-        Président du comité de vulgarisation
-    </div>
-    <div class="column column-block t30" style="width: 270px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/lisadang2.jpg" class="thumbnail" alt=""/><br/>
-        <b>Lisa Dang</b><br/>
-        Coordinatrice au Rayonnement
-    </div>
-    <div class="column column-block t30" style="width: 270px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/aurianecanesse2.jpg" class="thumbnail" alt=""/><br/>
-        <b>Auriane Canesse</b><br/>
-        Coordinatrice au Rayonnement
-    </div>
-    <div class="column column-block t30" style="width: 270px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/francoisbourassa2.jpg" class="thumbnail" alt=""/><br/>
-        <b>Francois Bourassa</b><br/>
-        Directeur de Conférence Publique
-    </div>
-    <div class="column column-block t30" style="width: 270px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/zoemcintyre.jpg" class="thumbnail" alt=""/><br/>
-        <b>Zoe McIntyre</b><br/>
-        Directrice de conférence publique
-    </div>
-    <div class="column column-block t30 end" style="width: 270px">
-        <img src="http://www.physics.mcgill.ca/~outreach/team/sarahfairbrother.jpg" class="thumbnail" alt=""/><br/>
-        <b>Sarah Fairbrother</b><br/>
-        Webmaster
-    </div>
+  <div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Nicholas_Vieira.jpg" class="thumbnail" alt=""/><br/>
+      <b>Nicholas Vieira</b><br/>
+      Coordinateur - la physique dans tous ses états
+  </div>
+  <div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Sabrina_Berger.png" class="thumbnail" alt=""/><br/>
+      <b>Sabrina Berger</b><br/>
+      Coordinatrice - la physique dans tous ses états
+  </div>
+  <div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Francois_Bourassa.jpg" class="thumbnail" alt=""/><br/>
+      <b>François Bourassa</b><br/>
+      Coordinateur - la physique dans tous ses états
+  </div>
+  <div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Kim_Metera.jpg" class="thumbnail" alt=""/><br/>
+      <b>Kim Metera</b><br/>
+      Associé académique
+  </div>
+  <div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Adrian_Liu.jpg" class="thumbnail" alt=""/><br/>
+      <b>Adrian Liu</b><br/>
+      Directeur du comité de vulgarisation de la physique
+  </div>
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Alice_Curtin.jpg" class="thumbnail" alt=""/><br/>
+      <b>Alice Curtin</b><br/>
+      Coordinatrice - Explorateurs de l’espace
+  </div>
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Lia_Formenti.png" class="thumbnail" alt=""/><br/>
+      <b>Lia Formenti</b><br/>
+      Directrice de conférences publiques
+  </div>
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Simon_Guichandut.png" class="thumbnail" alt=""/><br/>
+      <b>Simon Guichandut</b><br/>
+      Directeur de conférences publiques
+  </div>
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Sarah_Fairbrother.jpg" class="thumbnail" alt=""/><br/>
+      <b>Sarah Fairbrother</b><br/>
+      Webmestre
+  </div>
 </div>
 
-#### Bénévole du programme des explorateurs de l'espace
-Daniel Abarbanel, Maddy Anthonisen, Alaina Bui, Lisa Dang, Yan Gobeil, Kays Haddad, Jenny Long, Kevin Murray, Matthew Rigby, Cindy Shaheen, Anh-Khoi Trinh, Juliann Wray
+<!-- #### Bénévole du programme des explorateurs de l'espace
+Daniel Abarbanel, Maddy Anthonisen, Alaina Bui, Lisa Dang, Yan Gobeil, Kays Haddad, Jenny Long, Kevin Murray, Matthew Rigby, Cindy Shaheen, Anh-Khoi Trinh, Juliann Wray -->
