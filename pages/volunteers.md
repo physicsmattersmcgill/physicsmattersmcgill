@@ -16,3 +16,7 @@ Alice Curtin
 <img src="http://www.physics.mcgill.ca/~outreach/team/liaformenti.jpeg" width="20%" />
 Lia Formenti
 <a href="/volunteers/lia_f/">Read her interview here!</a>
+<br><br>
+<img src="http://www.physics.mcgill.ca/~outreach/team/simonguichandut.jpg" width="20%" />
+Simon Guichandut
+<a href="/volunteers/simon_g/">Read his interview here!</a>
