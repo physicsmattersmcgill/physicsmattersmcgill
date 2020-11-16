@@ -13,7 +13,7 @@ I am a second year MSc student from the USA. I grew up in a very small, rural to
 <br><br>
 <b>What do you like about Physics?</b>
 <br><br>
-Originally, I fell in love with physics because it was an applied form of math. Now, I am hooked on it for many reasons, with one of the largest being that the field is rapidly evolving and there isalways more to learn!
+Originally, I fell in love with physics because it was an applied form of math. Now, I am hooked on it for many reasons, with one of the largest being that the field is rapidly evolving and there is always more to learn!
 <br><br>
 <b>What outreach activities are you currently leading?</b>
 <br><br>
@@ -24,13 +24,13 @@ I am currently involved in the Space Explorers program, a program that brings ph
 I was very lucky in high school to have such a positive introduction to physics. However, I find that a lot of my friends or colleagues have not necessarily had the same experience. Physics can often be taught in a dry or inaccessible manner... but it doesn’t have to be! I hope that the outreach I do will show students that physics is not this scary, foreign concept but instead that it is fun (and surrounds us in our everyday lives).
 <br><br>
 <b>Are there social issues that you want to address in particular?</b>
-<br>
-Physics is a predominantly male field. While this is starting to change, we still have a long way to go. There have been numerous studies that show that the divide between males and females inhard sciences (along with racial inequalities) can start as young as elementary school. I hope this outreach can inspire young students to stick with physics and show them that it is not a field for one gender or race.
+<br><br>
+Physics is a predominantly male field. While this is starting to change, we still have a long way to go. There have been numerous studies that show that the divide between males and females in hard sciences (along with racial inequalities) can start as young as elementary school. I hope this outreach can inspire young students to stick with physics and show them that it is not a field for one gender or race.
 <br><br>
 <b>What’s your life as a physics student like? What’s your research on?</b>
 <br><br>
 Every day as a physicist is different. Sometimes, I spend the entire day reading new journal articles; on some other days, I spend 10 hours debugging a few lines of code. In general, I spend my time either in class, at a collaboration meeting, coding, analyzing new scientific results, attending to teaching assistant duties, and performing outreach activities.
 <br><br>
-I am the most interested in radio astronomy. My research focuses on detecting fast radio bursts, atransient radio source for which very little is known. I am a part of the CHIME/FRB (Canadian Hydrogen Mapping Experiment/Fast Radio Bursts) experiment which uses a novel radio telescope out in Penticton, BC to detect fast radio bursts. My specific research is best split into two categories: first, analyzing the radio frequency interference within the CHIME/FRB pipeline, and second, calculating radio emission upper limits on other types of events. In additionto CHIME/FRB, I am also a lead contributor to research that I started as an undergraduate student that uses pulsars to study the galactic magnetic field.
+I am the most interested in radio astronomy. My research focuses on detecting fast radio bursts, a transient radio source for which very little is known. I am a part of the CHIME/FRB (Canadian Hydrogen Mapping Experiment/Fast Radio Bursts) experiment which uses a novel radio telescope out in Penticton, BC to detect fast radio bursts. My specific research is best split into two categories: first, analyzing the radio frequency interference within the CHIME/FRB pipeline, and second, calculating radio emission upper limits on other types of events. In addition to CHIME/FRB, I am also a lead contributor to research that I started as an undergraduate student that uses pulsars to study the galactic magnetic field.
 <br><br>
 <a href="/volunteers/">Back to Volunteer List</a>

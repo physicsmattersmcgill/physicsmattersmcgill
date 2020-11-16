@@ -24,7 +24,7 @@ J’ai rejoint AstroMcGill dès mon entrée à la maîtrise à McGill. Je suis d
 Je crois qu’en tant que scientifiques, souvent financés par des fonds publics, nousavons une responsabilité envers la population de rendre notre recherche accessible àtous. C’est difficile, car il est plus facile de discuter de science avec nos pairs enutilisant un jargon commun, mais c’est un effort nécessaire.
 <br><br>
 <b>Y a-t-il des enjeux de société qui t'interpellent particulièrement?</b>
-<br>
+<br><br>
 L’anti-intellectualisme   semble   être   de   plus   en   plus   omniprésent   dans   le   mondeoccidental. Du déni des changements climatiques au refus de porter un masque, lemanque, voire l’absence, de confiance envers les scientifiques est alarmant. Et c’estcertainement en partie la faute de la communauté scientifique elle-même, qui se doit decommuniquer plus efficacement et clairement avec le grand public. J’espère pouvoircontribuer à combler ce fossé et régler ce problème.
 <br><br>
 <b>À quoi ressemble ton quotidien en tant qu'étudiant-e en physique? Quel est ton sujet de recherche?</b>
@@ -34,15 +34,15 @@ Ma recherche porte sur les étoiles à neutrons, ces cadavres d’étoiles massi
 Je travaille sur des simulations qui modélisent l’éjection de vents à partir de la surfacede ces étoiles. Ces vents sont causés par un surplus de matière accumulée en surfacequi s’enflamme soudainement par fusion nucléaire, générant une énorme quantitéd’énergie sous forme de rayons X. Mon quotidien est très varié. Parfois, je passe lajournée à lire des articles scientifiques ou d’autres formes de documentation. D’autresfois, j’élabore et j’améliore mes codes de simulation, ou je fais de l’analyse de données.Je manque rarement de choses à faire!
 <br><br>
 <b>Si tu n’étais pas physicien-ne, que ferais-tu?</b>
-<br>
+<br><br>
 J’aime la programmation, donc je travaillerais sans doute dans des domaines tels quele génie logiciel, l’analyse de données ou l’intelligence artificielle. Tant qu’il y a un défiou problème à résoudre, je suis partant!
 <br><br>
 <b>Qu’aimes-tu faire en dehors de la physique? As-tu d’autres passions, quels sonttes passe-temps?</b>
-<br>
+<br><br>
 J’adore les échecs. Je ne suis qu’un amateur, mais je rêve de pouvoir un jour êtrequalifié de joueur intermédiaire.
 <br><br>
 <b>Nomme une ou un scientifique que le grand public devrait connaître davantage àton avis. Pourquoi devrait-on la connaître?</b>
-<br>
+<br><br>
 Bien qu’elle soit bien connue des physiciens et des mathématiciens, je crois qu’EmmyNoether n’a pas la reconnaissance qu’elle mérite auprès du public. Elle était unemathématicienne allemande du début du 20e siècle qui a également travaillé sur desproblèmes de physique. Non seulement ses contributions aux deux domaines ont étéexceptionnelles, elle les a faites en faisant face à énormément de discrimination enraison de son sexe et de son ethnicité. Comme exemple de son travail, c’est elle qui arésolu le problème de conservation d’énergie dans la théorie de la relativité généraled’Einstein. D’ailleurs, vous devriez lire ce que ce dernier avait à dire à propos de Noether dans cette nécrologie: https://mathshistory.st-andrews.ac.uk/Obituaries/Noether_Emmy_Einstein/.
 <br><br>
 <a href="/volunteers_fr/">Back to Volunteer List</a>

@@ -24,7 +24,7 @@ I joined AstroMcGill as soon as I started my Master’s at McGill. For the past 
 I believe that as scientists, often financed by public funds, we have a responsibility towards the population to render our research accessible to all. It is difficult; it is easier to discuss science with our peers, using a common jargon. But it is a necessary effort.
 <br><br>
 <b>Are there social issues that you want to address in particular?</b>
-<br>
+<br><br>
 Anti-intellectualism seems to be increasingly widespread in the Western world. From climate change denial to the refusal of wearing face masks, the lack of trust in scientists is alarming. And that is certainly partly the fault of the scientific community itself, which must communicate more efficiently and clearly with the public. I hope that I can contribute to bridging the gap and fixing this problem.
 <br><br>
 <b>What’s your life as a physics student like? What’s your research on?</b>
@@ -34,15 +34,15 @@ My research focuses on neutron stars, these cadavres of massive stars that have 
 I work on simulations that model the ejection of winds from the surface of neutron stars. These winds are caused by an accumulation of gas on the surface which quickly combusts by nuclear fusion, generating an enormous amount of energy in the form of X-ray photons. My day-to-day varies a lot. Sometimes, I spend the whole day reading papers or other forms of documentation. Other times, I work to build and improve my simulation codes, or do data analysis. I rarely have nothing on my plate!
 <br><br>
 <b>If you weren’t a physicist, what would you be?</b>
-<br>
+<br><br>
 I like programming, so I would likely work in something like software engineering, data analysis or artificial intelligence. As long as there is a challenge or problem to solve, I’m up for it!
 <br><br>
 <b>What do you like to do outside of physics? Any hobbies?</b>
-<br>
+<br><br>
 I love chess! I’m only an amateur player, but I dream of one day being qualified as intermediate...
 <br><br>
 <b>Name a scientist you think people should know more about. Why is she special?</b>
-<br>
+<br><br>
 Although she is well known by physicists and mathematicians, I think Emmy Noether does not get the recognition she deserves from the larger public. She was a German mathematician in the beginning of the 20th century, who also worked on physics problems. Not only are the contributions she made to both fields outstanding, she made them while facing tremendous prejudice because of her gender, not to mention her ethnicity. As a quick example of her work, she was the one who fixed the energy conservation problem in Einstein’s theory of general relativity. In fact, you should read what he had to say about Noether in this obituary: https://mathshistory.st-andrews.ac.uk/Obituaries/Noether_Emmy_Einstein/.
 <br><br>
 <a href="/volunteers/">Back to Volunteer List</a>

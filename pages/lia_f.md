@@ -19,14 +19,14 @@ I could never have imagined a more wonderous strange explanation of how the Univ
 <br><br>
 <b>What outreach activities are you currently leading or have led in the past?</b>
 <br><br>
-I’m one of the coordinators for the AstroPhysics McGill Public Lecture Livestream series. I also gave one myself! Deconstructing my own work to present to others was sorewarding, and by doing so I better understood my own work! I’m looking forward to getting more involved in equity-based outreach initiatives on the horizon.
+I’m one of the coordinators for the AstroPhysics McGill Public Lecture Livestream series. I also gave one myself! Deconstructing my own work to present to others was so rewarding, and by doing so I better understood my own work! I’m looking forward to getting more involved in equity-based outreach initiatives on the horizon.
 <br><br>
 <b>What inspires you to do outreach?</b>
 <br><br>
-I think that science can provide a passion and a home to many, but not everyone gets the same exposure to science, especially when young or in high school. Outreach helpsaddress that. For me, it’s not about trying to get as many people as possible into science, but about making sure that everyone has a chance to get their curiosity hooked.
+I think that science can provide a passion and a home to many, but not everyone gets the same exposure to science, especially when young or in high school. Outreach helps address that. For me, it’s not about trying to get as many people as possible into science, but about making sure that everyone has a chance to get their curiosity hooked.
 <br><br>
 <b>Are there social issues that you want to address in particular?</b>
-<br>
+<br><br>
 It’s particularly distressing that the typical divisors of race, gender, ability and sexuality also affect access to science. I know that science is not a pure institution and that it has been weaponized in the past; however, many parts of science are both useful and interesting for everyone to understand (to say the least). There must be effort to make science available and inclusive to everyone. I identify most strongly with women in STEM as one myself; I don’t want any woman to feel uncomfortable or not confident enough to participate fully. I also found out recently that roughly half of people think of scientists as elitists! This is not an image I want to uphold. Communicating science with outreach initiatives, particularly those built with equity in mind, helps to tackle both goals.
 <br><br>
 <b>Name a scientist you think people should know more about. Why is she special?</b>
