@@ -13,11 +13,11 @@ I am currently a PhD student in Physics, and I come from the South Shore of Mont
 <br><br>
 <b>What do you like about Physics?</b>
 <br><br>
-Why is the rainbow curved, and why do its colours appear in a certain order? Why does the oscillation period of a pendulum not depend on its mass? I love physics because it explains the world around us from fundamental principles, and in quantifiable manner.And, a number of open questions remain unanswered, so there will always be something to learn and understand!
+Why is the rainbow curved, and why do its colours appear in a certain order? Why does the oscillation period of a pendulum not depend on its mass? I love physics because it explains the world around us from fundamental principles, and in quantifiable manner. And, a number of open questions remain unanswered, so there will always be something to learn and understand!
 <br><br>
 <b>What outreach activities are you currently leading or have led in the past?</b>
 <br><br>
-I joined AstroMcGill as soon as I started my Master’s at McGill. For the past two years, I have been one of the coordinators of public lectures that we organize in collaboration with Physics Matters. I am also involved in other outreach activities, such as our popularAstronomy on Tap events.
+I joined AstroMcGill as soon as I started my Master’s at McGill. For the past two years, I have been one of the coordinators of public lectures that we organize in collaboration with Physics Matters. I am also involved in other outreach activities, such as our popular Astronomy on Tap events.
 <br><br>
 <b>What inspires you to do outreach?</b>
 <br><br>
@@ -29,7 +29,7 @@ Anti-intellectualism seems to be increasingly widespread in the Western world. F
 <br><br>
 <b>What’s your life as a physics student like? What’s your research on?</b>
 <br><br>
-My research focuses on neutron stars, these cadavres of massive stars that have exploded into supernovaes. With once or twice the mass of the sun compressed into thesize of the island of Montreal, these objects are the most compact in the Universe, except for black holes. By studying them, we can learn about the nature of matter at densities unobtainable on Earth.
+My research focuses on neutron stars, these cadavres of massive stars that have exploded into supernovaes. With once or twice the mass of the Sun compressed into thesize of the island of Montreal, these objects are the most compact in the Universe, except for black holes. By studying them, we can learn about the nature of matter at densities unobtainable on Earth.
 <br><br>
 I work on simulations that model the ejection of winds from the surface of neutron stars. These winds are caused by an accumulation of gas on the surface which quickly combusts by nuclear fusion, generating an enormous amount of energy in the form of X-ray photons. My day-to-day varies a lot. Sometimes, I spend the whole day reading papers or other forms of documentation. Other times, I work to build and improve my simulation codes, or do data analysis. I rarely have nothing on my plate!
 <br><br>
