@@ -2,7 +2,7 @@
 title: "Take it to the Limit: Mammoth Machines and the Tiniest Particles"
 meta_description: "This talk will cover how we study the smallest building blocks of matter using the collider and the famous ATLAS experiment."
 speaker: Lia Formenti (McGill University)
-facebook_event: Click <a href= "https://www.facebook.com/events/595106767772849/" >here</a> for the livestream!
+facebook_event: Click <a href= "https://www.facebook.com/1621094391554544/videos/242040183882347/" >here</a> for a recording of the livestream!
 speaker_url:
 event-date: 2020-05-21 14:00
 event_location: Online Event
