@@ -22,7 +22,7 @@ Le professeur Jim Cline débute son cours sur la mécanique classique en expliqu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ctN0eH7J4OM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Maude Larivière, étudiante de 2e année au baccalauréat en physique à l’université McGill, explique comment l’équipe du Event Horizon Telescope a pu capturer une image d’un trou noir.
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mepSkwt0hIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Karishma M. révèle le secret d’un tour de magie déroutant: un minéral bien spécial et de la lumière polarisée.

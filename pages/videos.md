@@ -26,5 +26,5 @@ Maude Larivière, a 2nd year undergraduate student in physics at McGill Universi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mepSkwt0hIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Karishma M. reveals the secret of a puzzling magic trick: polarized light and a special mineral.
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhTQJxn7Adw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
