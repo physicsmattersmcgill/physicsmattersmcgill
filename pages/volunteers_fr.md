@@ -20,3 +20,7 @@ Lia Formenti
 <img src="http://www.physics.mcgill.ca/~outreach/team/simonguichandut.jpg" width="20%" />
 Simon Guichandut
 <a href="/volunteers/simon_g_fr/">Read his interview here!</a>
+<br><br>
+<img src="http://www.physics.mcgill.ca/~outreach/team/mattlundy.jpeg" width="20%" />
+Matt Lundy
+<a href="/volunteers/matt_l_fr/">Read his interview here!</a>
