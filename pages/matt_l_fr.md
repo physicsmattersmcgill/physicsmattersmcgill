@@ -13,7 +13,7 @@ Salut! Je m’appelle Matthew Lundy et je viens d’Ottawa, Ontario. Depuis mon 
 <br><br>
 <b>Qu'est-ce qui te fait aimer la physique?</b>
 <br><br>
-La physique, et en particulier l’astronomie, me rappelle que je fais partie d’une histoire beaucoupplus vaste. Les êtres humains observent le ciel et s’interrogent à son sujet depuis qu’ils ont développé un cerveau, et certaines questions restent sans réponse encore aujourd’hui. J’ai le sentiment de pouvoir humblement creuser ces questions et de faire une différence dans la façon dont nous voyons l’univers.
+La physique, et en particulier l’astronomie, me rappelle que je fais partie d’une histoire beaucoup plus vaste. Les êtres humains observent le ciel et s’interrogent à son sujet depuis qu’ils ont développé un cerveau, et certaines questions restent sans réponse encore aujourd’hui. J’ai le sentiment de pouvoir humblement creuser ces questions et de faire une différence dans la façon dont nous voyons l’univers.
 <br><br>
 <b>Dans quelles activités de vulgarisation scientifique es-tu impliqué en ce moment?</b>
 <br><br>
@@ -21,14 +21,14 @@ Mon activité de prédilection est de faire visiter l’observatoire Anna McPher
 <br><br>
 <b>Y a-t-il des enjeux de société qui t'interpellent particulièrement?</b>
 <br><br>
-La vulgarisation devrait s’adresser à tous. Plusieurs groupes sont historiquement rattachés au milieu universitaire, mais il est essentiel de l’ouvrir au plus grand bassin démographique possible. L’observation du ciel et l’émerveillement que procure l’astronomie n’est pas et ne devraient pas être limités par des préjugés raciaux, de genre ou de classe.
+La vulgarisation devrait s’adresser à tous. Plusieurs groupes sont historiquement rattachés au milieu universitaire, mais il est essentiel de l’ouvrir au plus grand bassin démographique possible. L’observation du ciel et l’émerveillement que procure l’astronomie ne sont pas et ne devraient pas être limités par des préjugés raciaux, de genre ou de classe.
 <br><br>
 <b>À quoi ressemble ton quotidien en tant qu'étudiant en physique? Quel est ton sujet de recherche?</b>
 <br><br>
-J’étudie plusieurs sujets rattachés aux rayons gamma, la forme de lumière la plus énergétique quiexiste. Ce rayonnement provient des lieux les plus exotiques de l’univers et nous aide à découvrir la physique qui les régit. Je me trouve habituellement soit à Tucson, dans l’Arizona, où je travaille sur les télescopes VERITAS, soit dans mon bureau à McGill, en train d’analyser des données. Une bonne partie de mon travail repose sur des logiciels que j’écris ou que j’aide à entretenir, donc je passe pas mal de temps à coder et à pianoter sur mon clavier.
+J’étudie plusieurs sujets rattachés aux rayons gamma, la forme de lumière la plus énergétique qui existe. Ce rayonnement provient des lieux les plus exotiques de l’univers et nous aide à découvrir la physique qui les régit. Je me trouve habituellement soit à Tucson, dans l’Arizona, où je travaille sur les télescopes VERITAS, soit dans mon bureau à McGill, en train d’analyser des données. Une bonne partie de mon travail repose sur des logiciels que j’écris ou que j’aide à entretenir, donc je passe pas mal de temps à coder et à pianoter sur mon clavier.
 <br><br>
 <b>Nomme une ou un scientifique que le grand public devrait connaître davantage à ton avis. En quoi s’illustre-t-elle?</b>
 <br><br>
-Mary Somerville est une figure historique intéressante sur laquelle les gens lisent trop peu. Ayantdes habiletés et intérêts très diversifiés, elle est la première personne à avoir été décrite comme «scientifique». Un contemporain de Somerville a dit d’elle que «bien que sa tête se trouve parmi les étoiles, ses pieds restent fermement sur Terre», ce qui est un état auquel nous pouvons tous aspirer.
+Mary Somerville est une figure historique intéressante sur laquelle les gens lisent trop peu. Ayant des habiletés et intérêts très diversifiés, elle est la première personne à avoir été décrite comme «scientifique». Un contemporain de Somerville a dit d’elle que «bien que sa tête se trouve parmi les étoiles, ses pieds restent fermement sur Terre», ce qui est un état auquel nous pouvons tous aspirer.
 <br><br>
 <a href="/volunteers/">Back to Volunteer List</a>
