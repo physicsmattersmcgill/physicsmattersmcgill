@@ -13,10 +13,11 @@ image:
 youtube:
 type: lecture
 ---
-*Abstract:*
 <a href="https://us02web.zoom.us/j/83732585664">Zoom Link</a>
 <br>
 <a href="https://tinyurl.com/npuyjtpe">Pre talk question submission</a>
+<br><br>
+*Abstract:*
 <br><br>
 Think small.... really really really small. What does the world looks like and how do we study the natural phenomena that exist at these infinitely small scales? This is the realm of particle physics research.
 <br><br>
