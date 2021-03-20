@@ -4,7 +4,7 @@ meta_description: ""
 speaker: Dr. Tami Pereg-Barnea
 facebook_event:
 speaker_url:
-event-date: 2022-01-21 19:00
+event-date: 2021-01-21 19:00
 event_location: Online Event
 event_location_fr: événement en ligne
 image:
