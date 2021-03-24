@@ -15,7 +15,7 @@ type: lecture
 ---
 <a href="https://us02web.zoom.us/j/83732585664">Zoom Link</a>
 <br>
-<a href="https://tinyurl.com/npuyjtpe">Pre talk question submission</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSda9l4X7OrRG420oiUWNFTkBBlgC-64kt1Sy2aNjB0nQVtk1A/viewform">Pre talk question submission</a>
 <br><br>
 *Abstract:*
 <br><br>
