@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 57 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 68 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/24h-de-science/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/about/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/24h-de-science_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/about_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,24 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/activities/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/404.html</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/activities_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -80,24 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/about/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -110,24 +65,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/about_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/contact_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -140,24 +80,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/educators/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/activities/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/educators_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -170,24 +95,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/events/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/activities_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/events_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -200,24 +110,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/alice_c/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/girls/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -230,24 +125,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/girls_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/alice_c_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -260,24 +140,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/blog/archive/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/lectures/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -290,24 +155,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/atom.xml</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/lectures_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -320,24 +170,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/accueil/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/contact/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/international/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -350,24 +185,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/international_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/contact_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/interns/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -380,24 +200,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/interns_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/educators/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/masterclass/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -410,24 +215,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/masterclass_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/educators_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/mcpherson/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -440,24 +230,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/mcpherson_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/events/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/mpop/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -470,24 +245,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/mpop_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/events_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/partners/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -500,24 +260,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/partners_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/feed.xml</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/past-events/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -530,24 +275,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/past-events_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/girls/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/past-lectures/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -560,24 +290,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/past-lectures_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/girls_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -590,24 +305,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/school-programs/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/humans.txt</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/school-programs_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -620,24 +320,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/search/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/lectures/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search_fr/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -650,24 +335,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/blog/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/students/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -680,24 +350,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/students_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/teacher-training/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -710,24 +365,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/teacher-training_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/lectures_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/upcoming-events/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -740,24 +380,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/upcoming-events_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/accueil/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/videos/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -770,24 +395,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/videos_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/international/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/virtual-space-explorers/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -800,24 +410,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/virtual-space-explorers_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/international_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/visit-department/</loc>
-	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -830,9 +425,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/visit-department_fr/</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/interns/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -845,9 +440,579 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/redirects.json</loc>
+	<loc>https://physicsmatters.physics.mcgill.ca/interns_fr/</loc>
 	
-		<lastmod>2020-10-05T09:56:18-04:00</lastmod>
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/lia_f/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/lia_f_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/masterclass/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/masterclass_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/matt_l/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/matt_l_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/mcpherson/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/mcpherson_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/mpop/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/mpop_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/partners/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/partners_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/past-events/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/past-events_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/past-lectures/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/past-lectures_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/robots.txt</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/school-programs/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/school-programs_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/search/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/search_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/simon_g/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/simon_g_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/sitemap.xml</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/students/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/students_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/teacher-training/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/teacher-training_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/upcoming-events/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/upcoming-events_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/videos/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/videos_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/virtual-space-explorers/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/virtual-space-explorers_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/visit-department/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/visit-department_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://physicsmatters.physics.mcgill.ca/volunteers_fr/</loc>
+	
+		<lastmod>2021-04-19T23:53:15-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
