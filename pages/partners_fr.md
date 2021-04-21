@@ -10,7 +10,7 @@ links:
   - url: https://msi.mcgill.ca/index.php?page=about-astromcgill
     logo: partnerlogo_AstroMcGill.png
   - url: http://www.physics.mcgill.ca/edi/fr
-    text: Comité sur l'équité, la diversité et l'inclusion (EDI) du département de physique
+    logo: partnerlogo_EDI.png
   - url: http://www.physics.mcgill.ca/museum/rutherford_museum.htm
     text: Le musée Rutherford
   - url: https://www.mcgill.ca/ipn/brainreach
