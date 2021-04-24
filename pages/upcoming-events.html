@@ -13,8 +13,6 @@ widget1:
   text: "You won't want to miss our Sink or Float and Craters events for 24 Hours of Science on May 8th, 2021!"
 ---
 
-<h1>Upcoming Events</h1>
-
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
   {% for event in site.events %}

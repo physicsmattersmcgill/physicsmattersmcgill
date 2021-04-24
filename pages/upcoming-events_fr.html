@@ -13,8 +13,6 @@ widget1:
   text: "Vous ne voudrez pas manquer nos événements « Flotte ou coule? » et « Cratères sur la Lune » pour 24 h de science le 8 mai 2021!"
 ---
 
-<h1>Événements à venir</h1>
-
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
   {% for event in site.events %}
