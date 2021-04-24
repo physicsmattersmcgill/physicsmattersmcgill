@@ -78,6 +78,12 @@
   side: left
   dropdown:
     - title:
+        en: "McGill Physics Hackathon"
+        fr: "McGill Physics Hackathon"
+      url:
+        en: "https://www.physics.mcgill.ca/hackathon/"
+        fr: "https://www.physics.mcgill.ca/hackathon/"
+    - title:
         en: "Visit us at McGill"
         fr: "Rendez-nous visite"
       url:
