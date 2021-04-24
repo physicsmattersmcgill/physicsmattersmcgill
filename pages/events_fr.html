@@ -24,7 +24,7 @@ widget3:
 ---
 <p>Pour découvrir comment nous sommes impliquées dans la vulgarisation scientifique à Montréal dans son ensemble, consultez cette <a href="https://storymaps.arcgis.com/stories/310463ae12ae4a8292dab1f6adb86a9b" target="_blank">superbe carte!</a></p>
 <br>
-<h1> Événements à venir:</h1>
+<!--<h1> Événements à venir:</h1>-->
 
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
@@ -60,6 +60,6 @@ widget3:
   {% endfor %}
 
 
-  <p><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/upcoming-events_fr">{{ site.data.language_fr.upcoming_events }}</a></p>
+  <p><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/upcoming-events_fr">Événements à venir</a></p>
 
   <p><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/past-events_fr">{{ site.data.language_fr.past_events }}</a></p>
