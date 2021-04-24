@@ -11,7 +11,7 @@ links:
     logo: partnerlogo_AstroMcGill.png
   - url: http://www.physics.mcgill.ca/edi/
     logo: partnerlogo_EDI.png
-  - url: http://www.physics.mcgill.ca/museum/rutherford_museum.htm
+  - url: http://www.physics.mcgill.ca/museum/index.html
     text: The Rutherford Museum
   - url: https://www.mcgill.ca/ipn/brainreach
     logo: partnerlogo_BrainReach.png

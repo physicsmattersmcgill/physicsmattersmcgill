@@ -2,7 +2,6 @@
 layout: page
 title: "Bring a physicist to your classroom!"
 lang: en
-meta_title: ""
 subheadline: ""
 teaser: ""
 header:
