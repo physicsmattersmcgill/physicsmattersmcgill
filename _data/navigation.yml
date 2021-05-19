@@ -38,6 +38,12 @@
   side: left
   dropdown:
   - title:
+      en: "Virtual Space Explorers"
+      fr: "Les Explorateurs de l’espace - virtuelle"
+    url:
+      en: "/virtual-space-explorers/"
+      fr: "/virtual-space-explorers_fr/"
+  - title:
       en: "Visit us at McGill"
       fr: "Rendez-nous visite"
     url:
@@ -61,12 +67,7 @@
     url:
       en: "/activities/"
       fr: "/activities_fr/"
-  - title:
-      en: "Virtual Space Explorers"
-      fr: "Les Explorateurs de l’espace"
-    url:
-      en: "/virtual-space-explorers/"
-      fr: "/virtual-space-explorers_fr/"
+
 
 - title:
     en: "For students"
@@ -76,6 +77,12 @@
     fr: "/students_fr/"
   side: left
   dropdown:
+    - title:
+        en: "McGill Physics Hackathon"
+        fr: "Hackathon de Physique"
+      url:
+        en: "https://www.physics.mcgill.ca/hackathon/"
+        fr: "https://www.physics.mcgill.ca/hackathon/"
     - title:
         en: "Visit us at McGill"
         fr: "Rendez-nous visite"
@@ -127,6 +134,12 @@
     fr: "/events_fr/"
   side: left
   dropdown:
+  - title:
+      en: "24 hours of Science"
+      fr: "24h de Science"
+    url:
+      en: "/24h-de-science/"
+      fr: "/24h-de-science_fr/"
   - title:
       en: "Physics Matters lecture series"
       fr: "Série de colloques 'La physique dans Tous ses États'"

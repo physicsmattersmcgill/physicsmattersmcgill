@@ -1,11 +1,18 @@
 ---
 layout: frontpage
 title: "Événements à venir"
+lang: fr
 teaser: ""
 permalink: "/upcoming-events_fr/"
 header:
-  image_fullwidth: "header_unsplash_8.jpg"
+  image_fullwidth: "20170504_lecture_2.jpg"
+widget1:
+  title: "24h de Science"
+  url: "/24h-de-science_fr/"
+  image: SoF_ad_smallsmall.png 
+  text: "Vous ne voudrez pas manquer nos événements « Flotte ou coule? » et « Cratères sur la Lune » pour 24 h de science le 8 mai 2021!"
 ---
+
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
   {% for event in site.events %}

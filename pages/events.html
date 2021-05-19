@@ -14,17 +14,16 @@ widget1:
 widget2:
   title: "Physics Hackathon"
   url: "https://www.physics.mcgill.ca/hackathon/"
-  image: hackathon_onetable_whitelogo.jpg
+  image: 2019_hackathon-4.jpg
   text: 'Participant teams will be challenged to use scientific computing tools and/or microelectronic gadgets to demonstrate a concept, phenomenon or application involving the physical sciences.'
 widget3:
   title: "Rutherford Museum"
-  url: "http://www.physics.mcgill.ca/museum/index.htm"
-  image: "http://www.physics.mcgill.ca/museum/ruthleft_copy.jpg"
+  url: "http://www.physics.mcgill.ca/museum/index.html"
+  image: Rutherford_Museum_cabA_cropped.png
   text: 'The Rutherford Museum and the Anna MacPherson collection are open to the public. These collections have a variety of historical devices and memorabilia. To make an appointment, <a href="mailto:curator@physics.mcgill.ca">email the curator</a>.'
 ---
-<p>To see how McGill Physics is involved with outreach in Montreal as a whole, check out this neat <a href="https://storymaps.arcgis.com/stories/310463ae12ae4a8292dab1f6adb86a9b">Outreach Map!</a></p>
-<br>
-<h1> Upcoming Events</h1>
+
+<!--<h1> Upcoming Events</h1>-->
 {% capture now-unix-seconds %}{{ 'now' | date: '%s' }}{% endcapture %}
 
   {% for event in site.events %}
@@ -52,4 +51,10 @@ widget3:
     {% endif %}
   {% endfor %}
 
-<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/past-events">{{ site.data.language.past_events }}</a></p>
+
+<p><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/upcoming-events">Upcoming events</a></p>
+
+<p><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/past-events">{{ site.data.language.past_events }}</a></p>
+
+<p>To see how McGill Physics is involved with outreach in Montreal as a whole, check out this neat <a href="https://storymaps.arcgis.com/stories/310463ae12ae4a8292dab1f6adb86a9b" target="_blank">Outreach Map!</a></p>
+<br>

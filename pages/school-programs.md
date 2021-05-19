@@ -2,14 +2,16 @@
 layout: page
 title: "Bring a physicist to your classroom!"
 lang: en
-meta_title: ""
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "20170506_103837_banner.jpg"
 permalink: "/school-programs/"
 ---
-Our volunteers visit local classrooms for single or multiple visits. Our main effort in this area is the Space Explorers program for primary schools.
+
+Our volunteers visit local classrooms for single or multiple visits. Our main effort in this area is the **Space Explorers** program for primary schools.
+
+**Note that, in response to the pandemic, we are now performing a virtual version of our Space Explorers program for classrooms!** Please visit [this page]({{ site.url }}{{ site.baseurl }}/virtual-space-explorers) for more information.
 
 ## Space Explorers program
 <img src="{{ site.urlimg }}SpaceExplorersLogo.png" alt="Logo of McGill Space Explorers program" style="height:200px; float:left; padding-right:10px;">
@@ -23,6 +25,4 @@ In this program, pairs of physicists visit local primary schools around 5 times 
 - Sink or Float
 - Forces & Friction (New)
 
-The Space Explorers program (formerly Adopt an Astronomer) was started in September 2015, and has since grown to include around 6 classrooms each year, reaching approximately 100 students from ages 9 to 12 (grades 4 - 6).
-
-For more online activities and resources on Science, visit the <a href="https://www.mcgill.ca/science/outreach">Science Outreach</a> page of the Faculty of Science!
+<!--The Space Explorers program (formerly Adopt an Astronomer) was started in September 2015, and has since grown to include around 6 classrooms each year, reaching approximately 100 students from ages 9 to 12 (grades 4 - 6).-->

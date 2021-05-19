@@ -13,7 +13,7 @@ The outreach group in the Department of Physics at McGill University aims to com
 
 # Interested in volunteering?
 
-<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"/> Physics Matters is always happy to count on more student, postdoc, and faculty volunteers. Student volunteers may be eligible for McGill's [co-curricular record program](https://www.mcgill.ca/involvement/ccr).
+<img src="{{ site.urlimg }}McGill_CCR_Approval_Seal.png" alt="Seal of approval for the CCR program" style="height:200px; float:left; padding-right:10px;"/> Physics Matters is always looking for more student, postdoc, and faculty volunteers. Student volunteers may be eligible for McGill's [co-curricular record program](https://www.mcgill.ca/involvement/ccr).
 
 To the question 'Why should I take precious time off my research or classwork to do physics outreach?', here are a couple of answers:
 

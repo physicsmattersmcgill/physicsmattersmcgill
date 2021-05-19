@@ -11,11 +11,21 @@ header:
 
 L’équipe de sensibilisation communautaire du département de Physique de McGill est comprise d’un groupe de bénévolats dévouée qui désirent promouvoir l’éducation de la Physique et de cultiver une passion pour la science dans les membres de la communauté. Nous désirons rendre cette science accessible et agréable à travers des séries de discours public Anna I. MacPherson, ainsi qu’à l’aide de notre programme éducationnelle Exploratrices/Explorateurs de l’espace.
 
+**Notez que plusieurs de nos programmes sont maintenant offerts à distance dès le mars 2020.** Pour l’information plus à jour, veuillez visiter leurs pages respectives!
+
 ### Pour les membres du public intéressés par la physique...
 Nos [conférences publiques]({{ site.url }}{{ site.baseurl }}/lectures_fr) mensuelles se concentrent sur des questions scientifiques d'actualité, et visent une science générale. Nous avons des scientifiques de classe mondiale qui donnent des discours à propos de tout, du Big Bang et des catastrophes naturelles aux matériaux 2D et à la technologie.
 
 ### Pour les élèves...
-Nous organisons des journées [portes ouvertes]({{ site.url }}{{ site.baseurl }}/students_fr) annuelles pour toute personne intéressée à voir nos laboratoires ou à nous poser des questions. Le [hackathon de physique de McGill](https://www.physics.mcgill.ca/hackathon/) est une autre excellente plateforme pour les étudiants intéressés par la physique ou la programmation - tout le monde est le bienvenu avec ou sans expérience, et de tous les groupes d'âge. Enfin, notre [programme d'été olympiade]({{ site.url }}{{ site.baseurl }}/mpop_fr) et nos [stages d'été]({{ site.url }}{{ site.baseurl }}/interns_fr) ouvrent les portes aux jeunes étudiants qui espèrent un jour devenir scientifiques.
+Êtes-vous un étudiant intéressé à travailler avec nous? Veuillez nous contacter au <{{ site.email }}>!
+
+Êtes-vous un étudiant potentiel? Nous organisons des journées [portes ouvertes]({{ site.url }}{{ site.baseurl }}/students_fr) annuelles pour toute personne intéressée à voir nos laboratoires ou à nous poser des questions. 
+
+Enfin et surtout, le [hackathon de physique de McGill](https://www.physics.mcgill.ca/hackathon/) est une autre excellente plateforme pour les étudiants intéressés par la physique ou la programmation - tout le monde est le bienvenu avec ou sans expérience, et de tous les groupes d'âge. 
+
+<!--
+Enfin, notre [programme d'été olympiade]({{ site.url }}{{ site.baseurl }}/mpop_fr) et nos [stages d'été]({{ site.url }}{{ site.baseurl }}/interns_fr) ouvrent les portes aux jeunes étudiants qui espèrent un jour devenir scientifiques.
+-->
 
 ### Pour les enseignants...
 Nous voulons donner aux enseignants les moyens de se sentir à l'aise et heureux d'enseigner la physique! Le [programme des explorateurs de l'espace]({{ site.url }}{{ site.baseurl }}/school-programs_fr) se comprend d’un groupe de bénévoles allant aux écoles pour enseigner des modules durant une heure aux jeunes étudiants, en utilisant des techniques d'apprentissage fondées sur des preuves. Notre collaboration annuelle avec [l'Institut d'enquête]({{ site.url }}{{ site.baseurl }}/teacher-training_fr) se concentre plus directement sur les enseignants, dans l'espoir de promouvoir des techniques d'enseignement et des méthodes propices à l'apprentissage des sciences.
@@ -28,15 +38,20 @@ Nous voulons donner aux enseignants les moyens de se sentir à l'aise et heureux
       <b>Nicholas Vieira</b><br/>
       Coordinateur - la physique dans tous ses états
   </div>
-  <div class="column column-block t30" style="width: 270px">
-      <img src="http://www.physics.mcgill.ca/~outreach/team/Sabrina_Berger.png" class="thumbnail" alt=""/><br/>
-      <b>Sabrina Berger</b><br/>
-      Coordinatrice - la physique dans tous ses états
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Alice_Curtin.jpg" class="thumbnail" alt=""/><br/>
+      <b>Alice Curtin</b><br/>
+      Coordinatrice - Explorateurs de l’espace
   </div>
-  <div class="column column-block t30" style="width: 270px">
-      <img src="http://www.physics.mcgill.ca/~outreach/team/Francois_Bourassa.jpg" class="thumbnail" alt=""/><br/>
-      <b>François Bourassa</b><br/>
-      Coordinateur - la physique dans tous ses états
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Simon_Guichandut.png" class="thumbnail" alt=""/><br/>
+      <b>Simon Guichandut</b><br/>
+      Directeur de conférences publiques<sup>†</sup>
+  </div>
+  <div class="column column-block t30 end" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Lia_Formenti.png" class="thumbnail" alt=""/><br/>
+      <b>Lia Formenti</b><br/>
+      Directrice de conférences publiques
   </div>
   <div class="column column-block t30" style="width: 270px">
       <img src="http://www.physics.mcgill.ca/~outreach/team/Kim_Metera.jpg" class="thumbnail" alt=""/><br/>
@@ -49,26 +64,28 @@ Nous voulons donner aux enseignants les moyens de se sentir à l'aise et heureux
       Directeur du comité de vulgarisation de la physique
   </div>
   <div class="column column-block t30 end" style="width: 270px">
-      <img src="http://www.physics.mcgill.ca/~outreach/team/Alice_Curtin.jpg" class="thumbnail" alt=""/><br/>
-      <b>Alice Curtin</b><br/>
-      Coordinatrice - Explorateurs de l’espace
-  </div>
-  <div class="column column-block t30 end" style="width: 270px">
-      <img src="http://www.physics.mcgill.ca/~outreach/team/Lia_Formenti.png" class="thumbnail" alt=""/><br/>
-      <b>Lia Formenti</b><br/>
-      Directrice de conférences publiques
-  </div>
-  <div class="column column-block t30 end" style="width: 270px">
-      <img src="http://www.physics.mcgill.ca/~outreach/team/Simon_Guichandut.png" class="thumbnail" alt=""/><br/>
-      <b>Simon Guichandut</b><br/>
-      Directeur de conférences publiques
-  </div>
-  <div class="column column-block t30 end" style="width: 270px">
       <img src="http://www.physics.mcgill.ca/~outreach/team/Sarah_Fairbrother.jpg" class="thumbnail" alt=""/><br/>
       <b>Sarah Fairbrother</b><br/>
       Webmestre
   </div>
+  <!--<div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Sabrina_Berger.png" class="thumbnail" alt=""/><br/>
+      <b>Sabrina Berger</b><br/>
+      Coordinatrice - la physique dans tous ses états
+  </div>-->
+  <!--<div class="column column-block t30" style="width: 270px">
+      <img src="http://www.physics.mcgill.ca/~outreach/team/Francois_Bourassa.jpg" class="thumbnail" alt=""/><br/>
+      <b>François Bourassa</b><br/>
+      Coordinateur - la physique dans tous ses états
+  </div>-->
 </div>
 
+***
+
+**Et surtout plusieurs bénévoles inspirants et passionnés, sans lesquels nos programmes ne seraient pas possibles!**
+
+<sup>†</sup>Aussi coordinateur pour [AstroMcGill](https://msi.mcgill.ca/index.php?page=about-astromcgill).
+
 <!-- #### Bénévole du programme des explorateurs de l'espace
+(THIS LIST IS SUPER OUT OF DATE)
 Daniel Abarbanel, Maddy Anthonisen, Alaina Bui, Lisa Dang, Yan Gobeil, Kays Haddad, Jenny Long, Kevin Murray, Matthew Rigby, Cindy Shaheen, Anh-Khoi Trinh, Juliann Wray -->
