@@ -17,7 +17,7 @@ tags:
   - Instrumentation
   - Space exploration
   - NASA
-bilingual: true
+# bilingual: true
 abstract: For our first event of the Fall, we are excited to bring you a panel with three McGill Researchers who study our fascinating neighbor, Mars!
 Come and hear the exciting work that Erin Gibbons, Debarati Das, and Richard Léveillé do related to Mars, its habitability, and the high-tech robots that we land on its surface!
 You have questions? They have answers! This will be an interactive event where you will be able to ask questions and have the panelists discuss them at length.
