@@ -1,6 +1,6 @@
 ---
 title: "Talking with Martians: A panel on red-planet research"
-meta_description: For our first event of the Fall, we are excited to bring you a panel with three McGill Researchers who study our fascinating neighbor, Mars!
+meta_description: "For our first event of the Fall, we are excited to bring you a panel with three McGill Researchers who study our fascinating neighbor, Mars!"
 meta_description_fr: Pour notre premier événement de l'automne, nous sommes heureux de vous présenter un panel avec trois chercheurs de McGill qui étudient notre voisine fascinante, Mars!
 speaker: Debarati Das (PhD student), Erin Gibbons (PhD student), Richard Léveillé (Professor)
 event-date: 2021-09-22 19:00 # date and time the event starts- the format is important!
@@ -9,7 +9,7 @@ event_location_fr: événement en ligne
 image:
     title: mars_panel_poster.png
     thumb: mars_panel_thumb.png
-type: panel
+type: lecture
 tags:
   - Mars
   - Geochemistry
