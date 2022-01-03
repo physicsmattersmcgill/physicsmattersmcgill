@@ -1,6 +1,5 @@
 ---
 title: "Talking with Martians: A panel on red-planet research"
-title_fr: "Talking with Martians: A panel on red-planet research"
 meta_description: "For our first event of the Fall, we are excited to bring you a panel with three McGill Researchers who study our fascinating neighbor, Mars!"
 meta_description_fr: "Pour notre premier événement de l'automne, nous sommes heureux de vous présenter un panel avec trois chercheurs de McGill qui étudient notre voisine fascinante, Mars!"
 speaker: Erin Gibbons (PhD candidate), Debarati Das (PhD candidate) and Richard Léveillé (Professor) at McGill University
@@ -13,7 +12,6 @@ image:
     title: mars_panel_poster.png
     thumb: mars_panel_thumb.png
 youtube:
-bilingual: true
 type: lecture
 ---
 <a href="https://mcgill.zoom.us/j/89890072720">Zoom Link</a>
