@@ -20,5 +20,3 @@ type: lecture
 <br><br>
 *Abstract:*
 For our first event of the Fall, we are excited to bring you a panel with three McGill Researchers who study our fascinating neighbor, Mars!
-
-
