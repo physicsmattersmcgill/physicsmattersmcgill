@@ -26,7 +26,9 @@ You have questions? They have answers! This will be an interactive event where y
 We also strongly encourage to ask questions in advance! Any question related to Mars, ask here: <https://forms.gle/WU1X4RWQb4pifzz99>
 As usual, the event will be taking place over Zoom (link will be posted shortly), and livestreamed to Youtube. Go to our Facebook event page for details on how-to stream! <https://fb.me/e/dNY4metHD>
 See you on September 22nd!
+
 ...
+
 Pour notre premier événement de l'automne, nous sommes heureux de vous présenter un panel avec trois chercheurs de McGill qui étudient notre voisine fascinante, Mars!
 Venez entendre parler du travail passionnant que Erin Gibbons, Debarati Das et Richard Léveillé font relié à Mars, son habitabilité, et les robots high-tech qu'on envoie à sa surface!
 Vous avez des questions? Ils ont des réponses! L'événement sera interactif, et les panélistes pourront discuter de vos questions en profondeur.
