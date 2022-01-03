@@ -12,6 +12,7 @@ image:
     title: mars_panel_poster.png
     thumb: mars_panel_thumb.png
 youtube:
+bilingual: true
 type: lecture
 ---
 <a href="https://mcgill.zoom.us/j/89890072720">Zoom Link</a>
