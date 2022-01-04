@@ -14,7 +14,7 @@ image:
 youtube:
 type: lecture
 ---
-<a href="https://mcgill.zoom.us/j/89890072720">Zoom Link</a>
+<a href="https://youtu.be/08oQFlXAh_Y">Youtube</a>
 <br>
 <a href="https://forms.gle/WU1X4RWQb4pifzz99">Pre talk question submission</a>
 <br>
@@ -23,7 +23,7 @@ For our first event of the Fall, we are excited to bring you a panel with three 
 Come and hear the exciting work that Erin Gibbons, Debarati Das, and Richard Léveillé do related to Mars, its habitability, and the high-tech robots that we land on its surface!
 You have questions? They have answers! This will be an interactive event where you will be able to ask questions and have the panelists discuss them at length.
 We also strongly encourage to ask questions in advance! Any question related to Mars, ask here: <https://forms.gle/WU1X4RWQb4pifzz99>
-As usual, the event will be taking place over Zoom (link will be posted shortly), and livestreamed to Youtube. Go to our Facebook event page for details on how-to stream! <https://fb.me/e/dNY4metHD>
+As usual, the event will be taking place over Zoom, and livestreamed to Youtube. Go to our Facebook event page for details on how-to stream! <https://fb.me/e/dNY4metHD>
 See you on September 22nd!
 
 ...
@@ -32,7 +32,7 @@ Pour notre premier événement de l'automne, nous sommes heureux de vous présen
 Venez entendre parler du travail passionnant que Erin Gibbons, Debarati Das et Richard Léveillé font relié à Mars, son habitabilité, et les robots high-tech qu'on envoie à sa surface!
 Vous avez des questions? Ils ont des réponses! L'événement sera interactif, et les panélistes pourront discuter de vos questions en profondeur.
 Nous vous encourageons aussi à poser des questions à l'avance! Pour toute interrogation concernant Mars, écrivez nous ici: <https://forms.gle/WU1X4RWQb4pifzz99>
-Comme d'habitude, l'événement se déroulera sur Zoom (lien à venir), et diffusé en direct sur Youtube. Visitez notre Facebook event page pour les détails de la diffusion! <https://fb.me/e/dNY4metHD> 
+Comme d'habitude, l'événement se déroulera sur Zoom, et diffusé en direct sur Youtube. Visitez notre Facebook event page pour les détails de la diffusion! <https://fb.me/e/dNY4metHD> 
 Notez qu'il se déroulera en anglais, mais vous pourrez tout de même poser des questions en français qui seront traduites.
 On se voit le 22 septembre!
 
