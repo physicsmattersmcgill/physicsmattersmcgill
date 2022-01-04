@@ -10,9 +10,9 @@ event-date: YYYY-MM-DD HH:MM # date and time the event starts- the format is imp
 image:
     title: lecture_hall_empty.jpg
     thumb: thumb_lecture_hall_empty.jpg
-type: event-type #(OPTIONAL unless it's a Physics Matters lecture.)
 tags:
   - these are optional (delete if no tags)
+type: event-type #(OPTIONAL unless it's a Physics Matters lecture, in which case the type must be 'lecture' so the event is correctly classified as "upcoming" or "past".)
 ---
 *français suivre.*
 
