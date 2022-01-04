@@ -12,7 +12,7 @@ image:
 youtube:
 type: lecture
 ---
-<a href="https://mcgill.zoom.us/j/82358869262">Zoom Link</a>
+<a href="https://youtu.be/g-BEwDwOS6k">Youtube</a>
 <br>
 <br><br>
 
