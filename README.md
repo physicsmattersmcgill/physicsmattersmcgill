@@ -35,10 +35,11 @@ New events are added as elements of a jekyll collection - this is called the eve
 ## Naming convention for the event files
 To help things stay organized: for all events that are NOT physics matters public lectures, please include the date as first part of the file name using the format `YYYY-MM-DD`.
 
-For a Physics Matters public lecture, start the event with `lecture-`. For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`. Note that the McPherson lectures should not be in this category, since they are another program, and have their own page.
+For a Physics Matters public lecture, start the event with `lecture-`. For example, this might be the filename for a public lecture: `lecture-YYYY-MM-DD-shorttopicname.md`. Note that the McPherson lectures should not be in this category, since they are another program, and have their own page. Note that the event type in a Physics Matters public lecture markdown file must be 'lecture' to for the website code to correctly classify the event as "upcoming" or "past."
 
-Each of the events has frontmatter which will help define it as an event and make sure the style and formatting is consistent on the website. The frontmatter is in between the three dashes (`---` both above and below). Here is the frontmatter for an event (comments after `#` are ignored by jekyll and are there to explain the field)
+Each of the events has frontmatter which will help define it as an event and make sure the style and formatting is consistent on the website. The frontmatter is in between the three dashes (`---` both above and below). Here is the frontmatter for an event (comments after `#` are ignored by jekyll and are there to explain the field). You can copy this or the markdown of another event to use as a template.
 ```
+---
 title: "Title in English"
 title_fr: "Title in French (OPTIONAL - delete if no title)"
 meta_description: "Short description that goes on the event listing page. Note: Do NOT use the full abstract - it is too long! Break up the title if it's long and/or use 1-2 sentences from the abstract."
@@ -50,13 +51,15 @@ event-date: YYYY-MM-DD HH:MM # date and time the event starts- the format is imp
 image:
     title: lecture_hall_empty.jpg
     thumb: thumb_lecture_hall_empty.jpg
-type: lecture
 tags:
   - nonlinear physics
   - solid state physics
   - etc.
   - These are optional
 bilingual: true/false #OPTIONAL - if a French title exists, then the page will be bilingual. If there is no alternative title in French, then this defaults to false and a message shows up to say that the page is not available in French. Set to true only to override this behavior (no alternative title in French, but you don't want the message to show up to say the page is not available in French.)
+type: lecture
+---
+Put any other formatting here, like a copy of the talk content description (abstract) in English or French
 ```
 Finally, add a description of the event in the markdown file below the frontmatter. Feel free to use any markdown styling (see examples.) This may be an abstract, or two bilingual descriptions of an event.
 
