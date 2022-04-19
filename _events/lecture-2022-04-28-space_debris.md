@@ -7,8 +7,8 @@ facebook_event: Click <a href="https://fb.me/e/6epoT2pQF">here</a> for the faceb
 event-date: 2022-02-15 19:00 # date and time the event starts- the format is important!
 event_location: Online Event
 image:
-    title: space_debris-banner.jpg
-    thumb: space_debris-thumb.jpg
+    title: space_debris-banner.png
+    thumb: space_debris-thumb.png
 tags:
   - engineering
   - space travel
