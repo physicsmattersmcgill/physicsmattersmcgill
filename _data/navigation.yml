@@ -90,35 +90,11 @@
         en: "/students/"
         fr: "/students_fr/"
     - title:
-        en: "ATLAS Masterclass"
-        fr: "Masterclasse d'ATLAS"
-      url:
-        en: "/masterclass/"
-        fr: "/masterclass_fr/"
-    - title:
         en: "McGill Physics Olympiad Program"
         fr: "Programme d'olympiade de physique à McGill"
       url:
         en: "/mpop/"
         fr: "/mpop_fr/"
-    - title:
-        en: "Summer Internships"
-        fr: "Stages d'été"
-      url:
-        en: "/interns/"
-        fr: "/interns_fr/"
-    - title:
-        en: "Physics Matters to the World"
-        fr: "La physique compte pour le monde"
-      url:
-        en: "/international/"
-        fr: "/international_fr/"
-    - title:
-        en: "Girls in Physics Day"
-        fr: "Journée des Filles en Physique"
-      url:
-        en: "/girls/"
-        fr: "/girls_fr/"
     - title:
         en: "Physicists on Camera"
         fr: "La physique à l’écran"
