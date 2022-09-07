@@ -38,20 +38,14 @@
   side: left
   dropdown:
   - title:
-      en: "Virtual Space Explorers"
-      fr: "Les Explorateurs de l’espace - virtuelle"
-    url:
-      en: "/virtual-space-explorers/"
-      fr: "/virtual-space-explorers_fr/"
-  - title:
       en: "Visit us at McGill"
       fr: "Rendez-nous visite"
     url:
       en: "/visit-department/"
       fr: "/visit-department_fr/"
   - title:
-      en: "Visits to your classroom"
-      fr: "Visite dans votre classe"
+      en: "Space Explorers"
+      fr: "Les Explorateurs de l’espace - virtuelle"
     url:
       en: "/school-programs/"
       fr: "/school-programs_fr/"
@@ -67,6 +61,12 @@
     url:
       en: "/activities/"
       fr: "/activities_fr/"
+  - title:
+      en: "Science in Space"
+      fr: "Sciences dans l'espace"
+     url:
+      en: "/science_in_space/"
+      fr: "/science_in_space_fr/"
 
 
 - title:
