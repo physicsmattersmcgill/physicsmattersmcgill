@@ -50,8 +50,8 @@
       en: "/school-programs/"
       fr: "/school-programs_fr/"
   - title:
-      en: "Physics for teachers"
-      fr: "La physique pour les enseignants"
+      en: "Inquiry Institute"
+      fr: "Institut d'enquête"
     url:
       en: "/teacher-training/"
       fr: "/teacher-training_fr/"
@@ -61,6 +61,12 @@
     url:
       en: "/activities/"
       fr: "/activities_fr/"
+  - title:
+      en: "Science in Space"
+      fr: "Sciences dans l'espace"
+    url:
+      en: "https://www.scienceinspace.ca"
+      fr: "https://www.scienceinspace.ca"
 - title:
     en: "For students"
     fr: "Pour les élèves"
