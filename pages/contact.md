@@ -23,4 +23,4 @@ To the question 'Why should I take precious time off my research or classwork to
 - Broaden your network and opens doors to alternate career paths after graduation.
 - Practice your French or English.
 
-Interested? Send an email to <{{ site.email }}> and we will add you to the Physics Matters volunteers email list where you will hear about planning meetings and volunteer opportunities.
+Interested? Send an email to <{{ site.email }}> and we will send you a link to the Physics Matters volunteers slack where you will hear about planning meetings and volunteer opportunities.
