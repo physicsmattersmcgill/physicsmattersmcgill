@@ -61,14 +61,6 @@
     url:
       en: "/activities/"
       fr: "/activities_fr/"
-  - title:
-      en: "Science in Space"
-      fr: "Sciences dans l'espace"
-     url:
-      en: "/science_in_space/"
-      fr: "/science_in_space_fr/"
-
-
 - title:
     en: "For students"
     fr: "Pour les élèves"
