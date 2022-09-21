@@ -18,21 +18,13 @@ The type of person who should sign-up for this program is a high-school or CEGEP
 It could also be advantageous if participating students have some familiarity with more advanced physics concepts and calculus, but this is not required.  Moreover, exceptional performance within these contests are well recognized within top universities in the United States, United Kingdom and elsewhere.
 
 # How to join?
-Start by filling out our registration form found [here](https://docs.google.com/forms/d/e/1FAIpQLSdhTXEYSGKANFNZWPbj30PgxP1_KkYtYBRBtxzkuAIyN-BrwA/viewform). 
+Coming soon!
 
 # How much does it cost?
-MPOP is free of charge! If you're a passionate CEGEP or high-school student and would like to learn more than what's taught in your physics classes, then you are more than welcome to join us!  We are also planning on providing food during the session thanks to the McGill Physics Department's generous donation.  
+MPOP is free of charge! If you're a passionate CEGEP or high-school student and would like to learn more than what's taught in your physics classes, then you are more than welcome to join us!   
 
 # Who is running the program?
-MPOP is entirely student run!  Abtin and Vincent started it after having met at the Canadian Physics Olympiad of 2016 in Vancouver.  Our goal is to share our passion for physics while providing guidance and an environment which we both would have benefited from when preparing for the Olympiads.  Right now, the team and initiative has grown in order to best prepare local students.
-
-Abtin Ameri is a Honours Mechanical Engineering student from Toronto at McGill minoring in Physics (class of 2020). He scored fifth on the 2016 CAP Exam, giving him the opportunity to compete in the Canadian Physics Olympiad in Vancouver. Abtin believes in the importance of MPOP as it gives an additional boost to students who are preparing for prestigious physics competitions. It also gives the students an opportunity to meet other like-minded people who share the same passion as them.
-
-An Vuong is an Honours Physics student at McGill University (class of 2020) originally from Vietnam. He graduated from the "Vietnam National University - High School for the Gifted" with a major in Physics. He received training for 2 years at his home high school, 3 weeks of extensive training in Hanoi and ranked 42nd nationwide in the Vietnam National Physics Olympiad. With experience from his previous training, An hopes to provide Quebec students with all essential resources and help them be well-prepared for Olympiads in Canada.
-
-Rubert Martin is a Nuclear Engineer currently pursuing a PhD. degree in Mechanical Engineering at McGill University. As a high school student in Cuba, he participated in Cuban National Physics Olympiads for three consecutive years, 2006 to 2008, winning Gold Medals in all three of them. That allowed him to compete in the XIII Iberoamerican Physics Olympiad (Mexico, 2008) where he won a Gold Medal and in the XL International Physics Olympiad (IPhO Mexico, 2009) where he won a Silver Medal. After his years as a high schooler he used his gained experience to train and motivate students in Cuba and Argentina to participate in these olympiads and to pursue careers in Science and Engineering.
-
-Vincent Van Duong is a Honours Mathematics and Physics major (class of 2020) at McGill and completed CEGEP in Montreal. Vincent received the highest score in Quebec and scored ninth on the 2016 CAP Exam. He was also invited to the national finals at the University of British Columbia for the CPO. As Vincent is from Montreal originally, he supports this initiative because Quebec students are often underrepresented at Canadian physics Olympiads and hopes to help make this change.
+MPOP is entirely student run! Sessions are led by graduate students with visits from physics professors at McGill. 
 
 # Additional Links
 - [MPOP Facebook Page](https://www.facebook.com/McGillPOP/)
